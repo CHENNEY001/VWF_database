@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="zh_CN" xmlns="http://www.w3.org/1999/html">
+<head>
+    <meta charset="UTF-8">
+    <title>VWF数据库</title>
+    <link rel="stylesheet" href="../css/mmc.css" type="text/css">
+    <script src="../Js/search1.js" type="text/javascript"></script>
+</head>
+<body>
+<div id="total1">
+    <div class="top">
+        <a href="../php_for_all/main_search.php?permit=<?php echo $permit ;?>" id="none">VWD患者数据库</a> &nbsp;&nbsp;
+        <a href="../php_for_all/mmc.php?permit=<?php echo $permit ;?>" id="none1">VWF突变数据库</a>
+    </div>
+    <div class="main">
+        <div>
+            <select id="s" class="sel">
+                <option selected>VWD type</option>
+                <option>Mutant region</option>
+                <option>Mutation type</option>
+                <option>Amino acid exchange</option>
+                <option>Nucleotide change</option>
+                <option>Inheritance</option>
+                <option>Inheritance related</option>
+            </select>
+            <input id="search" class="inp" type="text" placeholder="请输入搜索内容"/>
+            <button id="qstnMark" onclick="search1()">精确匹配</button>
+            <button id="qstnMark2" onclick="search2()">模糊匹配</button>
+            <a href="../html/add_mmc.html?permit=<?php echo $permit;?>"><button id="addTmplFile">新增突变信息&nbsp;&nbsp;</button></a>
+            <!--            <a href="../html/add.html?permit=<?php echo $permit;?>"><button id="addTmplFile2">文件上传</button></a>-->
+            <!--            <button id="addTmplFile" onclick="window.open('../html/add.html? permit = <?php echo $permit ;?>')">新增突变信息</button>-->
+        </div>
+        <div style="width:1920px; height:1080px; overflow:scroll;">
+            <table id="table1" cellspacing="0px">
+                <tr class="tableTitle" align="center">
+                    <td class="col1">VWD type</td>
+<!--                    <td class="col3">Mutant region</td>-->
+                    <td class="col3">Mutation type</td>
+                    <td class="col3">Amino acid exchange</td>
+                    <td class="col3">Nucleotide change</td>
+                    <td class="col3">Inheritance</td>
+                    <td class="col3">Inheritance related</td>
+                    <td class="col7">Domain</td>
+                    <td class="col3">Location</td>
+                    <td class="col3">Plasma multimers</td>
+                    <td class="col3">In vitro multimers</td>
+                    <td class="col3">Increased clearance</td>
+                    <td class="col3">Decreased secretion in vitro</td>
+                    <td class="col3">Extra remarks</td>
+                    <td class="col8">References</td>
+                    <td class="col7">Comments</td>
+                </tr>
+                <?php foreach($records as $k => $record):?>
+                <tr class="table1 td" align="center">
+                    <td class="col1"><?php if (empty($record['VWD_type'])){echo '/';} else{echo $record['VWD_type'] ;}?></td>
+<!--                    <td class="col3"><?php if (empty($record['Mutant_region'])){echo '/';} else{echo $record['Mutant_region'] ;}?></td>-->
+                    <td class="col3"><?php if (empty($record['Mutation_type'])){echo '/';} else{echo $record['Mutation_type'] ;}?></td>
+                    <td class="col3"><?php if (empty($record['Amino_acid_exchange'])){echo '/';} else{echo $record['Amino_acid_exchange'] ;}?></td>
+                    <td class="col3"><?php if (empty($record['Nucleotide_change'])){echo '/';} else{echo $record['Nucleotide_change'] ;}?></td>
+                    <td class="col3"><?php if (empty($record['Inheritance'])){echo '/';} else{echo $record['Inheritance'] ;}?></td>
+                    <td class="col3"><?php if (empty($record['Inheritance_related'])){echo '/';} else{echo $record['Inheritance_related'] ;}?></td>
+                    <td class="col7"><?php if (empty($record['Domain'])){echo '/';} else{echo $record['Domain'] ;}?></td>
+                    <td class="col3"><?php if (empty($record['Location'])){echo '/';} else{echo $record['Location'] ;}?></td>
+                    <td class="col3"><?php if (empty($record['Plasma_multimers'])){echo '/';} else{echo $record['Plasma_multimers'] ;} ?></td>
+                    <td class="col3"><?php if (empty($record['In_vitro_multimers'])){echo '/';} else{echo $record['In_vitro_multimers'] ;} ?></td>
+                    <td class="col3"><?php if (empty($record['Increased_clearance'])){echo '/';} else{echo $record['Increased_clearance'] ;} ?></td>
+                    <td class="col3"><?php if (empty($record['Decreased_secretion_in_vitro'])){echo '/';} else{echo $record['Decreased_secretion_in_vitro'] ;} ?></td>
+                    <td class="col3"><?php if (empty($record['Extra_remarks'])){echo '/';} else{echo $record['Extra_remarks'] ;} ?></td>
+                    <td class="col8"><?php if (empty($record['References'])){echo '/';} else{echo $record['References'] ;} ?></td>
+                    <td class="col7"><?php if (empty($record['Comments'])){echo '/';} else{echo $record['Comments'] ;} ?></td>
+                </tr>
+                <?php endforeach;?>
+            </table>
+        </div>
+        <div id="lowerLbl" align="center">
+            <select id="sel" onclick="pagination()">
+                <option id="opt0" value="10">10条/页</option>
+                <option id="opt1" value="20">20条/页</option>
+                <option id="opt2" value="50">50条/页</option>
+            </select>
+            &nbsp;
+            <button onclick="last()"><</button>
+            <button id="pno" style="background-color: #5899ce; color: white">1</button>
+            <button onclick="next()">></button>
+            &nbsp;
+            <p>前往</p>
+            <input type="text" id="gopg" onclick="gopage()" />
+            <p>页</p>
+        </div>
+    </div>
+</div>
+</body>
+</html>

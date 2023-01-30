@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="zh_CN">
+<head>
+    <meta charset="UTF-8">
+    <title>VWF突变信息管理</title>
+    <link rel="stylesheet" href="../css/search.css" type="text/css">
+    <script src="../Js/search.js" type="text/javascript"></script>
+</head>
+<body>
+<div id="total1">
+    <div class="top">
+        <a href="../php_vwf/search.php">VWF突变信息管理</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="../php_patient/patient_search.php" target="_self">VWD患者信息管理</a>
+    </div>
+    <div class="main">
+        <div>
+            <select id="s" class="sel">
+                <option selected>id</option>
+                <option>Mutant region</option>
+                <option>VWD type</option>
+                <option>Mutant type</option>
+                <option>Inheritance</option>
+                <option>Location</option>
+                <option>Nucleotide change</option>
+                <option>Amino acid exchange</option>
+            </select>
+            <input id="search" class="inp" type="text" placeholder="请输入搜索内容"/>
+            <button id="qstnMark" onclick="search1()">精确匹配</button>
+            <button id="qstnMark2" onclick="search2()">模糊匹配</button>
+            <button id="addTmplFile" onclick="window.open('../php_vwf/jump.php')">新增突变信息</button>
+        </div>
+        <div style="width:1920px; height:1080px; overflow:scroll;">
+            <table id="table1" cellspacing="0px">
+                <thead>
+                    <tr class="tableTitle" align="center">
+                        <td class="col1">patient id</td>
+                        <td class="col2">Mutant region</td>
+                        <td class="col3">VWD type</td>
+                        <td class="col11">Mutant type</td>
+                        <td class="col4">Inheritance</td>
+                        <td class="col5">Location</td>
+                        <td class="col6">Nucleotide change</td>
+                        <td class="col7">Amino acid exchange</td>
+                        <td class="col8">References</td>
+                        <td class="col9">Comments</td>
+                        <td class="col10">操作</td>
+                    </tr>
+                </thead>
+                <?php foreach($mutations as $k => $mutation):?>
+                <tr class="table1 td" align="center">
+                    <td class="col1"><?php echo $mutation['id'] ;?></td>
+                    <td class="col2"><?php echo $mutation['Mutant region'] ;?></td>
+                    <td class="col3"><?php echo $mutation['VWD type'] ;?></td>
+                    <td class="col11"><?php echo $mutation['Mutation type'] ;?></td>
+                    <td class="col4"><?php echo $mutation['Inheritance'] ;?></td>
+                    <td class="col5"><?php echo $mutation['Location'] ;?></td>
+                    <td class="col6"><?php echo $mutation['Nucleotide change'] ;?></td>
+                    <td class="col7"><?php echo $mutation['Amino acid exchange'] ;?></td>
+                    <td class="col8"><?php echo $mutation['References'] ;?></td>
+                    <td class="col9"><?php echo $mutation['Comments'] ;?></td>
+                    <td class="col10">
+                        <a href="../php_vwf/update.php?id=<?php echo $mutation['id'] ;?> " onclick="return confirm('确定修改此条纪录？');" target="_self">编辑 |</a>
+                        <a href="../php_vwf/delete.php?id=<?php echo $mutation['id'] ;?>" onclick="return confirm('确定删除此条纪录？');" target="_self"> 删除</a>
+                    </td>
+                </tr>
+                <?php endforeach;?>
+            </table>
+        </div>
+        <div id="lowerLbl" align="center">
+            <select id="sel" onclick="pagination()">
+                <option id="opt0" value="10">10条/页</option>
+                <option id="opt1" value="20">20条/页</option>
+                <option id="opt2" value="50">50条/页</option>
+            </select>
+            &nbsp;
+            <button onclick="last()"><</button>
+            <button id="pno" style="background-color: #5899ce; color: white">1</button>
+            <button onclick="next()">></button>
+            &nbsp;
+            <p>前往</p>
+            <input type="text" id="gopg" onclick="gopage()" />
+            <p>页</p>
+        </div>
+    </div>
+
+</div>
+</body>
+</html>

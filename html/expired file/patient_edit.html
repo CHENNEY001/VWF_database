@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>VWD患者信息修改</title>
+    <link rel="stylesheet" href="../css/search.css" type="text/css">
+    <!--    <script src="../Js/search.js" type="text/javascript"></script>-->
+</head>
+<body>
+<div id = "total1">
+    <div class="top">
+        VWD患者信息列表
+        <p style="display: inline; color: #999999"> > VWD患者信息管理 </p>
+    </div>
+    <form action="../php_patient/patient_alert.php" method="POST" target="_self">
+        <div class="main" align="center">
+            <table id="table2" cellspacing="18px">
+                <tr class="table2Tr">
+                    <td class="table2Td1" align="right"><p>*</p>patient id</td>
+                    <td class="table2Td2"><input id="id" type="text" name="id" placeholder="patient id" value="<?php echo $patient['id']; ?>"/></td>
+                    <td class="table2Td1" align="right">APTT</td>
+                    <td class="table2Td2"><input id="APTT" type="text" name="APTT" placeholder="APTT" value="<?php echo $patient['APTT']; ?>"/></td>
+                </tr>
+                <tr class="table2Tr">
+                    <td class="table2Td1" align="right">VWF:Ag(%)</td>
+                    <td class="table2Td2"><input id="VWF:Ag(%)" type="text" name="VWF:Ag(%)" placeholder="VWF:Ag(%)" value="<?php echo $patient['VWF:Ag(%)']; ?>"/></td>
+                    <td class="table2Td1" align="right">VWF:RCo(%)</td>
+                    <td class="table2Td2"><input id="VWF:RCo(%)" type="text" name="VWF:RCo(%)" placeholder="VWF:RCo(%)" value="<?php echo $patient['VWF:RCo(%)']; ?>"/></td>
+                </tr>
+                <tr class="table2Tr">
+                    <td class="table2Td1" align="right">RIPA(1.2mg/ml, %)</td>
+                    <td class="table2Td2"><input id="RIPA(1.2mg/ml, %)" type="text" name="RIPA(1.2mg/ml, %)" placeholder="RIPA(1.2mg/ml, %)" value="<?php echo $patient['RIPA(1.2mg/ml, %)']; ?>"/></td>
+                    <td class="table2Td1" align="right">FVIII:C(%)</td>
+                    <td class="table2Td2"><input id="FVIII:C(%)" type="text" name="FVIII:C(%)" placeholder="FVIII:C(%)" value="<?php echo $patient['FVIII:C(%)']; ?>"/></td>
+                </tr>
+                <tr class="table2Tr">
+                    <td class="table2Td1" align="right">VWF:CB(%)</td>
+                    <td class="table2Td2"><input id="VWF:CB(%)" type="text" name="VWF:CB(%)" placeholder="VWF:CB(%)" value="<?php echo $patient['VWF:CB(%)']; ?>"/></td>
+                    <td class="table2Td1" align="right">VWFpp(%)</td>
+                    <td class="table2Td2"><input id="VWFpp(%)" type="text" name="VWFpp(%)" placeholder="VWFpp(%)" value="<?php echo $patient['VWFpp(%)']; ?>"/></td>
+                </tr>
+                <tr class="table2Tr">
+                    <td class="table2Td1" align="right">Blood Type</td>
+                    <td class="table2Td2"><input id="Blood Type" type="text" name="Blood Type" placeholder="Blood Type" value="<?php echo $patient['Blood Type']; ?>"/></td>
+                    <td class="table2Td1" align="right">Age</td>
+                    <td class="table2Td2"><input id="Age" type="text" name="Age" placeholder="Age" value="<?php echo $patient['Age']; ?>"/></td>
+                </tr>
+                <tr class="table2Tr">
+                    <td class="table2Td1" align="right">Gender</td>
+                    <td class="table2Td2"><input id="Gender" type="text" name="Gender" placeholder="Gender" value="<?php echo $patient['Gender']; ?>"/></td>
+                    <td class="table2Td1" align="right">BS</td>
+                    <td class="table2Td2"><input id="BS" type="text" name="BS" placeholder="BS" value="<?php echo $patient['BS']; ?>"/></td>
+                </tr>
+                <tr></tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td><input align="center" id="submit1"  style="height: 35px; width: 80px;" type="submit" value="提交"/></td>
+                    <!--                    <td><input align="center" id="submit2" style="height: 35px; width: 80px; display: none" type="submit" value="提交" /></td>-->
+                </tr>
+            </table>
+        </div>
+    </form>
+</div>
+</body>
+</html>

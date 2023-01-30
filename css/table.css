@@ -1,0 +1,148 @@
+/*整体布局*/
+#total
+{
+    margin: 0 auto;
+    width: 1400px;
+    border-top: 5px solid #F0F2F5;
+    border-bottom: 50px solid #F0F2F5;
+    border-left: 1px solid #F0F2F5;
+    border-right: 1px solid #F0F2F5;
+    display: block;
+}
+/*表头*/
+.top1{
+    height: 45px;
+    border-bottom: 1px solid #F0F2F5;
+    padding-left: 25px;
+    padding-top: 15px;
+    font-family: "Calibri";
+    font-weight:800;
+    font-size: 20px;
+    color: white;
+    background: #064aa2;
+}
+/*页面导航*/
+.top2
+{
+    height: 35px;
+    border-bottom: 1px solid #F0F2F5;
+    padding-left: 25px;
+    padding-top: 15px;
+    font-size: 15px;
+    /*border: solid;*/
+}
+/*去下划线*/
+#none1
+{
+    text-decoration: none;
+}
+#none2
+{
+    text-decoration: none;
+}
+/*表格主体*/
+.main
+{
+    padding-top: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 30px;
+}
+/*页面切换按钮*/
+#qstnMark
+{
+    height: 30px;
+    width: 70px;
+    display: inline-block;
+    background-color: #97c9d7;
+    color: white;
+    padding-top: 0px;
+    padding-bottom: 2px;
+    margin-left: 0px;
+    border-radius: 0px 5px 5px 0px;
+    border: 1px solid lightgrey;
+    text-align: center;
+    font-size: 16px;
+    font-family: 'Calibri Light';
+    font-weight: lighter;
+}
+#qstnMark2
+{
+    height: 30px;
+    width: 70px;
+    display: inline-block;
+    background-color: #5295e1;
+    color: white;
+    padding-top: 0px;
+    padding-bottom: 2px;
+    margin-left: -6px;
+    border-radius: 0px 5px 5px 0px;
+    border: 1px solid lightgrey;
+    text-align: center;
+    font-size: 16px;
+    font-family: 'Calibri Light';
+    font-weight: lighter;
+}
+/* 页面编辑按钮 */
+#editTmplFile
+{
+    float: right;
+    color: white;
+    padding-left: 10px;
+    padding-top: 5px;
+    height: 30px;
+    width: 120px;
+    background-color: #5899ce;
+    border-radius: 5px;
+    border: none;
+}
+/*表格*/
+.mtlb{
+    align: center;
+    border: 0;
+    width: 80%;
+    frame:void;
+    font-size:20px;
+    font-family: Calibri;
+}
+
+/*下标签*/
+#lowerLbl
+{
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
+/*第一张表中最下面的表格导航中的p的格式*/
+#lowerLbl p
+{
+    color: rgb(42, 41, 41);
+    display: inline;
+}
+#lowerLbl select
+{
+    color: gray;
+    height: 25px;
+    width: 80px;
+    border-radius: 5px;
+    padding-left: 5px;
+    margin-left: 5px;
+}
+#lowerLbl button
+{
+    width: 25px;
+    height: 25px;
+    background-color: #F0F2F5;
+    color: gray;
+    padding-top: 2px;
+    border-radius: 5px;
+    border: none;
+}
+#lowerLbl input
+{
+    padding-top: 2px;
+    width: 35px;
+    height: 20px;
+    border-radius: 5px;
+    border: 1px solid gray;
+    text-align: center;
+}

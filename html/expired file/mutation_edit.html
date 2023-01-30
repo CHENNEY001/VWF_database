@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>VWF突变信息修改</title>
+    <link rel="stylesheet" href="../css/search.css" type="text/css">
+    <!--    <script src="../Js/search.js" type="text/javascript"></script>-->
+</head>
+<body>
+<div id = "total1">
+    <div class="top">
+        VWD患者信息列表
+        <p style="display: inline; color: #999999"> > VWD患者信息管理 </p>
+    </div>
+    <?php echo $ID ?>
+    <form action="../php_vwf/alert.php" method="POST" target="_self">
+        <div class="main" align="center">
+            <table id="table2" cellspacing="18px">
+                <tr class="table2Tr">
+                    <td class="table2Td1" align="right"><p>*</p>VWD type</td>
+                    <td class="table2Td2"><select id="VWD type" name="VWD type" selected="<?php echo $mutation['VWD type']; ?>">
+                        <option value="/" >--please select VWD type--</option>
+                        <option value="1" <?php echo $mutation['VWD type'] == '1' ? 'selected="selected"' : ''; ?>>&nbsp 1 &nbsp</option>
+                        <option value="2A" <?php echo $mutation['VWD type'] == '2A' ? 'selected="selected"' : ''; ?>>&nbsp 2A &nbsp</option>
+                        <option value="2B" <?php echo $mutation['VWD type'] == '2B' ? 'selected="selected"' : ''; ?>>&nbsp 2B &nbsp</option>
+                        <option value="2C" <?php echo $mutation['VWD type'] == '2C' ? 'selected="selected"' : ''; ?>>&nbsp 2C &nbsp</option>
+                        <option value="2M" <?php echo $mutation['VWD type'] == '2M' ? 'selected="selected"' : ''; ?>>&nbsp 2M &nbsp</option>
+                        <option value="2N" <?php echo $mutation['VWD type'] == '2N' ? 'selected="selected"' : ''; ?>>&nbsp 2N &nbsp</option>
+                        <option value="3" <?php echo $mutation['VWD type'] == '3' ? 'selected="selected"' : ''; ?>>&nbsp 3 &nbsp</option>
+                    </select></td>
+                    <td class="table2Td1" align="right">Mutant region</td>
+                    <td class="table2Td2"><select id="Mutant region" name="Mutant region">
+                        <option value="/" >--please select Mutant region--</option>
+                        <option value="Exon" <?php echo $mutation['Mutant region'] == 'Exon' ? 'selected="selected"' : ''; ?> >&nbsp Exon &nbsp</option>
+                        <option value="Regulatory or Intron (and Exon)" <?php echo $mutation['Mutant region'] == 'Regulatory or Intron (and Exon)' ? 'selected="selected"' : ''; ?>>&nbsp Regulatory or Intron (and Exon) &nbsp</option>
+                        <option value="Unfound" <?php echo $mutation['Mutant region'] == 'Unfound' ? 'selected="selected"' : ''; ?>>&nbsp Unfound &nbsp</option>
+                    </select></td>
+                </tr>
+                <tr class="table2Tr">
+                    <td class="table2Td1" align="right">Nucleotide change</td>
+                    <td class="table2Td2"><input id="Nucleotide change" type="text" name="Nucleotide change" placeholder="Nucleotide change" value="<?php echo $mutation['Nucleotide change']; ?>"/></td>
+                    <td class="table2Td1" align="right">Amino acid change</td>
+                    <td class="table2Td2"><input id="Amino acid change" type="text" name="Amino acid change" placeholder="Amino acid change" value="<?php echo $mutation['Amino acid exchange']; ?>"/></td>
+                </tr>
+                <tr class="table2Tr">
+                    <td class="table2Td1" align="right"><p>*</p>mutation type</td>
+                    <td class="table2Td2"><input id="Mutation type" type="text" name="Mutation type" placeholder="Mutation type" value="<?php echo $mutation['Mutation type']; ?>"/></td>
+                    <td class="table2Td1" align="right">Inheritance</td>
+                    <td class="table2Td2"><input id="Inheritance" type="text" name="Inheritance" placeholder="Inheritance" value="<?php echo $mutation['Inheritance']; ?>"/></td>
+                </tr>
+                <tr class="table2Tr">
+                    <td class="table2Td1" align="right">Location</td>
+                    <td class="table2Td2"><input id="Location" type="Location" name="Location" placeholder="Location" value="<?php echo $mutation['Location']; ?>"/></td>
+                    <td class="table2Td1" align="right">Comments</td>
+                    <td class="table2Td2"><input id="Comments" type="text" name="Comments" placeholder="Comments" value="<?php echo $mutation['Comments']; ?>"/></td>
+                </tr>
+                <tr class="table2Tr">
+                    <td class="table2Td1" align="right">References</td>
+                    <td class="table2Td3" colspan="3"><input id="References" type="text" name="References" placeholder="References" style="width: 1021px" value="<?php echo $mutation['References']; ?>"/></td>
+                </tr>
+                <tr></tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td><input align="center" id="submit1"  style="height: 35px; width: 80px;" type="submit" value="提交修改"/></td>
+                </tr>
+            </table>
+        </div>
+    </form>
+</div>
+</body>
+</html>

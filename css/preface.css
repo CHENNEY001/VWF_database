@@ -1,0 +1,118 @@
+a{
+    text-decoration: none; /* 超链接去下划线 */
+}
+
+ul{
+    list-style: none;
+}
+
+/* parallel div */
+.left_div{
+    color: #000000;
+    background-color: #fff;
+    padding:10px 50px 150px 50px;
+    font-size:15px;
+    width: 250px;
+    height: 50px;
+    display:inline;
+    opacity: 0.9;
+    position: absolute;
+    right: 900px;
+    bottom: 450px;
+}
+.right_div{
+    color: #000000;
+    background-color: #fff;
+    padding:10px 50px 150px 50px;
+    font-size:15px;
+    width: 250px;
+    height: 50px;
+    display:inline;
+    opacity: 0.9;
+    position: absolute;
+    right: 300px;
+    bottom: 450px;
+}
+
+.search-banner{
+    background-image: url(../preface_pic/Services.png);
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+	background-color: #fff;
+    max-width: 100%;
+    background-size: cover;
+    background-position: center;
+    padding:150px 10px 150px 10px;
+    margin-right:10px;
+    margin-left:10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+#services-box {
+    padding:20px;
+    background-color:#fff;
+    /* white */
+    opacity:.9;
+    filter:alpha(opacity=95);
+    /* For IE8 and earlier */
+    border-radius:0;
+    height:100%;
+    min-height:301px;
+    min-width:200px;
+    width:100%;
+    float:left;
+    margin:10px 40px 40px 0
+}
+
+.services-box .first {
+    color:#423b3d;
+    font-family: Arial;
+    margin-bottom: 6px;
+    margin-left: -5px;
+    font-size:1.4em;
+    font-weight:bold;
+    border: 0px;  
+}
+
+.resources-box .first {
+    color:#423b3d;
+    font-family: Arial;
+    margin-bottom: 6px;
+    margin-left: -5px;
+    font-size:1.4em;
+    font-weight:bold;
+    border: 0px;  
+}
+
+.services-box ul li{
+    font-family:'Open Sans',sans-serif;
+    margin:-5px 0;
+    font-weight:700;
+    color:#8a8a8a;
+    padding-bottom:1.1em;
+}
+
+.resources-box ul li{
+    font-family:'Open Sans',sans-serif;
+    margin:-5px 0;
+    font-weight:700;
+    color:#8a8a8a;
+    padding-bottom:.9em;
+}
+
+.desc{
+    color: #000000;
+    background-color: #fff;
+    padding:10px 20px 150px 20px;
+    font-size:16px;
+    width: 1400px;
+    height: 50px;
+    display:inline;
+    position: absolute;
+    right: 10px;
+    bottom: 200px;
+}

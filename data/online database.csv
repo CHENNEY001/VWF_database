@@ -1,0 +1,590 @@
+﻿VWD type,Exon No.,Nucleotide exchange,amino acid exchange,,Functional Studies,Country,Laboratory,Comments,Reference
+Type 1,2,55G>A,G19R,218,No,EU,MCMDM-1VWD,Mutation associated with a normal multimer pattern.,"Goodeve et al., 2007"
+Type 3 (Type 1),3,100C>G,R34G,80,No,Turkey,Peake,"Heterozygotes for this mutation had a type 1 VWD phenotype. Family was supplied by Dr. J. Ingerslev, Denmark and Dr. T. Gürsel, Turkey.",Unpublished
+Type 3,3,100C>T,R34X,200,No,Spain,Vidal,Homozygous mutation.,"Corrales et al., 2009"
+Type 3,3,139G>C,D47H,108,No,Iran,Federici / Mannucci,Patient homozygous for the candidate missense mutation and of consanguineous descent.,"Baronciani et al., 2003"
+Type 1,3,147C>A,S49R,76,No,Turkey,Peake,"Family was supplied by Dr. J. Ingerslev, Denmark and Dr. T. Gürsel, Turkey.",Unpublished
+Type 3,3,171C>A,C57X,10,No,Turkey,Peake,"Family was supplied by Dr. J. Ingerslev, Denmark and Dr. T. Gürsel, Turkey.",Unpublished
+Type 3,3,191delG,G64AfsX19,108,No,Iran,Federici / Mannucci,Patient homozygous for the deletion and of consanguineous descent.,"Baronciani et al., 2000"
+Type 3,3,212C>A,S71X,,No,China,Jiangsu Institute of Hematology,The parents of the patient were heterozygous for this mutation as identified by PCR-DGGE and restriction endonuclease digestion analysis.,"Wang et al., 2000"
+Type 3,4,253T>C,S85P,108,No,Italy,Federici / Mannucci,"Patient presents 3 mutations, the candidate missense mutation in one allele along with mutation 5170+10C>T and deletion 2435delC in the other allele.","Baronciani et al., 2003"
+Unclassified,4,260A>C,Y87S,10,Yes,USA,Montgomery,,"Rosenberg et al., 2002"
+Type 3,4,276delT,F92LfsX11,108,No,Italy,Federici / Mannucci,Patient compound heterozygous with mutation 2157delA.,"Baronciani et al., 2003"
+Type 2N,4,276_277insT,D93X,,No,France,French Network,The patient was heterozygous for this mutation on one allele and a C788Y mutation on the other. Reported by Jorieux et al. (1997) at the XVIth ISTH Conference.,Unpublished
+Type 3,5,374-387del14,G125fs,6,No,US,Montgomery,Found in a heterozygous state.,"Kakela et al., 2006"
+Type 3,5,375_376delGTinsC,Y126TfsX49,200,No,Spain,Vidal,Homozygous mutation inherited in cis with variants c.4146G>T and c.6197A>G.,"Corrales et al., 2009"
+Type 1,5,385C>A,L129M,2,No,Canada,Lillicrap,,"James et al., 2007"
+Type 3,5,421G>A,D141N,108,No,India,Federici / Mannucci,Patient homozygous for the candidate missense mutation and of consanguineous descent.,"Baronciani et al., 2003"
+Type 3,5,421G>T,D141Y,108,Yes,Italy,Federici / Mannucci,Patient compound heterozygous with mutation 2016_2019delCTCT. Expression study shows that the missense mutation impaired VWF multimerization and secretion (unpublished).,"Baronciani et al., 2003"
+Type 1,5,422A>G,D141G,,No,England,UKHCDO,,"Cumming et al., 2006"
+Type 3,5,449T>A,L150E,,No,Sweden,,1 heterozygote patient in 1 type 3 family.,"Zhang et al., 1994"
+Type 3,5,449T>C,L150P,200,No,Spain,Vidal,Compound heterozygous mutation found in trans with mutation c.7082-2A>G.,"Corrales et al., 2009"
+Type 1,5,478G>T,G160W,12,No,EU,MCMDM-1VWD,Mutation associated with a normal multimer pattern.,"Goodeve et al., 2007"
+Type 1,5,497A>T,N166I,8,No,EU,MCMDM-1VWD,Mutation associated with a normal multimer pattern.,"Goodeve et al., 2007"
+Type 3,6,533-2A>G,Not Determined,200,No,Spain,Vidal,Homozygous mutation inherited in cis with variant c.1625C>G.,Unpublished
+Type 3,6,652C>T,Q218X,108,No,Iran,Federici / Mannucci,Patient homozygous for the nonsense mutation and of consanguineous descent.,"Baronciani et al., 2000"
+Type 3,7,666G>A,W222X,108,No,Italy,Federici / Mannucci,Patient compound heterozygous with mutation C275S (823T>A).,"Baronciani et al., 2000"
+Type 3,7,788_811del,C263_E270del,108,No,Iran,Federici / Mannucci,Patient homozygous for the in-frame deletion and of consanguineous descent.,"Baronciani et al., 2003"
+Type 1 (Type 3),7,817C>T,R273W,140,Yes,Turkey,Peake,"Two patients, homozygous for the R273W mutation, had a partial VWF deficiency (VWF:Ag levels of 0.06 IU/mL and 0.09 IU/mL) and lacked high molecular weight VWF multimers in plasma. A third patient, also homozygous for the R273W mutation, had a severe VWF deficiency (VWF:Ag level of less than 0.01 IU/mL) and undetectable VWF multimers in plasma. Multimer analysis showed that rVWFR273W failed to form high-molecular-weight multimers present in wild-type rVWF. Families were supplied by Dr. J. Ingerslev, Denmark and Dr. T. Gürsel, Turkey.","Allen et al., 2000a"
+Type 3,7,823T>A,C275S,108,Yes,Italy,Federici / Mannucci,Patient compound heterozygous with mutation W222X (666G>A). Expression study shows that the missense mutation impaired VWF multimerization and secretion (unpublished).,"Baronciani et al., 2000"
+Type 1 (Type 2A),7,823T>C,C275R,22,Yes,Italy,Federici/Mannucci,"When inherited in conjunction with the type 2B mutation P1337L, this mutation causes a type 2A phenotype.","Baronciani et al., 2007"
+Type 3,7,874+1G>A,Not Determined,10,No,Turkey,Schneppenheim,"In silico analysis suggests that the mutation results in exon 7 skipping, i.e. p.G220AfsX165. This could result in either a truncated protein with no VWF function or unstable RNA due to nonsense-mediated decay.","Gadisseur et al., 2007"
+Type 3,8,893_894insG,M299YfsX4,6,No,China,Hongli Wang,Mutation found in a heterozygous state in conjunction with mutation Y1456X.,"Xie et al., 2007"
+Type 3,8,970C>T,R324X,,?,Germany,Schneppenheim,Nonsense mutation in the prosequence; recessive inheritance.,"Schneppenheim et al., 1994"
+Type 1,8,971G>A,R324Q,4,No,Turkey,Peake,"Family was supplied by Dr. J. Ingerslev, Denmark and Dr. T. Gürsel, Turkey.",Unpublished
+Type 3,8,988dupA,S330KfsX4,8,No,Netherlands,van Heerde,"Homozygous mutation in two brothers (VWF:RCo <5%, VWF:Ag <5%, VWF:CB <5%, FVIII:C 4%). Parents were both heterozygous and had low normal VWF levels.",Unpublished
+Type 2N,9,1071C>A,Y357X,,No,France,Mazurier,,"Mazurier et al., 2002"
+Type 3,9,1093C>T,R365X,,No,France,Meyer,,"Bahnak et al., 1991"
+Type 3,9,1093C>T,R365X,108,No,Iran / Italy,Federici / Mannucci,"One patient (Iran) homozygous, and one (Italy) compound heterozygous with mutation Y610X (1830C>A).","Baronciani et al., 2003"
+Type 1,9,1109+2T>C,N/A,206,No,EU,MCMDM-1VWD,Mutation associated with a normal multimer pattern.,"Goodeve et al., 2007"
+Type 3,10,1110-1G>A,N/A,108,No,Iran,Federici / Mannucci,"Patient homozygous for the potential splice site mutation (located at position 7/156 according to Mancuso et al., 1989) and of consanguineous descent.","Baronciani et al., 2000"
+Type 3,10,1117C>T,R373X,108,No,India,Federici / Mannucci,Patient homozygous for the nonsense mutation and of consanguineous descent.,"Baronciani et al., 2000"
+Type 3,10,1131G>T,W377C,40,?,Germany,Schneppenheim,Candidate missense mutation; the patient was homozygous.,"Schneppenheim et al., 1994"
+Type 2A,11,1212ins6 (AATCCC),F404insNP,,Yes,Sweden,Holmberg,Patient also compound heterozygote for a null allele,"Holmberg et al, 1998"
+Type 3,11,1280T>A,I427N,,No,France,Mazurier,The propositus is homozygous for the mutation. His parents are heterozygous.,Unpublished
+Type 2A,12,1309-1326del,D437-R442del,10,Yes,USA,Montgomery,VWF from abnormal allele has no ristocetin and low botrocetin binding to platelets. It does not store nor multimerize.,Unpublished
+Type 2A,12,1309_1326del,D437_R442del,,Yes,England,Mazurier,Patient heterozygous for this deletion. The second gene defect was not identified. Reported by Gaucher & Mazurier (1996) at the 2nd EHA Annual Congress.,"Armitage & Rizza, 1979"
+Type 1,13,1533+15G>A,Not Determined,200,No,Spain,Vidal,,Unpublished
+Type 3,14,1534-3C>A,L512PfsX11,202,No,Italy,Bertina / Eikenboom,Acceptor slice site mutation 3' intron 13 (11/24 C>A). Platelet mRNA was studied and absence of normal transcript was demonstrated. The aberrant transcript lacks exon 14 and this results in a frameshift.,"Eikenboom et al., 1998"
+Type 1,14,1534-3C>A,L512PfsX11,206,No,EU,MCMDM-1VWD,"Mutation associated with a normal multimer pattern. Consequence of mutation previously reported by Eikenboom et al., 1998.","Goodeve et al., 2007"
+Type 3,14,1573G>A,G525R,,No,Turkey,Berber,"VWF:Ag 1%, VWF:RCo 5%, FVIII:C 2%. Patient homozygous.",Unpublished
+Type 2A,14,1583A>G,N528S,,Yes,Japan,Mazurier,"Patient with IIC phenotype, homozygous for missense mutation.","Gaucher et al., 1998"
+Type 2A,14,1648G>A,G550R,200,?,German,Schneppenheim,"Type IIC: a family study was carried out which revealed 3 heterozygotes, one of them being clinically mildly affected and the patient being homozygous.","Schneppenheim et al., 1995"
+Type 3,14,1657dupT,W553LfsX97,,No,Sweden,Anvret,This mutation was found in a heterozygous state with the P812RfsX31 mutation. The mutation creates a cleavage site for SecI.,"Zhang et al., 1994"
+Type 2A,14,1709G>C,C570S,3,Yes,Denmark,Thorsen / Holmberg,"Index patient homozygous for the mutation. VWF:RCo <0.04 kIU/l, VWF:Ag 0,06 kIU/l. Multimer analysis shows only the dimer band. Heterozygous mother, father and brother have normal plasma phenotype and are clinically unaffected.","Lanke et al., 2008a"
+Type 1,14,1728G>T,M576I,2,No,Canada,Lillicrap,,"James et al., 2007"
+Unclassified,15,1730-2A>G,Not Applicable,2,No,China,Prof. Hongli Wang,Splice site mutation results in deletion of exon 15. Patient heterozygous. VWF:RCof <1%; VWF:CB <1%; VWF:Ag 10%,Unpublished
+Type 1,15,1781C>G,A594G,200,No,Spain,Vidal,"VWF:Ag 37%, VWF:RCo 38%, FVIII:C 63%, ABO A blood group.","Corrales et al., 2009"
+Type 3,15,1830C>A,Y610X,108,No,Italy,Federici / Mannucci,Patient compound heterozygous with mutation R365X (1093C>T).,"Baronciani et al., 2003"
+Type 3,15,1858G>T,E620X,,No,Sweden,,Found in a heterozygous state. Abolishes a recognition site for ThaI and creates a recognition site for MaeI.,"Zhang et al., 1994"
+Type 2A,15,1869C>G,C623W,96,Yes,France,Mazurier,The functional significance of this mutation was reported by Gaucher et al. (1995) at the XVth ISTH Conference.,"Gaucher et al., 1994"
+Type 2A,15,1873_1874insGCG,G624_A625insG,96,Yes,France,Mazurier,Patient also has the 2124_2125delCT (C709LfsX3) mutation. Both defects are at the heterozygous state. The functional significance of this mutation was reported by Gaucher et al. (1995) at the XVth ISTH Conference.,"Gaucher et al., 1994"
+Type 1,15,1922C>T,A641V,8,No,EU,MCMDM-1VWD,Mutation associated with a normal multimer pattern.,"Goodeve et al., 2007"
+Type 3,15,1926G>A,W642X,108,No,India,Federici / Mannucci,Patient compound heterozygous with mutation C1071F (3212G>T).,"Baronciani et al., 2003"
+Type 1,15,1926G>A,W642X,2,No,Canada,Lillicrap,,"James et al., 2007"
+Type 3,15,1930G>T,E644X,108,No,Iran,Federici / Mannucci,Patient homozygous for the nonsense mutation and of consanguineous descent.,"Baronciani et al., 2000"
+Type 3,16,1946-4C>T,N/A,108,No,Italy,Federici / Mannucci,"Patient compound heterozygous for the potential splice site mutation (located at position 13/96 according to Mancuso et al., 1989) and mutation Q2544X (7630C>T).","Baronciani et al., 2003"
+Type 3,16,2016_2019delCTCT,S673TfsX67,108,No,Italy,Federici / Mannucci,Patient compound heterozygous with mutation D141Y (421G>T).,"Baronciani et al., 2003"
+Type 1,16,2072delC,P691QfsX50,6,No,Netherlands,van Heerde,"Mutation is found heterozygous in a patient with a doubt between VWD type 1 and 2M. The patient is also heterozygous for the SNP D1472H (Flood et al., 2010) which may explain the doubt in phenotype.",Unpublished
+Type 3,16,2116C>T,Q706X,108,No,Iran,Federici / Mannucci,Patient homozygous for the nonsense mutation and of consanguineous descent.,"Baronciani et al., 2000"
+Type 2A,16,2124_2125delCT,C709LfsX3,96,Yes,France,Mazurier,Patient also has the 1873_1874insGCG (G624_A625insG) mutation. Both defects are at the heterozygous state. The functional significance of this mutation was reported by Gaucher et al. (1995) at the XVth ISTH Conference.,"Gaucher et al., 1994"
+Type 3,16,2157delA,D720TfsX21,108,No,Italy,Federici / Mannucci,Patient compound heterozygous with mutation 276delT.,"Baronciani et al., 2003"
+Type 2M,17,2220G>A,M740I,536,No,Italy,Rodeghiero,,"Castaman et al, 2000"
+Type 1,17,2220G>A,M740I,26,No,EU,MCMDM-1VWD,Mutation associated with an abnormal multimer pattern. Mutation identified in 3 index cases from the same European country. In each case the mutation is inherited along with a R1205H mutation on the same allele.,"Goodeve et al., 2007"
+Type 3,17,2269_2270delCT,L757VfsX22,108,No,Italy,Federici / Mannucci,Patient compound heterozygous with mutation 7729+7C>T.,"Baronciani et al., 2003"
+Type 2N,17,2278C>T,R760C,,Yes,Italy,,Patient's phenotype was characterized by a mild decrease in plasma FVIII and VWF levels and a normal platelet VWF content in association with decreased FVIII binding capacity of VWF. The R760C mutation is responsible for the persistence of the VWF propeptide and thus inhibits the binding of FVIII to VWF; hence the classification of the R760C mutation as type 2N.,"Casonato et al., 2003"
+Unclassified,17,2279G>A,R760H,2,Yes,USA,Montgomery,,Unpublished
+Type 1,18,2284A>G,K762E,2,No,Canada,Lillicrap,,"James et al., 2007"
+Type 2N,18,2287A>G,R763G,100,Yes,France,Mazurier,The mutation is at the cleavage site of the propeptide.,"Hilbert et al., 2006"
+Type 1,18,2313G>T,M771I,12,No,EU,MCMDM-1VWD,Mutation associated with a normal multimer pattern.,"Goodeve et al., 2007"
+Type 2N,18,2344C>T,R782W,,No,France,French Network,The patient is also heterozygous for the H817Q mutation and has moderately decreased VWF:FVIIIB.,Unpublished
+Type 2N,18,2344C>T,R782W,2,Yes,USA,Montgomery,Occurs with H817Q. Both mutations present on same allele; frameshift mutation (2515delG) on other allele.,"Kroner et al., 1996"
+Type 1,18,2345G>A,R782Q,,No,Sweden,,The mutation creates a restriction site for PstI.,"Zhang et al., 1995"
+Type 2N,18,2354G>A,G785E,2,Yes,China,INSERM U.143,Second allele not expressed.,"Gu et al., 1997"
+Type 2N,18,2359G>A,E787K,86,Yes,Poland,Schneppenheim,Novel VWD 2N candidate mutation with FVIII:C of only 0.01 IU/ml. Compound hetrozygous with 2435delC mutation.,"Schneppenheim et al., 1996; Schneppenheim et al., 2004"
+Type 2N,18,2362T>C,C788R,66,Yes,Turkey,Peake,"Leads to a reduction in high molecular weight multimers. Family was supplied by Dr. J. Ingerslev, Denmark and Dr. T. Gürsel, Turkey.","Allen et al., 2000b"
+Type 2N,18,2362T>C,C788R,14,No,Turkey,Caglayan,"Homozygous, Initial diagnosis was Haemophilia A",Unpublished
+Type 2N,18,2363G>A,C788Y,,Yes,France,French Network,Mutation associated with R854Q in one patient and D93X in the other.,"Meyer et al., 1997"
+Type 2N,18,2365A>C,T789P,226,No,Iran,,Mutation found to be homozygous in affected individuals. Heterozygous carriers were normal.,"Enayat et al., 2010"
+Type 2N,18,2365G>C,A789P,212,No,UK,,In both patients the mutation was heterozygous and inherited in conjunction with R854Q. The heterozygous mutation on its own had no effect. Nucleotide 2365 is the location of a known A/G polymorphism previously reported by Sadler & Ginsburg (1993) and Cumming et al. (2006). This family had the non-reference at nucleotide 2365.,"Enayat et al., 2010"
+Type 2N,18,2372C>T,T791M,4,Yes,USA,Montgomery,,Unpublished
+Type 2N,18,2372C>T,T791M,,?,Germany,Schneppenheim,,"Schneppenheim et al., 1996"
+Type 2N,18,2372C>T,T791M,196,Yes,England,Peake,Both patients are heterozygotes. In one patient the other allele is not expressed at mRNA level.,"Nesbitt et al., 1999"
+Type 2N,18,2372C>T,T791M,,Yes,,,,"Wise et al, 1991"
+Type 2N,18,2372C>T,T791M,60,Yes,France,Mazurier / Sadler,,"Gaucher et al., 1991; Tuley et al., 1991"
+Type 2N,18,2384A>G,Y795C,,Yes,France,French Network,Mutation associated with R854Q on the other allele.,"Hilbert et al., 2004"
+Type 2N,18,2384A>G,Y795C,200,Yes,Germany,Schneppenheim,Patient also compound heterozygous for 4696C>T (R1566X).,"Schneppenheim et al., 2004"
+Type 2N,18,2398A>G,M800V,,Yes,China,INSERM U.143,The patient is heterozygous for this abnormality. Reported by Hilbert et al. (1999) at the XVIIth ISTH Conference.,Unpublished
+Type 2N,18,2411G>T,C804F,,No,France,Mazurier,Patient also compound heterozygous for R854Q.,"Caron et al, 2002"
+Type 2N,18,2435C>T,P812L,52,No,Mexico,Rosenda Peñaloza PhD,"VWF:FVIII 14%, VWF:Ag 70%",Unpublished
+Type 3,18,2435delC,P812RfsX31,,?,Germany,Schneppenheim,"2 patients were homozygous, 3 were heterozygous. The mutation is the most frequently observed in the German population (12.5% of type 3 chromosomes).","Schneppenheim et al., 1994"
+Type 3,18,2435delC,P812RfsX31,48,No,Sweden,Anvret,The deletion was found to be homozygous in nine patients and heterozygous in six.,"Zhang et al., 1992"
+Type 3,18,2435delC,P812RfsX31,86,Yes,Poland,Schneppenheim,Novel VWD 2N candidate mutation with FVIII:C of only 0.01 IU/ml. Compound hetrozygous with 2359G>A (E787K) mutation.,"Schneppenheim et al., 1996; Schneppenheim et al., 2004"
+Type 3,18,2435delC,P812RfsX31,108,No,Italy,Federici / Mannucci,"Patient presents 3 mutations, the deletion on one allele, and 2 mutations (5170+10C>T, S85P) on the other allele.","Baronciani et al., 2003"
+Type 1,18,2435delC,P812fs,6,No,EU,MCMDM-1VWD,Mutation associated with a normal multimer pattern.,"Goodeve et al., 2007"
+Type 1,18,2435delC,P812fs,2,No,Canada,Lillicrap,,"James et al., 2007"
+Type 3,18,Exon 18 deletion,?,40,?,Italy,Schneppenheim,"1 index patient is heterozygous for Delta C in exon 18 (2,5 % of Italian VWD type 3 patients) and a second yet unidentified defect.",Unpublished
+Type 3,18,Exon 18 deletion,?,16,?,Poland,Schneppenheim,"4 index patients are homozygous for Delta C in exon 18, 4 index patients are heterozygous for this frameshift mutation and a second yet unidentified defect.","Gazda et al, 1997"
+Type 3,19,2443-1G>C,N/A,66,No,Turkey,Peake,"Family was supplied by Dr. J. Ingerslev, Denmark and Dr. T. Gürsel, Turkey.",Unpublished
+Type 2N,19,2446C>T,R816W,,?,Germany,Schneppenheim,One homozygous patient from one family. One other family member is heterozygous and is clinically unaffected.,Unpublished
+Type 2N,19,2446C>T,R816W,,No,USA,,"Information contributed by M. Daly. Both patients homozygous. Same family previously reported in Collins RH et al. (1992) Annals of Internal Medicine 116, 391-392.",Unpublished
+Type 2N,19,2446C>T,R816W,100,Yes,France,Mazurier / Sadler,"This group also identified a type 2N VWD patient found to be compound heterozygous for this mutation and the R854Q mutation (Mazurier, 1992).","Gaucher et al., 1991; Jorieux et al., 1992"
+Type 2N,19,2446C>T,R816W,14,No,Turkey,Caglayan,2 sisters and 1 brother all homozygous for mutation,Unpublished
+Type 2N,19,2446C>T,R816W,14,No,Turkey,Caglayan,Homozygous,Unpublished
+Type 1,19,2446C>T,R816W,6,No,EU,MCMDM-1VWD,Mutation associated with a normal multimer pattern.,"Goodeve et al., 2007"
+Type 2N,19,2446C>T,R816W,2,No,Brazil,Hemocentro UNICAMP,"The patient has a history of bleeding following trauma and has been recorded with VWF:RCo 146.5%, FVIII:C 4.22% and VWF:CB 220%. There is also a history of bleeding in the extended family.",Unpublished
+Type 2N,19,2446C>T,R816W,200,No,Spain,Vidal,"Homozygous mutation. VWF:Ag 116%, VWF:RCo 106%, FVIII:C 6%, ABO A blood group.","Corrales et al., 2009"
+Type 2N,19,2446C>T,R816W,200,No,Spain,Vidal,"Compound heterozygous mutation found in trans with mutation p.Q1154X. VWF:Ag 93%, VWF:RCo 104%, FVIII:C 4%, ABO AB blood group.","Corrales et al., 2009"
+Type 2N,19,2446C>T,R816W,40,No,Spain,Batlle,"Homozygous mutation. VWF:Ag 69 IU/dL, VWF:RCo 69 IU/dL, FVIII:C 8.1 IU/dL. Normal multimer pattern. VWF:FVIIIB = 0.001 (patient's daughter heterozygous; VWF:FVIIIB = 0.56).",Unpublished
+Type 2N,19,2447G>A,R816Q,5,Yes,USA,Owen,Propositus also has Gaucher's disease.,Unpublished
+Type 2N,19,2451T>A,H817Q,,No,France,French Network,One patient was homozygous for the mutation and the second was heterozygous and also had the R782W mutation. Both patients have moderately decreased VWF:FVIIIB.,Unpublished
+Type 2N,19,2451T>A,H817Q,,Yes,,,Occurs with R782W. Both mutations present on same allele; frameshift mutation on other allele.,"Kroner et al, 1991a"
+Type 1,19,2515delG,842X,2,No,USA,Montgomery,"A frameshift mutation creates a premature stop 3 codons 3' of the deletion. G deletion at 2515 gives G839E, E840K, T841Q, V842X.","Kroner et al, 1996"
+Type 3,19,2540_2541insA,N847KfsX18,200,No,Morocco,Vidal,Homozygous mutation.,Unpublished
+Type 2N,20,2560C>T,R854W,108,No,Wales,,The mutation creates a restriction site for BsrI.,"Bowen et al., 1998"
+Type 2N,20,2561G>A,R854Q,304,Yes,Argentina,Lazzari,,Unpublished
+Type 2N,20,2561G>A,R854Q,80,No,Spain,Casana,,Unpublished
+Type 2N,20,2561G>A,R854Q,,?,Germany,Schneppenheim,Four patients from 4 families were homozygous for R854Q. Six patients from 3 families were compound-heterozygous for R854Q and a silent yet unidentified allele.,"Schneppenheim et al, 1996a"
+Type 2N,20,2561G>A,R854Q,424,No,Netherlands,Bertina,"All patients heterozygous, second allele no mRNA in 1, stopcodon R2535* in 2 and second allele unknown in 1 patient. By testing 424 alleles the R854Q allele was found in 1% of normal alleles.","Eikenboom et al, 1993"
+Type 2N,20,2561G>A,R854Q,198,Yes,England,Peake,Both patients are homozygotes.,Unpublished
+Type 2N,20,2561G>A,R854Q,,Yes,,Mazurier,The patients from unrelated families are compound heterozygotes for R854Q and R816W.,"Mazurier, 1992"
+Type 2N,20,2561G>A,R854Q,,Yes,France,Mazurier,"Patients are heterozygotes for the mutation, the second gene defect is not identified.",Unpublished
+Type 2N,20,2561G>A,R854Q,,No,,,,"Lavergne et al, 1992"
+Type 2N,20,2561G>A,R854Q,,No,,,Heterozygote; other allele not expressed at mRNA level.,"Peerlinck et al, 1992"
+Type 2N,20,2561G>A,R854Q,,Yes,USA,Montgomery,,"Kroner et al, 1991b"
+Type 2N,20,2561G>A,R854Q,100,No,France,Mazurier,,"Gaucher et al, 1991; Mazurier, 1992"
+Type 2N,20,2561G>A,R854Q,98,Yes,US,Ginsburg,,"Cacheris et al, 1991"
+Type 1,20,2561G>A,R854Q,8,No,EU,MCMDM-1VWD,Mutation associated with a normal multimer pattern. Mutation associated with reduced VWF:FVIIIB.,"Goodeve et al., 2007"
+Type 1,20,2561G>A,R854Q,16,No,Canada,Lillicrap,Occurred with a frequency of 0.66 in unaffected family members.,"James et al., 2007"
+Type 1,20,2561G>A,R854Q,200,No,Spain,Vidal,"Compound heterozygous mutation found in trans with mutation c.7730-1G>C. VWF:Ag 40%, VWF:RCo 30%, FVIII:C 30%.",Unpublished
+Type 2N,20,2561G>A,R854Q,40,No,Spain,Batlle,"VWF:Ag 42 IU/dL, VWF:RCo 37.3 IU/dL, FVIII:C 20.2 IU/dL. Normal multimer pattern. VWF:FVIIIB = 0.004. Patient likely heterozygous for this mutation and a null allele as only the father carries p.R854Q (VWF:FVIIIB = 0.69).",Unpublished
+Type 2N,20,2573G>T,C858F,,Yes,France,French Network,Mutation associated with R854Q on the other allele.,"Jorieux et al, 1997; Meyer et al, 1997"
+Type 2N,20,2635G>A,D879N,,Yes,France,Mazurier,Mutation associated to R1659* (type 3 mutation) on the second allele.,"Jorieux et al, 1996"
+Type 3,20,2641delC,L881SfsX28,66,No,Turkey,Peake,"This mutation was found in the heterozygous state. The second mutation was not identified. Family was supplied by Dr. J. Ingerslev, Denmark and Dr. T. Gürsel, Turkey.",Unpublished
+Type 1,20,2685+2T>C,N/A,2,No,Canada,Lillicrap,Splice-site mutation.,"James et al., 2007"
+Type 1,21,2686-1G>C,N/A,16,Yes,EU,MCMDM-1VWD,Mutation associated with a normal multimer pattern. Mutation results in the skipping of exon 21.,"Goodeve et al., 2007"
+Type 1,21,2686-2A>G,N/A,208,Yes,EU,MCMDM-1VWD,Mutation results in the skipping of exon 21 & is associated with an abnormal multimer pattern.,"Goodeve et al, 2007"
+Type 3,21,2734_2735insT,K912IfsX24,66,No,Turkey,Peake,"Family was supplied by Dr. J. Ingerslev, Denmark and Dr. T. Gürsel, Turkey.",Unpublished
+Type 1,21,2770C>T,R924W,2,No,Canada,Lillicrap,,"James et al., 2007"
+Type 2N,21,2771G>A,R924Q,376,Yes,Argentina,Lazzari,"Previously reported as a polymorphism (Hilbert et al., 2003). Observed in 2 related and 1 unrelated heterozygous male patients with moderate to severe hemorrhagic symptoms. FVIII ≤50%, discordant with VWF:Ag (FVIII/VWF:Ag <0.52). The mutation was not present in 2 related asymptomatic patients and 183 healthy controls.","Casais et al., 2006"
+Type 1,21,2771G>A,R924Q,36,No,EU,MCMDM-1VWD,"Associated with a normal multimer pattern. Also reported as a polymorphism (Hilbert et al., 2003; Cumming et al., 2006). Status uncertain, marks an allele with reduced VWF levels.","Goodeve et al., 2007"
+Type 1,21,2771G>A,R924Q,16,No,Canada,Lillicrap,"Also reported as a polymorphism (Hilbert et al., 2003; Cumming et al., 2006).","James et al., 2007"
+Type 2N,21,2771G>A,R924Q,16,No,Brazil,Hemocentro UNICAMP,"This mutation was found to be heterozygous in a type 2N VWD patient with a history of bleeding following dental extraction. The patient's levels were VWF:Ag 137.5IU/mL, VWF:RCo 89%, FVIII:C 13%. Previously reported as a polymorphism (Hilbert et al., 2003).",Unpublished
+Type 1,21,2820+1G>A,N/A,214,Yes,EU,MCMDM-1VWD,Mutation results in the skipping of exon 21 & is associated with an abnormal multimer pattern.,"Goodeve et al., 2007"
+Type 1,21,2820+1G>C,N/A,220,Yes,EU,MCMDM-1VWD,Mutation results in the skipping of exon 21 & is associated with an abnormal multimer pattern.,"Goodeve et al., 2007"
+Type 2A,22,2936G>A,S979N,6,No,Netherlands,van Heerde,"Mutation is found heterozygous in 3 patients (1 family) with a comparable VWD phenotype. Mean VWF levels: VWF:RCo 25%, VWF:Ag 41%, VWF:CB 25% and disturbed multimers with absence of satellite bands.",Unpublished
+Type 1,23,2986T>G,C996E,2,No,Canada,Lillicrap,,"James et al., 2007"
+Type 1,23,3072delC,S1024fs,10,No,EU,MCMDM-1VWD,Mutation associated with a normal multimer pattern.,"Goodeve et al., 2007"
+Type 3,23,3108+5G>A,Not applicable,108,No,Italy,Federici/Mannucci,"Patient homozygous for the potential splice site mutation (located at position 20/476 according to Mancuso et al, 1989) and of consanguineous descent.","Baronciani et al, 2003"
+Type 1,23,3108+5G>A,N/A,,Yes,England,UKHCDO,Mutation causes skipping of exon 23 at the RNA level.,"Cumming et al., 2006"
+Type 2N,24,3159G>T,Q1053H,,Yes,France,French Network,The two patients are found heterozygous for this mutation.,"Hilbert et al, 1998"
+Type 2N,24,3178T>C,C1060R,,?,France,Mazurier,"One patient is homozygous, the others are heterozygous with a type 2N or type 3 mutation on the second allele.","Jorieux et al, 1997"
+Type 2N,24,3179G>A,C1060Y,30,No,Netherlands,van Heerde,"Mutation is found homozygous in 1 patient with VWF:RCo 22%, VWF:Ag 29%, VWF:CB 23%, FVIII:C 9%, VWF:FVIIIB <0.10. Mutation also found in 11 heterozygous patients (3 different families) with low normal VWF levels, disturbed multimers and partially disturbed VWF:FVIIIB (average 0.30).",Unpublished
+Type 1,24,3179G>A,C1060Y,206,No,EU,MCMDM-1VWD,"Mutation heterozygous. VWF:Ag 36IU/dL, VWF:RCo 28IU/dL, FVIII:C 39IU/dL, VWF:FVIIIB slope 0.44. Abnormal multimers.","Hampshire et al., 2010"
+Type 3,24,3212G>T,C1071F,108,No,India,Federici/Mannucci,Patient compound heterozygous for the candidate missense mutation and mutation W642X (1896G>A).,"Baronciani et al, 2003"
+Type 2N,25,3232G>A,E1078K,,Yes,France,French Network,Mutation found in a heterozygous state.,"Hilbert et al., 2004"
+Type 1,25,3281T>C,I1094T,6,No,EU,MCMDM-1VWD,Mutation associated with a normal multimer pattern.,"Goodeve et al., 2007"
+Unclassified,25,3301T>C,C1101R,,No,France,French Network,,Unpublished
+Unclassified,25,3303C>G,C1101W,,No,France,French Network,,Unpublished
+Unclassified,25,3320A>G,Y1107C,,Yes,France-Switzerland,Mazurier,"Mutation described as type 2Q-Bern subtype (Baillod et al. Am. J. Hematol. 1995, 49:21)","Gaucher et al, 1997"
+Type 1,25,3332G>A,C1111Y,2,No,Canada,Lillicrap,,"James et al., 2007"
+Unclassified,25,3359G>C,W1120S,,No,Belgium,Mazurier,,"Gaucher et al, 1997"
+Type 3,25,3379+1G>A,Not applicable,108,No,India,Federici/Mannucci,"Patient compound heterozygous for the potential splice site mutation (located at position 21/425 according to Mancuso et al, 1989) and mutation 4414insC.","Baronciani et al, 2003"
+Type 2N,25,3379+1G>A,N/A,14,Yes,England,Peake,The allele containing the splice-site mutation was not expressed. This mutation was found to be heterozygous in two IC with type 2N VWD; one IC was also heterozygous for p.R854Q and the other was also heterozygous for p.T791M.,"Nesbitt et al., 1999"
+Type 1,25,3379+1G>A,N/A,,No,England,UKHCDO,,"Cumming et al., 2006"
+Type 1,25,3379+1G>A,N/A,2,No,Canada,Lillicrap,Splice-site mutation.,"James et al., 2007"
+Type 3,26,3385_3386delAG,S1129LfsX12,6,No,Turkey,Peake,"Family was supplied by Dr. J. Ingerslev, Denmark and Dr. T. Gürsel, Turkey.",Unpublished
+Type 1 (Type 2A),26,3388T>C,C1130R,36,No,EU,MCMDM-1VWD,"Mutation associated with an abnormal multimer pattern. Reduced VWF:FVIIIB also observed in 1/3 index cases identified with the mutation. All 3 index cases came from the same European country. Previously classified as a type 1 mutation, detailed multimer analysis reclassified it as a type 2A mutation.","Goodeve et al., 2007"
+Type 1 (Type 2A),26,3388T>G,C1130G,12,No,EU,MCMDM-1VWD,"Mutation associated with an abnormal multimer pattern. Previously classified as a type 1 mutation, detailed multimer analysis reclassified it as a type 2A mutation.","Goodeve et al., 2007"
+Type 1,26,3389G>T,C1130F,100,No,Italy,Bertina,"Similar phenotype as C1149R, thus possibly also a dominant-negative mutation, although no functional studies have been done.","Eikenboom et al, 1996"
+Type 1 (Type 2A),26,3389G>T,C1130F,20,No,EU,MCMDM-1VWD,"Mutation associated with an abnormal multimer pattern. All index cases identified with the mutation came from the same European country. Previously classified as a type 1 mutation, detailed multimer analysis reclassified it as a type 2A mutation.","Goodeve et al., 2007"
+Type 1,26,3430T>G,W1144G,,Yes,USA,Montgomery,"By virtue of mutation, VWF clearance is less than 3 hours.","Haberichter et al., 2006"
+Type 1 (Type 2A),26,3430T>G,W1144G,14,No,EU,MCMDM-1VWD,"Mutation associated with an abnormal multimer pattern. Previously classified as a type 1 mutation, detailed multimer analysis reclassified it as a type 2A mutation.","Goodeve et al., 2007"
+Type 1 (Type 2A),26,3437A>G,Y1146C,6,No,EU,MCMDM-1VWD,"Mutation associated with an abnormal multimer pattern. Previously classified as a type 1 mutation, detailed multimer analysis reclassified it as a type 2A mutation.","Goodeve et al., 2007"
+Type 1,26,3437A>G,Y1146C,2,No,Canada,Lillicrap,,"James et al., 2007"
+Type 2A,26,3437A>G,Y1146C,,Yes,Germany,Schneppenheim,"VWF:Ag 0.20+/-0.07; VWF:CB 0.16+/-0.06; VWF:RCo 0.07+/-0.03 FVIII:C 0.35+/-0.31 (17 individuals, 12 IC).","Schneppenheim et al., 2010"
+Type 1,26,3445T>C,C1149R,200,Yes,Netherlands,Bertina,Functional studies showed a dominant-negative effect of this mutation.,"Eikenboom et al, 1996"
+Type 2A,26,3445T>C,C1149R,100,No,Spain,Batlle,"VWF:Ag 8.0 IU/dL, VWF:RCo 5.0 IU/dL, FVIII:C 18.1 IU/dL, VWF:CB IU/dL. Plasma VWF multimers decreased and markedly decreased proportion of satellite bands (IIE). Previously classified as a type 1 mutation.","Pérez-Rodríguez et al., 2009"
+Type 2A,26,3445T>C,C1149R,8,No,Netherlands,van Heerde,"Mutation is found heterozygous in 4 patients (1 family) with a comparable laboratory phenotype. Mean levels: VWF:RCo 7%, VWF:Ag 15%, VWF:CB 8%, FVIII:C 24% and disturbed multimers.",Unpublished
+Type 2N,26,3460C>T,Q1154X,200,No,Spain,Vidal,"Compound heterozygous mutation in trans with mutation p.R816W. VWF:Ag 93%, VWF:RCo 104%, FVIII:C 4%, ABO AB blood group.","Corrales et al., 2009"
+Type 1,26,3467C>T,T1156M,110,No,Spain,Casana,,"Casaña et al, 2001"
+Type 1,26,3467C>T,T1156M,20,No,Sweden,Holmberg,,Unpublished
+Type 3,26,3467C>T,T1156M,200,No,Spain,Vidal,"Compound heterozygous mutation found in trans with mutation c.7730-1G>C. VWF:Ag 6%, VWF:RCo 6%, FVIII:C 6%.",Unpublished
+Unclassified,26,3470G>T,C1157F,,No,France,French Network,"In this family, 3 patients have the C1157F mutation and the fourth patient has the C1157F mutation on an allele and another mutation, K1362T, on the second allele.",Unpublished
+Unclassified,26,3511G>C,E1171Q,,Yes,France,Mazurier,,"Gaucher et al, 1997"
+Type 1,26,3538+1G>A,N/A,2,No,Canada,Lillicrap,Splice-site mutation.,"James et al., 2007"
+Type 2A,26,3538G>A,G1180R,,Yes,Canada,Lillicrap,"The 3538G>A transition does not result in the expression of the G1180R missense mutation, but rather leads to skipping of exons 23 and 26, which is the pathogenic basis of the patient’s phenotype.","James et al., 2004"
+Type 1,27,3568T>C,C1190R,2,No,Canada,Lillicrap,,"James et al., 2007"
+Type 2M,27,3586T>C,C1196R,,No,France,French Network,Reported by Lavergne et al. (2001) at the XVIIIth ISTH Conference.,Unpublished
+Type 2M / Type 3,27,3586T>C,C1196R,6,No,UK,,"Two patients heterozygous for the mutation were diagnosed with type 2M VWD, whereas a patient homozygous for the mutation was diagnosed with type 3 VWD. Reported by Enayat et al. (2007) at the XXIst ISTH Conference.",Unpublished
+Unclassified,27,3614G>A,R1205H,,Yes,France,French Network,All patients have VWD with a phenotype Vicenza.,"Veyradier et al, 2001"
+Type 2M,27,3614G>A,R1205H,100,?,Italy,Schneppenheim,Found also in one German patient and in a Chinese family with 3 affected members.,"Schneppenheim et al, 2000"
+Type 1,27,3614G>A,R1205H,124,No,Spain,Casana,Mutation identified in five unrelated families. It was linked to the different haplotypes.,"Casana et al., 2003"
+Type 1,27,3614G>A,R1205H,,Yes,England,UKHCDO,The group believes the mutation to be correctly associated with either a moderate to severe type 1 phenotype as opposed to the previously described type 2M variant phenotype.,"Cumming et al., 2006"
+Type 1,27,3614G>A,R1205H,40,No,EU,MCMDM-1VWD,Mutation associated with an abnormal multimer pattern. Mutation identified in 10 index cases from several European countries. In three families the mutation was also found to co-segregate with a M740I mutation.,"Goodeve et al., 2007"
+Type 1,27,3614G>A,R1205H,18,No,Canada,Lillicrap,,"James et al., 2007"
+Unclassified,27,3614G>T,R1205L,,Yes,France,French Network,The R1205H mutation is reported as type 2M Vicenza (Schneppenheim et al Thromb Haemost 2000; 82: 136).,"Gaucher et al, 1997; de Romeuf et al, 1997"
+Type 2N,27,3673T>G,C1225G,8,Yes,Turkey,Peake,"Family was supplied by Dr. J. Ingerslev, Denmark and Dr. T. Gürsel, Turkey.","Allen et al., 2000b"
+Type 1,28,3679T>C,C1227R,,No,Spain,Casana,,"Casana et al., 2001"
+Type 1,28,3686T>G,V1229G,,No,Italy,Bertina/Eikenboom,"Occurs with 3692A>C. Possible gene conversion. In addition to the two amino acid substitutions in exon 28, two nucleotide changes in intron 27 were detected (C24/161T, to the pseudogene sequence. All changes were on the same allele.","Eikenboom et al, 1998"
+Type 1,28,3686T>G,V1229G,22,No,Canada,Lillicrap,Occurred with a frequency of 0.75 in unaffected family members. Occurred on the same haplotype as N1231T.,"James et al., 2007"
+Type 1,28,3692A>C,N1231T,,No,Italy,Bertina/Eikenboom,"Occurs with 3686T>G. Possible gene conversion. In addition to the two amino acid substitutions in exon 28, two nucleotide changes in intron 27 were detected (C24/161T, to the pseudogene sequence. All changes were on the same allele. Is also reported as a polymorphism.","Eikenboom et al, 1998"
+Type 1,28,3692A>C,N1231T,22,No,Canada,Lillicrap,Occurred with a frequency of 0.75 in unaffected family members. Occurred on the same haplotype as V1229G.,"James et al., 2007"
+Unclassified,28,3702T>G,C1234W,,No,France,French Network,,Unpublished
+Type 2M,28,3797C>A,P1266Q,2,Yes,USA,Montgomery,Present on same allele as 3835G>A. Previously reported as a type 2B mutation.,"Kroner et al., 2003"
+Type 2B,28,3797C>T,P1266L,,?,Germany,Ruggeri,Investigated four patients from three unrelated families,"Holmberg et al, 1993"
+Type 1,28,3797C>T,P1266L,,No,Netherlands,Bertina,"Patients heterozygous, second allele no expression at mRNA level. Mutations correspond to pseudogene sequence; possibly due to gene conversion. Occurs with 3835G>A.","Eikenboom et al, 1993"
+Type 1,28,3797C>T,P1266L,12,No,EU,MCMDM-1VWD,Mutation associated with an abnormal multimer pattern. This mutation results from gene conversion and was identified on the same allele as the R1315H mutation.,"Goodeve et al., 2007"
+Type 1,28,3797C>T,P1266L,28,No,Canada,Lillicrap,Occurred with a frequency of 0.4 in unaffected family members. Occurred on the same haplotype as V1279I.,"James et al., 2007"
+Type 2B,28,3802C>A,H1268N,2,No,Canada,Lillecrap,VWF:Ag = 0.55 U/ml VWF:RCo = 0.32 U/ml,"Roland et al, 2006"
+Type 2B,28,3802C>G,H1268D,100,Yes,,,,"Rabinowitz et al, 1993"
+Type 2A,28,3814T>C,C1272R,100,No,France,Meyer,,Unpublished
+Type 2A,28,3814T>G,C1272G,100,Yes,France,French Network,Recombinant VWF shows increased responsiveness to ristocetin.,"Meyer et al, 1997"
+Type 2A,28,3814_3815insATTTCTACT,Y1271_C1272insYFY,4,No,Turkey,Peake,"Family was supplied by Dr. J. Ingerslev, Denmark and Dr. T. Gürsel, Turkey.",Unpublished
+Type 2A,28,3815G>C,C1272S,100,No,Spain,Batlle,"VWF:Ag:48%, VWF:RCo:No aggregation, VWF:CB:6%, FVIII:C:52%. Lacks high and intermediate multimers. Son same mutation: VWF:Ag: 37%, VWF:RCo:No aggregation, VWF:CB:3%, FVIII:C: 27%, Lacks high and intermediate multimers.","Penas et al, 2004"
+Type 2A,28,3815G>T,C1272F,40,No,Argentina,Kempfer,"Heterozygote patient with epistaxis and hematomas, prolonged bleeding time, and normal platelet count. VWF:RCo: undetectable. VWF:Ag: 28 U/dl. FVIII: 30 U/dl. Patient lacks high and intermediate molecular weight multimers.",Unpublished
+Type 2A,28,3827T>C,L1276P,100,Yes,France & Spain,French Network,One patient is compound heterozygous: R1374L + L1276P,"Meyer et al, 1997"
+Type 1 (Type 2A),28,3831-3833delCCT,D1277-E78delinsL,10,No,EU,MCMDM-1VWD,"Mutation associated with an abnormal multimer pattern. Previously classified as a type 1 mutation, detailed multimer analysis reclassified it as a type 2A mutation.","Goodeve et al., 2007"
+Type 2M,28,3835G>A,V1279I,,Yes,France,French Network,,"Lavergne et al, 1999"
+Type 1,28,3835G>A,V1279I,,No,Netherlands,Bertina,"Patients heterozygous, second allele no expression at mRNA level. Mutations correspond to pseudogene sequence; possibly due to gene conversion. Occurs with 3797C>T.","Eikenboom et al, 1993"
+Type 2M,28,3835G>A,V1279I,2,Yes,USA,Montgomery,Present on same allele as 3797C>A. Previously listed as a type 2B mutation.,"Kroner et al., 2003"
+Type 1,28,3835G>A,V1279I,28,No,Canada,Lillicrap,Occurred with a frequency of 0.4 in unaffected family members. Occurred on the same haplotype as P1266L.,"James et al., 2007"
+Type 3,28,3835G>A,V1279I,200,No,Pakistan,Vidal,"Identified as part of a homozygous gene conversion event in conjunction with mutations Q1311X, I1343V, V1360A and F1369I. Results in a null allele.","Corrales et al., 2009"
+Type 2A,28,3835G>T,V1279F,200,No,Spain,Vidal,"VWF:Ag 24%, VWF:RCo 10%, FVIII:C 48%, ABO A blood group.","Corrales et al., 2009"
+Type 1,28,3839-3845dup7,D1283PfsX12,18,No,EU,MCMDM-1VWD,Mutation associated with a normal multimer pattern.,"Goodeve et al., 2007"
+Type 2M,28,3845T>G,L1282R,100,No,France,French Network,,Unpublished
+Type 1,28,3853T>C,S1285P,12,No,EU,MCMDM-1VWD,Mutation associated with an abnormal multimer pattern.,"Goodeve et al., 2007"
+Type 2M,28,3854C>T,S1285F,100,No,France,French Network,,Unpublished
+Type 2M,28,3863T>G,L1288R,6,No,Netherlands,van Heerde,"Mutation is found heterozygous in 3 patients (1 family) with a comparable laboratory phenotype. Mean VWF levels: VWF:RCo 9%, VWF:Ag 24%, VWF:CB 19%, FVIII:C 41% and normal multimers.",Unpublished
+Type 2M,28,3877T>C,F1293L,10,No,Netherlands,van Heerde,"Mutation is found heterozygous in 5 patients (2 families) with a comparable VWD phenotype. Mean VWF levels: VWF:RCo 6%, VWF:Ag 36%, VWF:CB 32%, FVIII:C 45% and normal multimers.",Unpublished
+Type 2M,28,3887T>C,L1296P,100,No,France,French Network,,Unpublished
+Type 2M,28,3905A>G,D1302G,,Yes,France,French Network,,"Lavergne et al, 1999"
+Type 2B,28,3910A>G,M1304V,200,No,Argentina,Woods,"Heterozygote patients (a boy, his mother, and his aunt) with normal platelet count and RIPA at low ristocetin concentrations. Absence of high multimers and decreased platelet count after DDAVP in the boy.",Unpublished
+Type 2B,28,3912insATG,M1304insM,100,Yes,France,Meyer,Insertion of a ATG at position 3912; insertion of a Met at position 1304.,"Ribba et al, 1991; Christophe et al, 1994"
+Type 2B,28,3916C>T,R1306W,2,No,USA,Montgomery,,
+Type 2B,28,3916C>T,R1306W,,No,Spain,Casana,,"Casana et al, 1998"
+Type 2B,28,3916C>T,R1306W,,No,,Daly,,Unpublished
+Type 2B,28,3916C>T,R1306W,,No,,,?new mutation; mosaicism,"Holmberg et al, 1991; Donner et al, 1992"
+Type 2B,28,3916C>T,R1306W,,No,,,,"Sugiura et al, 1991"
+Type 2B,28,3916C>T,R1306W,130,No,Canada,Lillicrap,,"Murray et al, 1991; Lillicrap et al, 1991"
+Type 2B,28,3916C>T,R1306W,100,No,Italy,Sadler,,"Randi et al, 1991"
+Type 2B,28,3916C>T,R1306W,134,Yes,US,Ginsburg,,"Cooney et al, 1991; Cooney et al, 1992"
+Type 2B,28,3916C>T,R1306W,,No,Japan,Saito,,Unpublished
+Type 2B,28,3916C>T,R1306W,,?,,,,"Pietu et al, 1992"
+Type 2B,28,3917G>A,R1306Q,,Yes,France,Mazurier,,"Hilbert et al, 1996a"
+Type 2B,28,3917G>T,R1306L,2,No,Australia,Dr CM Ward,Autosomal dominant mutation. Patient's plasma vWF bound to platelets at low ristocetin concentrations.,Unpublished
+Type 1 (Type 2A),28,3920T>C,L1307P,206,No,EU,MCMDM-1VWD,"Mutation associated with an abnormal multimer pattern. Previously classified as a type 1 mutation, detailed multimer analysis reclassified it as a type 2A mutation.","Goodeve et al., 2007"
+Type 2B,28,3922C>T,R1308C,2,No,USA,Montgomery,,
+Type 2B,28,3922C>T,R1308C,,No,Spain,Casana,,"Casana et al, 1998"
+Type 2B,28,3922C>T,R1308C,48,No,,,,"Donner et al, 1991"
+Type 2B,28,3922C>T,R1308C,100,No,Japan,Fukutake,,"Hagiwara et al, 1996"
+Type 2B,28,3922C>T,R1308C,100,Yes,Italy,Sadler,,"Randi et al, 1991"
+Type 2B,28,3922C>T,R1308C,98,No,US,Ginsburg,,"Cooney et al, 1991"
+Type 2A,28,3923G>A,R1308H,100,No,France,French Network,,"Meyer et al, 1997"
+Type 2B,28,3923G>C,R1308P,,Yes,,Mazurier,,"Hilbert et al, 1996a"
+Type 2B,28,3925A>G,I1309V,,Yes,France,French Network,,"Miyata et al, 1996; Federici et al, 1997; Celikel et al, 2000"
+Type 2B,28,3929C>T,S1310F,,No,Sweden,Holmberg,,Unpublished
+Type 2B,28,3929C>T,S1310F,,No,England,,,"Wood et al., 1996"
+Type 3,28,3931C>T,Q1311X,108,No,Iran,Federici/Mannucci,Patient homozygous for the nonsense mutation and of consanguineous descent.,"Baronciani et al, 2003"
+Type 3,28,3931C>T,Q1311X,140,No,Spain,Casana,,"Casaña P et al, 2000"
+Type 3,28,3931C>T,Q1311X,200,No,Pakistan,Vidal,"Identified as part of a homozygous gene conversion event in conjunction with mutations V1279I, I1343V, V1360A and F1369I. Results in a null allele.","Corrales et al., 2009"
+Type 3,28,3931C>T,Q1311X,200,No,Spain,Vidal,"Homozygous mutation identified in three patients. Average VWF:Ag 6.7%, VWF:RCo 8.7%, FVIII:C 5.7%.",Unpublished
+Type 2B,28,3939G>C,W1313C,,Yes,,Ruggeri,,"Ware et al, 1991"
+Type 2B,28,3940G>C,V1314L,,No,,,,"Holmberg et al, 1991"
+Type 2A,28,3940G>T,V1314F,100,Yes,France,Meyer,,"Lavergne et al, 1991; Ribba et al, 1994"
+Type 2B,28,3941T>A,V1314D,140,No,Portugal,Casana,,"Casaña et al, 2001"
+Unclassified,28,3943C>T,R1315C,100,Yes,France,French Network,rVWF shows decreased binding to GPIb.,"Meyer et al, 1997"
+Type 2M,28,3943C>T,R1315C,100,No,Spain,Casana,,"Casana et al, 1997; Casana et al, 1998"
+Type 3,28,3943C>T,R1315C,,No,Sweden,,1 heterozygote patient in 1 type 3 family.,"Zhang et al., 1994"
+Type 1 (Type 2A),28,3943C>T,R1315C,34,No,EU,MCMDM-1VWD,"Mutation associated with an abnormal multimer pattern. Mutation identified in 4 index cases from several European countries. Previously classified as a type 1 mutation, detailed multimer analysis reclassified it as a type 2A mutation.","Goodeve et al., 2007"
+Type 1,28,3943C>T,R1315C,20,No,Canada,Lillicrap,,"James et al., 2007"
+Type 1,28,3944G>A,R1315H,12,No,EU,MCMDM-1VWD,Mutation associated with an abnormal multimer pattern.,"Goodeve et al., 2007"
+Type 1 (Type 2A),28,3944G>T,R1315L,8,No,EU,MCMDM-1VWD,"Mutation associated with an abnormal multimer pattern. Previously classified as a type 1 mutation, detailed multimer analysis reclassified it as a type 2A mutation.","Goodeve et al., 2007"
+Type 2B,28,3946G>A,V1316M,,No,Spain,Casana,,"Casana et al, 1998"
+Type 2B,28,3946G>A,V1316M,,Yes,Jamaica,UNC Chapel Hill,"Exon 28 sequenced, patient is hetrozygous for V553M. Patient has giant platelets, as does sister but by functional studies does not have VWD, second sister is normal.","Moll et al, 1998"
+Type 2B,28,3946G>A,V1316M,,No,Netherlands,Bertina,De novo mutation,"Eikenboom et al, 1994"
+Type 2B,28,3946G>A,V1316M,190,No,,,1 germ line mosaic,"Murray et al, 1992"
+Type 2B,28,3946G>A,V1316M,100,No,Italy,Sadler,,"Randi et al, 1991"
+Type 2B,28,3946G>A,V1316M,98,No,US,Ginsburg,,"Cooney et al, 1991"
+Type 2B,28,3946G>A,V1316M,,?,Canada,Lillicrap,Germinal Mosaic,"Lillicrap et al, 1991"
+Type 2B,28,3946G>A,V1316M,,?,US,Montgomery,,Unpublished
+Type 2B,28,3946G>A,V1316M,,?,,,,"Pietu et al, 1992"
+Type 2B,28,3946G>A,V1316M,100,No,Spain,Batlle,RIPA observed at low ristocetin concentrations. Decreased platelet count and presence of platelet aggregates in the peripheral blood smear after DDAVP.,"Rendal et al., 2001"
+Type 2M,28,3970G>A,G1324S,100,Yes,,,,"Rabinowitz et al, 1993"
+Type 2M,28,3971G>C,G1324A,,Yes,France,French Network,The patient is also hetrozygous for the Q2470* mutation,"Meyer et al, 1997; Hilbert et al, 1997"
+Type 2B,28,4010C>T,P1337L,,No,Spain,Casana,,"Casana et al, 1998"
+Type 2B,28,4010C>T,P1337L,12,Yes,,,,"Kroner et al, 1992"
+Type 2B (Type 2A),28,4010C>T,P1337L,22,Yes,Italy,Federici/Mannucci,"When inherited in conjunction with the type 1 mutation C275R, this mutation causes a type 2A phenotype.","Baronciani et al., 2007"
+Type 3,28,4013C>G,S1338X,108,No,Italy,Federici/Mannucci,Patient compound heterozygous with mutation E2129X (6385G>T).,"Baronciani et al, 2000"
+Type 2B,28,4021C>T,R1341W,100,No,Spain,Casana,,"Casana et al, 1998"
+Type 2B,28,4022G>A,R1341Q,,No,,,,"Liu et al, 1992"
+Type 2B,28,4022G>A,R1341Q,,Yes,,,,"Randi et al, 1991; Randi et al, 1992"
+Type 2B,28,4022G>A,R1341Q,,No,,"Sixma, Mazurier",,Unpublished
+Type 2B,28,4022G>A,R1341Q,,No,,,,"Murray et al, 1991"
+Type 2B,28,4022G>A,R1341Q,98,No,,Ginsburg,,"Cooney et al, 1991"
+Type 2B,28,4022G>A,R1341Q,,No,Canada,Lillicrap,,"Lillicrap et al, 1991"
+Type 2B,28,4022G>A,R1341Q,,?,,,,"Piao et al, 1993"
+Type 2B,28,4022G>C,R1341P,,No,,,,"Liu et al, 1992"
+Type 2B,28,4022G>T,R1341L,,Yes,,Mazurier,,"Hilbert et al, 1996a"
+Type 1,28,4024C>T,R1342C,10,No,EU,MCMDM-1VWD,Mutation associated with an abnormal multimer pattern.,"Goodeve et al., 2007"
+Type 3,28,4027A>G,I1343V,200,No,Pakistan,Vidal,"Identified as part of a homozygous gene conversion event in conjunction with mutations V1279I, Q1311X, V1360A and F1369I. Results in a null allele.","Corrales et al., 2009"
+Type 3,28,4036C>T,Q1346X,108,No,Iran,Federici/Mannucci,Patient homozygous for the nonsense mutation and of consanguineous descent. Patient developed an inhibitor.,"Baronciani et al, 2000"
+Unclassified,28,4054_4158dup105,S1352_A1386dup,,No,France,Mazurier,,"Gaucher et al., 1995"
+Type 2M,28,4075G>A,E1359K,100,Yes,France,French Network,,"Meyer et al, 1997"
+Type 3,28,4079T>C,V1360A,200,No,Pakistan,Vidal,"Identified as part of a homozygous gene conversion event in conjunction with mutations V1279I, Q1311X, I1343V and F1369I. Results in a null allele.","Corrales et al., 2009"
+Type 2M,28,4079T>C,V1360A,8,No,Netherlands,van Heerde,"Mutation is found heterozygous in 4 patients (1 family) with a comparable laboratory phenotype of a mild VWD type 2M. Mean VWF levels: VWF:RCo 50%, VWF:Ag 87%, VWF:CB 93%, FVIII:C 91% and normal multimers.",Unpublished
+Type 1,28,4082T>C,L1361S,208,No,EU,MCMDM-1VWD,Mutation associated with a normal multimer pattern.,"Goodeve et al., 2007"
+Type 2M,28,4085A>C,K1362T,,Yes,France,French Network,"The patient, with type 2A VWD, is double heterozygous for K1362T and C1157F mutations. Recombinant VWF with the K1362T mutation is normally multimerized and shows a decreased binding to platelets.",Unpublished
+Type 3,28,4092delAC,1364 frameshift to terminus,108,No,India,Federici/Mannucci,Patient compound heterozygous with mutation 7130insC.,"Baronciani et al, 2003"
+Type 2M,28,4105T>A,F1369I,10,Yes,US,Montgomery,,"Hillery et al, 1998"
+Unclassified,28,4105T>A,F1369I,20,No,,,"Normal multimers, decreased ristocetin cofactor activity.","Mancuso et al, 1991"
+Type 3,28,4105T>A,F1369I,200,No,Pakistan,Vidal,"Identified as part of a homozygous gene conversion event in conjunction with mutations V1279I, Q1311X, I1343V and V1360A. Results in a null allele.","Corrales et al., 2009"
+Type 2B,28,4115T>G,I1372S,6,Yes,Italy,Casonato,"The mutation was found in a heterozygous state. Mutation carriers had normal VWF levels and normal multimers, but hyper-response to ristocetin and spontaneous platelet aggregation. This group suggest that the mutation may be more accurately descibed as a type 2B-like mutation. Reported by Sartorello et al. (2007) at the XXIst ISTH Conference.","Casonato et al., 2007"
+Unclassified,28,4120C>A,R1374S,,No,France,French Network,,Unpublished
+Unclassified,28,4120C>T,R1374C,,Yes,France,Mazurier,,"Hilbert et al, 1995b"
+Type 1 (Type 2A / 2M),28,4120C>T,R1374C,32,No,EU,MCMDM-1VWD,"Mutation associated with an abnormal multimer pattern. Mutation identified in 4 index cases from the same European country. Previously classified as a type 1 mutation, detailed multimer analysis reclassified it as a type 2A / 2M mutation.","Goodeve et al., 2007"
+Type 2A,28,4120C>T,R1374C,200,No,Spain,Vidal,"Heterozygous mutation identified in four patients. Average VWF:Ag 28.5%, VWF:RCo 9.7%, FVIII:C 32.8%. Multimeric patterns compatible with 2A.","Corrales et al., 2009"
+Type 2A / 2M,28,4120C>T,R1374C,104,No,Spain,Batlle,"VWF:Ag 30 UI/dL, VWF:RCo 8 UI/dL, FVIII:C 30 UI/dL, VWF:CB 25.7. BT >15 min. PFA >300 sec.","Penas et al., 2005"
+Unclassified,28,4121G>A,R1374H,100,No,Netherlands,Bertina,Mutation associated with thrombocytopenia after DDAVP but phenotypically type 1 and no increased ristocetin induced platelet aggregation.,"Castaman et al, 1995"
+Unclassified,28,4121G>A,R1374H,,Yes,France,Mazurier,,"Hilbert et al, 1995b"
+Type 1 (Type 2A),28,4121G>A,R1374H,20,No,EU,MCMDM-1VWD,"Mutation associated with an abnormal multimer pattern. Both index cases identified with the mutation came from the same European country. Previously classified as a type 1 mutation, detailed multimer analysis reclassified it as a type 2A mutation.","Goodeve et al., 2007"
+Type 2A,28,4121G>A,R1374H,200,No,Spain,Vidal,"VWF:Ag 43%, VWF:RCo 7%, FVIII:C 42%, ABO A blood group. Multimeric patterns compatible with 2A.","Corrales et al., 2009"
+Type 2A,28,4121G>A,R1374H,100,No,Spain,Batlle,"VWF:Ag 21.7 IU/dL, VWF:RCo 5 IU/dL, VWF:CB 13 IU/dL, FVIII:C 37 IU/dL. PFA >300 sec. Abnormal multimer pattern.",Unpublished
+Unclassified,28,4121G>T,R1374L,100,Yes,France & Algeria,French Network,One patient is compound heterozygous; R1374L + L1276P.,"Meyer et al, 1997"
+Type 1 (Type 2A),28,4133C>T,S1378F,6,No,EU,MCMDM-1VWD,"Mutation associated with an abnormal multimer pattern. Previously classified as a type 1 mutation, detailed multimer analysis reclassified it as a type 2A mutation.","Goodeve et al., 2007"
+Unclassified,28,4135C>T,R1379C,110,?,Spain,Casana,,"Casaña et al, 2001"
+Type 1,28,4135C>T,R1379C,6,No,EU,MCMDM-1VWD,Mutation associated with a normal multimer pattern.,"Goodeve et al., 2007"
+Type 1,28,4135C>T,R1379C,200,No,Spain,Vidal,"VWF:Ag 32%, VWF:RCo 26%, FVIII:C 45%, ABO O blood group.","Corrales et al., 2009"
+Type 2A,28,4148T>C,L1383P,3,No,Argentina,Sadler,"Multimer pattern is skewed toward small multimers, but not as much as in typical type 2A.",Unpublished
+Unclassified,28,4148T>G,L1383R,,No,France,French Network,,Unpublished
+Type 2M,28,4173-4205 del,R1392-Q1402 del,20,Yes,USA,Montgomery,"VWF:RCo = 3-8, VWF:Ag 14-35, normal multimers, no platelet binding with ristocetin or botrocetin","Mancuso et al, 1996"
+Unclassified,28,4195C>T,R1399C,,No,France,French Network,"One patient is homozygous, one patient is also heterozygous for a type 3 mutation.",Unpublished
+Type 2M,28,4222_4224delAAG,K1408del,,Yes,Algeria / UK,Mazurier,"Deletion of one K residue out of K1405-1408, resulting from a 3 bp AAG deletion between c.4213-4224. The Algerian patient was originally reported by Gaucher et al. (1995) at the XVth ISTH Conference.","Hilbert et al., 2000"
+Type 1,28,4222_4224delAAG,K1408del,2,No,Canada,Lillicrap,"Deletion of one K residue out of K1405-1408, resulting from a 3 bp AAG deletion between c.4213-4224.","James et al., 2007"
+Type 1,28,4238C>T,P1413L,6,No,EU,MCMDM-1VWD,Mutation associated with a normal multimer pattern.,"Goodeve et al., 2007"
+Type 1,28,4238C>T,P1413L,2,No,Canada,Lillicrap,,"James et al., 2007"
+Type 1,28,4244G>A,G1415D,38,No,EU,MCMDM-1VWD,Mutation associated with an abnormal multimer pattern. Both index cases identified with the mutation came from the same European country.,"Goodeve et al., 2007"
+Type 1 (Type 2A),28,4247T>A,I1416N,10,No,EU,MCMDM-1VWD,"Mutation associated with an abnormal multimer pattern. Previously classified as a type 1 mutation, detailed multimer analysis reclassified it as a type 2A mutation.","Goodeve et al., 2007"
+Type 2M,28,4263C>G,N1421K,6,Yes,EU,MCMDM-1VWD / Holmberg,"Mutation associated with a normal multimer pattern. Previously classified as a type 1 VWD mutation, but altered due to additional functional data.","Goodeve et al., 2007; Lanke et al., 2008b"
+Type 2M,28,4273A>T,I1425F,10,Yes,USA,Montgomery,"VWF:RCo = 4-13, VWF:Ag = 13-36, normal collagen binding, normal multimers","Hillery et al, 1998"
+Type 2M,28,4273A>T,I1425F,100,Yes,Columbia,French Network,,"Meyer et al, 1997"
+Type 2M,28,4309G>A,A1437T,110,No,Spain,Casana,,"Casaña et al, 2001"
+Type 1,28,4339G>C,E1447Q,70,No,Mexico,Peñaloza R.,"VWF:RCo 98%, VWF:FVIII 78%, VWF:Ag 46% Blood group 0+",Unpublished
+Type 3,28,4368C>A,Y1456X,6,No,China,Hongli Wang,Mutation found in a heterozygous state in conjunction with mutation M299YfsX4.,"Xie et al., 2007"
+Type 1,28,4368C>G,Y1456X,4,No,Turkey,Peake,"Family was supplied by Dr. J. Ingerslev, Denmark and Dr. T. Gürsel, Turkey.",Unpublished
+Type 2A,28,4373G>A,C1458Y,100,Yes,France,French Network,,"Meyer et al, 1997"
+Type 2B,28,4378C>G,L1460V,100,Yes,,Mazurier,,"Hilbert et al, 1994"
+Type 2B,28,4382C>A,A1461D,4,No,USA,Robert Montgomery,Patient's plasma VWF bound to platelets at low concentrations of ristocetin. Patient and his affected father both have thrombocytopenia and loss of high molecular weight VWf multimers.,Unpublished
+Type 2B,28,4382C>T,A1461V,100,Yes,,,,"Hilbert et al, 1995a"
+Unclassified,28,4384C>G,P1462A,,No,France,French Network,,Unpublished
+Type 2M,28,4399C>T,P1467S,48,No,USA,Robert Montgomery,"Patient (child) had von Willebrand studies as part of pre-operative screening, but is asymptomatic. PT, PTT, and thrombin time were normal. Template bleeding time was 3 minutes. Shear condition binds normally suggesting defect in ristocetin binding to VWF.",Unpublished
+Type 3,28,4414insC,1472 frameshift to terminus,108,No,India,Federici/Mannucci,Patient compound heterozygous with mutation 3379+1G>A.,"Baronciani et al, 2003"
+Type 3,28,4415_4416insG,H1472QfsX40,8,No,Turkey,Peake,"Family was supplied by Dr. J. Ingerslev, Denmark and Dr. T. Gürsel, Turkey.",Unpublished
+Type 1,28,4423C>T,Q1475X,10,No,EU,MCMDM-1VWD,Mutation associated with a normal multimer pattern.,"Goodeve et al., 2007"
+Type 1,28,4453delG,V1485FfsX40,6,No,Italy,Bertina / Eikenboom,This guanine deletion introduces a frameshift resulting in a premature TGA stop codon after amino acid 1523.,"Eikenboom et al., 1998"
+Type 1,28,4453delG,V1485FfsX40,6,No,EU,MCMDM-1VWD,Mutation associated with an abnormal multimer pattern.,"Goodeve et al., 2007"
+Type 2A,28,4499C>A,A1500E,,Yes,China,Jiangsu Institute of Hematology,The structure of recombinant A1500E VWF within transfected COS-7 cells and the secretion of high-molecular-weight (HMW) multimers were similar to wild-type VWF. HMW forms of VWF multimers were absent in plasma but present in platelets.,"Wang et al., 2000"
+Type 2A,28,4508T>A,L1503Q,110,Yes,Canada,Lillicrap,,"O'Brien et al., 2004"
+Type 2A,28,4508T>C,L1503P,,Yes,France,French Network,"The patient is heterozygous for a second type 2A mutation, S1506L.",Unpublished
+Type 3,28,4508T>C,L1503P,60,No,Turkey,Berber,"VWF:Ag 1%, VWF:Rco 12%, FVIII:C 1.5%. Patient compound heterozygous for this mutation and p.S1506L.",Unpublished
+Type 2A,28,4508T>G,L1503R,124,Yes,Japan,Nagoya University Hospital,"Patient A - VWF:Ag 0.19 U/mL, VWF:RCo 0.10 U/mL, FVIII:C 0.33 U/mL. Patient B - VWF:Ag 0.28 U/mL, VWF:RCo 0.09 U/mL, FVIII:C 0.41 U/mL.","Kashiwagi et al., 2008"
+Type 2A,28,4513G>C,G1505R,25,Yes,,,Group 1 mutation.,"Lyons et al, 1992"
+Type 2A,28,4514G>A,G1505E,100,No,,,,"Inbal et al, 1992"
+Type 2A,28,4514G>A,G1505E,25,Yes,,,,"Lyons et al, 1992"
+Type 2A,28,4517C>T,S1506L,8,No,USA,Robert Montgomery,Also reported as a polymorphism in French Population.,Unpublished
+Type 2A,28,4517C>T,S1506L,3,No,Argentina,Sadler,,Unpublished
+Type 2A,28,4517C>T,S1506L,,?,,Daly,,Unpublished
+Type 2A,28,4517C>T,S1506L,100,No,,,,"Inbal et al, 1992"
+Type 2A,28,4517C>T,S1506L,100,No,,,,"Sugiura et al, 1992"
+Type 2A,28,4517C>T,S1506L,25,Yes,,,,"Lyons et al, 1992"
+Type 2A,28,4517C>T,S1506L,,?,Israel,Inbal,,Unpublished
+Type 2A,28,4517C>T,S1506L,,No,Japan,Saito,,Unpublished
+Type 3,28,4517C>T,S1506L,60,No,Turkey,Berber,"VWF:Ag 1%, VWF:RCo 12%, FVIII:C 1.5%. Patient compound heterozygous for this mutation and p.L1503P.",Unpublished
+Type 2A,28,4517C>T,S1506L,100,No,Spain,Batlle,"VWF:Ag 12.2 IU/dL, VWF:RCo 5 IU/dL, VWF:CB 4.2 IU/dL, FVIII:C 28.10 IU/dL. Abnormal multimer pattern.",Unpublished
+Type 2A,28,4541T>G,F1514C,100,Yes,,Mazurier,,"Gaucher et al, 1993"
+Type 2A,28,4552A>G,K1518E,100,No,England,,,"Enayat et al., 1998"
+Type 2A,28,4570delG,V1524fs,8,No,Germany,Schneppenheim,"Frameshift mutation del G at 4570, the patient is compound-heterozygous for this frameshift mutation and another yet unidentified mutation correlated with a subtype IIC Miami phenotype.",Unpublished
+Type 2A,28,4604_4612delTCCACGTCA,I1535_V1537del,4,No,Netherlands,van Heerde,"Mutation is found heterozygous in 2 patients (1 family) with a comparable laboratory phenotype. Mean levels: VWF:RCo 18%, VWF:Ag 27%, VWF:CB 18%, FVIII:C 70% and disturbed multimers. Also mutation R924Q (type 1/2N) is involved in both patients.",Unpublished
+Type 2A,28,4616T>A,V1539E,,No,France,French Network,,Unpublished
+Type 2A,28,4619T>C,L1540P,25,Yes,US,Ginsburg,,"Lyons et al, 1992; Lyons et al, 1994"
+Type 3,28,4626C>G,Y1542X,108,No,Italy,Federici/Mannucci,Patient homozygous for the nonsense mutation and of consanguineous descent.,"Baronciani et al, 2000"
+Type 2A,28,4628C>T,S1543F,,Yes,,Mazurier,,Unpublished
+Type 2A,28,4628C>T,S1543F,200,No,Spain,Vidal,"VWF:Ag 57%, VWF:RCo 9%, FVIII:C 45%, ABO AB blood group. Multimeric patterns compatible with 2A.",Unpublished
+Type 3,28,4635delG,1545 frameshift to terminus,,No,Germany,Schneppenheim,,"Schneppenheim et al., 1994"
+Type 1,28,4637-4645del9,1546-1548del3,2,No,Canada,Lillicrap,,"James et al., 2007"
+Type 2M,28,4645G>A,E1549K,70,No,Argentina,Lazzari,"Five patients (from one family) were all heterozygous for the mutation with normal VWF:Ag and FVIII:C, and VWF:RCo <10 IU/dL.",Unpublished
+Type 2A,28,4667A>G,Q1556R,100,No,France,French Network,,"Meyer et al, 1997"
+Type 2A,28,4685T>C,L1562P,100,No,,,,"Sugiura et al, 1992"
+Unclassified,28,4696C>T,R1566X,,No,Germany,Schneppenheim,Patient compound heterozygous for 2384A>G predicting Y795C.,"Schneppenheim et al, 2004"
+Type 2A,28,4703T>A,I1568N,100,No,Spain,Batlle,"VWF:Ag 70 IU/dL, VWF:RCo 8 IU/dL, FVIII:C 72 IU/dL, VWF:CB 9.5 IU/dL; Bleeding time >15 min; PFA >300 seconds. Aberrant multimeric pattern with a clear increase in the relative proportion of the smallest oligomer.",Unpublished
+Type 2A,28,4717G>A,G1573S,8,No,Netherlands,van Heerde,"Mutation found heterozygous in 4 patients (2 families) with a comparable VWD phenotype. Mean VWF levels: VWF:RCo 45%, VWF:Ag 74%, VWF:CB 49%, FVIII:C 77% and variable multimers.",Unpublished
+Type 2A,28,4735G>A,G1579R,4,No,USA,Robert Montgomery,,Unpublished
+Type 2A,28,4738C>G,L1580V,70,No,Mexico,Peñaloza R.,"VWF:RCo 88% VWF:FVIIIB 71%, VWF:Ag 51%",Unpublished
+Type 2A,28,4739T>C,L1580P,,Yes,France,Mazurier,,"Hilbert et al, 1996b"
+Type 2A,28,4747C>T,R1583W,,No,France,French Network,,Unpublished
+Type 1,28,4747C>T,R1583W,6,No,EU,MCMDM-1VWD,Mutation associated with a normal multimer pattern.,"Goodeve et al., 2007"
+Type 1,28,4751A>G,Y1584C,48,Yes,Canada,Lillicrap,Previously reported as a polymorphism.,"O'Brien et al, 2003; James et al., 2007"
+Type 1,28,4751A>G,Y1584C,106,No,EU,MCMDM-1VWD,Mutation associated with a normal multimer pattern. Mutation identified in 13 families in total. In 3 families a second mutation was also identified. In the remainder the mutation was found to track with disease in 6/10 families.,"Goodeve et al., 2007"
+Type 1,28,4751A>G,Y1584C,100,No,Spain,Batlle,"VWF:Ag 30 IU/dL, VWF:RCo 40 IU/dL, FVIII:C 50.5%. Normal multimer pattern.",Unpublished
+Type 2A,28,4789C>G,R1597G,,Yes,,,,"Donner et al, 1993"
+Type 2A,28,4789C>T,R1597W,12,No,USA,Robert Montgomery,,Unpublished
+Type 2A,28,4789C>T,R1597W,,No,,,,"Winter and Mayne, Blood 80"
+Type 2A,28,4789C>T,R1597W,100,?,Japan,Fukutake,,"Hagiwara et al, 1996"
+Type 2A,28,4789C>T,R1597W,,?,,Sixma,,Unpublished
+Type 2A,28,4789C>T,R1597W,100,?,,,,"Sugiura et al, 1992"
+Type 2A,28,4789C>T,R1597W,,?,England,Peake,,"Bowen et al, 1990"
+Type 2A,28,4789C>T,R1597W,100,No,,,,"Inbal et al, 1992"
+Type 2A,28,4789C>T,R1597W,100,Yes,US/France,Ginsburg,Group 2 mutation.,"Lyons et al, 1992; Ginsburg et al, 1989"
+Type 2A,28,4789C>T,R1597W,,?,Japan,Saito,,Unpublished
+Type 2A,28,4789C>T,R1597W,200,No,Spain / Romania,Vidal,"Heterozygous mutation identified in two Spanish patients and one Romanian patient. Average VWF:Ag 28%, VWF:RCo 9%, FVIII:C 29.3%. Multimeric patterns compatible with 2A.","Corrales et al., 2009"
+Type 2A,28,4790G>A,R1597Q,100,No,Japan,Fukutake,,"Inbal et al, 1993; Hagiwara et al, 1996"
+Type 2A,28,4790G>A,R1597Q,,No,,Sixma,,Unpublished
+Type 2A,28,4790G>A,R1597Q,,No,,Meyer,,Unpublished
+Type 2A,28,4790G>A,R1597Q,100,No,France,Meyer,"Presented by Lavergne et al, at the ISTH meeting, 1991.",Unpublished
+Type 2A,28,4790G>T,R1597L,,No,France,French Network,,Unpublished
+Type 1,28,4808T>C,L1603P,22,No,Turkey,Berber,"VWF:Ag=14.5IU/dl, VWF:RCo=7IU/dl, FVIII:C=43IU/dl.",Unpublished
+Type 2A,28,4810G>T,V1604F,100,No,France,French Network,,"Meyer et al, 1997"
+Type 2A,28,4820T>A,V1607D,100,Yes,US,Ginsburg,Group 1 mutation.,"Lyons et al, 1992; Ginsburg et al, 1989"
+Type 2A,28,4825G>A,G1609R,100,No,Japan,Fukutake,,"Hagiwara et al, 1996"
+Type 2A,28,4825G>A,G1609R,,Yes,,,,"Donner et al, 1993"
+Type 2A,28,4825G>A,G1609R,100,Yes,,,Patient is heterozygous at this position.,"Inbal et al, 1993"
+Type 2A,28,4837T>C,S1613P,,Yes,,,,"Chang et al, 1989"
+Type 2A,28,4841A>G,D1614G,,No,France,French Network,,Unpublished
+Type 2A,28,4880C>A,P1627H,100,No,Italy,,,"Bernardi et al., 1998"
+Type 2A,28,4883T>C,I1628T,25,Yes,,,,"Iannuzzi et al, 1991; Lyons et al, 1994"
+Type 2A,28,4883T>C,I1628T,,?,,,Also reported as polymorphism in French population.,"Pietu et al, 1992"
+Type 2A,28,4883T>C,I1628T,200,No,Spain,Vidal,"Heterozygous mutation identified in four Spanish patients. Average VWF:Ag 35.8%, VWF:RCo 11.8%, FVIII:C 38.5%.",Unpublished
+Type 2A,28,4885G>A,G1629R,110,No,Spain,Casana,,"Casana et al, 1999"
+Type 3,28,4886delG,1629 frameshift to terminus,,?,Germany,Schneppenheim,Patient was heterozygous.,"Schneppenheim et al, 1994"
+Type 2A,28,4889T>A,V1630E,100,No,Italy,,,"Bernardi et al., 1998"
+Type 2A,28,4912G>A,E1638K,100,Yes,France,Meyer,,"Lavergne et al, 1991; Christophe et al, 1994; Ribba et al, 1992"
+Type 2A,28,4916T>C,L1639P,100,Yes,Peru,French Network,,"Meyer et al, 1997"
+Type 2A,28,4942C>T,P1648S,,?,,,,"Pietu et al, 1992"
+Type 2A,28,4943C>G,P1648R,100,No,Spain,Batlle,"VWF:Ag 26.5 IU/dL, VWF:RCo 9.2 IU/dL.",Unpublished
+Type 1,28,4944delT,P1648fsX45,,No,England,UKHCDO,,"Cumming et al., 2006"
+Type 2A,28,4969C>A,L1657I,100,Yes,England,,,"Enayat et al., 2000"
+Type 2A,28,4970T>A,L1657H,8,No,Turkey,Peake,"Family was supplied by Dr. J. Ingerslev, Denmark and Dr. T. Gürsel, Turkey.",Unpublished
+Type 3,28,4971insC,1657 frameshift to terminus,,No,Sweden,,1 heterozygous patient in 1 type 3 family. Mutation not identified in any other family members and linkage analysis revealed that the proband inherited the same paternal chromosome as his two healthy brothers. The mutation could therefore be a germline mutation or an early mutation in the proband.,"Zhang et al., 1994"
+Type 3,28,4975C>T,R1659X,,No,Spain,Casana,,Unpublished
+Type 3,28,4975C>T,R1659X,100,No,Japan,Fukutake,,"Hagiwara et al, 1996"
+Type 3,28,4975C>T,R1659X,,No,,,"4 typeIII homozygous, 2 typeIII heterozygous, and 18 typeI heterozygous patients. In exon 28.","Zhang et al, 1992c; Zhang et al, 1992d"
+Type 3,28,4975C>T,R1659X,52,No,,,"1 homozygote, 2 heterozygotes in one Type III family.","Zhang et al, 1992c"
+Type 3,28,4975C>T,R1659X,108,No,Iran,Federici/Mannucci,Patient homozygous for the nonsense mutation and of consanguineous descent.,"Baronciani et al, 2000"
+Type 3,28,4975C>T,R1659X,,No,Turkey,Berber,,Unpublished
+Type 2A,28,4994T>A,V1665E,100,No,,,Appears to be a de novo mutation in this family.,"Inbal et al, 1993"
+Type 1,28,5004G>T,R1668S,4,No,Canada,Lillicrap,,"James et al., 2007"
+Type 2A,28,5014G>A,G1672R,100,No,Japan,Fukutake,,"Hagiwara et al., 1996"
+Type 1,28,"5023C>T, 5024T>A",L1675X,4,No,USA,Montgomery,Observed in a compound heterozygous patient that has a type 2A mutation (4789C>T R1597W) on one allele and a dinucleotide substitution on the other allele that codes for a premature stop. 5023C>T and 5024T>A are on the same allele.,Unpublished
+Type 3,28,5053+1G>A,Not applicable,108,No,India,Federici/Mannucci,"Patient compound heterozygous for the potential splice site mutation (located at position 24/1585 according to Mancuso et al, 1989) and mutation 7294delGT.","Baronciani et al, 2003"
+Type 3,28,5053+1G>T,N/A,6,No,Turkey,Peake,"Family was supplied by Dr. J. Ingerslev, Denmark and Dr. T. Gürsel, Turkey.",Unpublished
+Type 3,29,5170+10C>T,Not applicable,108,No,Italy,Federici/Mannucci,"Patient presents 3 mutations, the potential splice site mutation (located at position 25/170 according to Mancuso et al, 1989) in one allele along with mutation S85P and a deletion 2435delC in the other allele.","Baronciani et al, 2003"
+Type 1,30,5180insTT,L1727fs,4,No,Canada,Lillicrap,,"James et al., 2007"
+Unclassified,30,5191T>A,S1731T,300,Yes,France,French Network,New variant of VWD with a defective binding of VWF to collagen.,"Ribba et al., 2001"
+Type 2M,30,5235G>T,W1745C,6,Yes,UK,Gomez,"VWF:Ag=29IU/dL, VWF:RCo=27IU/dL, VWF:CB(type III collagen)=10IU/dL. Multimers were normal.","Riddell et al., 2009"
+Type 1,30,5278G>A,V1760I,2,No,Canada,Lillicrap,,"James et al., 2007"
+Type 1,31,5321T>C,L1774S,216,No,EU,MCMDM-1VWD,Mutation associated with a normal multimer pattern.,"Goodeve et al., 2007"
+Type 1,31,5335C>T,R1779X,8,No,EU,MCMDM-1VWD,Mutation associated with an abnormal multimer pattern.,"Goodeve et al., 2007"
+Type 2M,31,5347T>G,S1783A,4,Yes,UK,Gomez,"VWF:Ag=68IU/dL, VWF:RCo=66IU/dL, VWF:CB (type III collagen)=19IU/dL. Multimers were normal.","Riddell et al., 2009"
+Type 2M,31,5356C>G,H1786D,6,Yes,USA,"Montgomery, ZPMCB-VWD",The mutation results in defective binding to both type I and type III collagen.,"Flood et al., 2010"
+Type 1,31,5380A>G,K1794E,12,No,EU,MCMDM-1VWD,Mutation associated with a normal multimer pattern.,"Goodeve et al., 2007"
+Type 1,31,5453A>G,N1818S,2,No,Canada,Lillicrap,,"James et al., 2007"
+Type 1,32,5465T>G,V1822G,8,No,EU,MCMDM-1VWD,Mutation associated with an abnormal multimer pattern.,"Goodeve et al., 2007"
+Type 1,32,5471C>A,P1824H,120,No,Spain,Casana,Very low VWF levels. Moderate-to-severe bleeding tendency. Located in A3 domain.,Casana et al. 2006
+Type 1,32,5545G>A,V1850M,100,No,England,UKHCDO,"This mutation did not completely segregate with the disease phenotype in the study family. However, it was not identified in any of the 100 control alleles screened.","Cumming et al., 2006"
+Type 3,32,5557C>T,R1853X,8,No,,,"1 patient homozygous, 2 heterozygous type III and 7 type I hetrozygous patients. In exon 32.","Zhang et al, 1992b"
+Type 1,35,5890C>A,Q1964K,200,No,Spain,Vidal,"VWF:Ag 33%, VWF:RCo 42%, FVIII:C 45%. Patient also has a mild FXII deficiency (38%).",Unpublished
+Type 3,35,5941G>T,E1981X,108,No,Iran,Federici/Mannucci,Patient homozygous for the nonsense mutation and of consanguineous descent.,"Baronciani et al, 2003"
+Type 3,36,6182delT,2061 frameshift to terminus,108,No,Italy,Federici/Mannucci,Patient homozygous for the deletion and of consanguineous descent.,"Baronciani et al, 2000"
+Type 3,36,6187C>T,P2063S,206,No,Turkey,Peake,"The mutation was found in 1/200 screened Caucasian alleles. Heterozygotes for this mutation were asymptomatic. Family was supplied by Dr. J. Ingerslev, Denmark and Dr. T. Gürsel, Turkey.",Unpublished
+Type 1,36,6187C>T,P2063S,10,No,Canada,Lillicrap,Occurred with a frequency of 0.25 in unaffected family members.,"James et al., 2007"
+Type 1,37,6311C>T,T2104I,2,No,Canada,Lillicrap,,"James et al., 2007"
+Type 3,37,6385G>T,E2129X,108,No,Italy,Federici/Mannucci,Patient compound heterozygous with mutation S1338X (4013C>G).,"Baronciani et al, 2000"
+Type 1,37,6433C>T,P2145S,212,No,EU,MCMDM-1VWD,"Mutation associated with a normal multimer pattern. Mutation identified in family in which the R1374C mutation appeared to be the disease cause. Did not track with disease, but absent from 103 normal controls.","Goodeve et al., 2007"
+Type 3,37,6520T>G,C2174G,108,No,Iran,Federici/Mannucci,Patient homozygous for the candidate missense mutation and of consanguineous descent.,"Baronciani et al, 2000"
+Type 1,37,6536C>T,S2179F,2,Yes,USA,Montgomery,"By virtue of mutation, VWF clearance is less than 3 hours.","Haberichter et al., 2006"
+Type 1,37,6554G>A,R2185Q,2,No,Canada,Lillicrap,,"James et al., 2007"
+Type 1,38,6599-20A>T,N/A,2,No,Canada,Lillicrap,Splice-site mutation.,"James et al., 2007"
+Unclassified,38,6620T>C,L2207P,,No,France,French Network,"The patient displays normal VWF multimers in plasma, slightly reduced ristocetin-induced binding of VWF to GPIb and normal botrocetin-induced binding.",Unpublished
+Type 1,38,6620T>C,L2207P,12,No,EU,MCMDM-1VWD,Mutation associated with an abnormal multimer pattern.,"Goodeve et al., 2007"
+Type 1,38,6697G>C,E2233G,2,No,Canada,Lillicrap,,"James et al., 2007"
+Type 1,38,6769T>A,C2257S,8,No,EU,MCMDM-1VWD,Mutation associated with an abnormal multimer pattern.,"Goodeve et al., 2007"
+Type 1,38,6798+1G>T,N/A,2,No,Canada,Lillicrap,Splice-site mutation.,"James et al., 2007"
+Type 1,39,6859C>T,R2287W,8,No,EU,MCMDM-1VWD,Mutation associated with a normal multimer pattern.,"Goodeve et al., 2007"
+Type 1,40,6911G>A,C2304Y,14,No,EU,MCMDM-1VWD,Mutation associated with an abnormal multimer pattern.,"Goodeve et al., 2007"
+Type 1,40,6932G>A,R2311H,200,No,Spain,Vidal,"VWF:Ag 64%, VWF:RCo 43%, FVIII:C 66%, ABO O blood group.","Corrales et al., 2009"
+Type 1,40,6938G>A,R2313H,210,No,EU,MCMDM-1VWD,Mutation associated with a normal multimer pattern.,"Goodeve et al., 2007"
+Type 3,41,6977-1G>C,Not applicable,108,No,India,Federici/Mannucci,"Patient homozygous for the potential splice site mutation (located at position 31/2492 according to Mancuso et al, 1989).","Baronciani et al, 2000"
+Type 1,41,7018T>C,C2340R,2,No,Canada,Lillicrap,,"James et al., 2007"
+Type 1,41,7028G>T,G2343V,2,No,Canada,Lillicrap,,"James et al., 2007"
+Type 3,42,7082-2A>G,Not Determined,200,Yes,Spain,Vidal,Compound heterozygous mutation in trans with mutation p.L150P in one family and with mutation c.8155+3G>C in another family.,"Corrales et al., 2009"
+Type 3,42,7085G>T,C2362F,200,No,Italy,Bertina/Eikenboom,One patient homozygous. Three patients compound heterozygous for this mutation and a null allele. These patients are characterized by significant increase of factor VIII after desmopressin.,"Eikenboom et al, 1998"
+Type 1,42,7085G>T,C2362F,6,No,EU,MCMDM-1VWD,Mutation associated with an abnormal multimer pattern.,"Goodeve et al., 2007"
+Type 3,42,7125insC,"Frameshift, 2389X",,No,Italy,Bertina/Eikenboom,Cytosine insertion exon 42 7125insC. This cytosine insertion introduces a frame shift resulting in a premature TGA stop codon after codon 2389.,"Eikenboom et al, 1998"
+Type 3,42,7130insC,2377 frameshift to terminus,108,No,India,Federici/Mannucci,Two patients homozygous for the insertion and one compound heterozygous with deletion 4092delAC.,"Baronciani et al, 2003"
+Type 1,42,7135C>T,R2379C,2,No,Canada,Lillicrap,,"James et al., 2007"
+Type 3,42,7137insT,2379 frameshift to terminus,108,No,India,Federici/Mannucci,Patient homozygous for the insertion and of consanguineous descent.,"Baronciani et al, 2003"
+Type 3,42,7176T>G,Y2392X,24,No,Turkey,Peake,"This mutation was found in two type 3 VWD families. It was uncertain whether both families were related. Families were supplied by Dr. J. Ingerslev, Denmark and Dr. T. Gürsel, Turkey.",Unpublished
+Type 3,43,7294delGT,2431 frameshift to terminus,108,No,India,Federici/Mannucci,Patient compound heterozygous with mutation 5053+1G>A.,"Baronciani et al, 2003"
+Type 3,43,7300C>T,R2434X,108,No,India,Federici/Mannucci,Patient homozygous for the nonsense mutation.,"Baronciani et al, 2003"
+Type 1,43,7321G>T,G2441C,12,No,EU,MCMDM-1VWD,Mutation associated with an abnormal multimer pattern.,"Goodeve et al., 2007"
+Type 3,43,7377_7393dup CGTGATGGGCCTCCGCG,V2465AfsX2,6,No,Belgium,Gadisseur,"The mutation was found in 1 homozygous patient. Both heterozygous parents were asymptomatic. VWF:Ag 2%, VWF:RCo 0%, VWF:CB 0%, FVIII:C 3%.",Unpublished
+Type 1,43,7390C>T,R2464C,26,No,EU,MCMDM-1VWD,"Mutation associated with an abnormal multimer pattern. Mutation identified in 3 index cases, one from the UK and two from Italy. A Y1584C alteration was also found in the UK family.","Goodeve et al., 2007"
+Type 1,43,7390C>T,R2464C,10,No,Canada,Lillicrap,,"James et al., 2007"
+Unclassified,43,7390C>T,R2464C,2,Yes,England,,Mutation associated with an abnormal multimer pattern. Due to this the authors believed that this mutation was likely to cause an unclassified form of type 2 VWD.,"Lester et al., 2007"
+Type 1,43,7405T>C,S2469P,8,No,EU,MCMDM-1VWD,Mutation associated with an abnormal multimer pattern.,"Goodeve et al., 2007"
+Unclassified,43,7408C>T,Q2470X,,No,France,French Network,Mutation could be associated with type 2M.,"Hilbert et al., 2002"
+Type 1,43,7430G>A,C2477Y,8,No,EU,MCMDM-1VWD,Mutation associated with an abnormal multimer pattern.,"Goodeve et al., 2007"
+Type 1,43,7430G>C,C2477S,6,No,EU,MCMDM-1VWD,Mutation associated with an abnormal multimer pattern.,"Goodeve et al., 2007"
+Type 1,43,7437+1G>A,N/A,,Yes,England,UKHCDO,The aberrant transcript has been shown to undergo RNA decay.,"Cumming et al., 2006"
+Type 3,43,7437G>A,N/A,,No,Sweden,,"2 heterozygous siblings in 1 type 3 family. Nucleotide transition has no effect on the amino acid, but it occurs just prior to the splice donor site, so may result in abnormal splicing.","Zhang et al., 1994"
+Type 3 (Type 1),44,7449_7450insA,V2484SfsX4,6,No,Turkey,Peake,"This mutation was found in a heterozygous state. The heterozygous father of the index case had a type 1 VWD phenotype. The second mutation in the index case was not identified. Family was supplied by Dr. J. Ingerslev, Denmark and Dr. T. Gürsel, Turkey.",Unpublished
+Type 1,44,7489T>C,S2497P,2,No,Canada,Lillicrap,,"James et al., 2007"
+Type 1,45,7552G>A,G2518S,14,No,EU,MCMDM-1VWD,Mutation associated with a normal multimer pattern.,"Goodeve et al., 2007"
+Type 1,45,7559A>C,Q2520P,10,No,EU,MCMDM-1VWD,Mutation associated with an abnormal multimer pattern.,"Goodeve et al., 2007"
+Unclassified,45,7599T>A,C2533X,2,No,China,Prof. Hongli Wang,VWF:Rcof 4%; VWF:CB 5%; VWF:Ag 10%,Unpublished
+Type 3,45,7603C>T,R2535X,,?,Germany,Schneppenheim,One patient was homozygous.,"Schneppenheim et al, 1994"
+Type 3,45,7603C>T,R2535X,126,No,Turkey,Peake,"Family was supplied by Dr. J. Ingerslev, Denmark and Dr. T. Gürsel, Turkey.",Unpublished
+Type 3,45,7603C>T,R2535X,,No,,,1 type III patient is heterozygous in exon 45.,"Zhang et al, 1992b"
+Type 3,45,7603C>T,R2535X,,No,,,Patients are heterozygous; all 3 alleles have identical haplotypes; affected allele is not expressed.,"Eikenboom et al, 1991; Eikenboom et al, 1992"
+Type 3,45,7630C>T,Q2544X,108,No,Italy,Federici/Mannucci,Patient compound heterozygous with mutation 1946-4C>T.,"Baronciani et al, 2003"
+Type 1,45,7630C>T,Q2544X,6,No,EU,MCMDM-1VWD,Mutation associated with a normal multimer pattern.,"Goodeve et al., 2007"
+Type 3,45,7636A>T,N2546Y,,No,,,Patients are homozygous and of consanguineous descent; affected allele is not expressed at mRNA level.,"Eikenboom et al, 1991; Eikenboom et al, 1992"
+Type 3,45,7664_7665insAG,C2557SfsX8,200,No,Spain,Vidal,Homozygous mutation.,"Corrales et al., 2009"
+Type 3,45,7674insC,2558 frameshift to terminus,108,No,Iran,Federici/Mannucci,Patient homozygous for the insertion and of consanguineous descent.,"Baronciani et al, 2000"
+Type 3,45,7683delT,2561 frameshift to terminus,108,No,Iran,Federici/Mannucci,Patient homozygous for the deletion and of consanguineous descent.,"Baronciani et al, 2003"
+Type 3,45,7729+7C>T,Not applicable,108,No,Italy,Federici/Mannucci,"Patient compound heterozygous for the potential splice site mutation (located at position 34/439 according to Mancuso et al, 1989) and mutation 2269delCT.","Baronciani et al, 2003"
+Type 1 / 3,46,7730-1G>C,Not Determined,200,Yes,Spain,Vidal,"Compound heterozygous mutation in trans with mutation p.R854Q (type 1: VWF:Ag 40%, VWF:RCo 30%, FVIII:C 30%) or with p.T1156M (type 3: VWF:Ag 6%, VWF:RCo 6%, FVIII:C 6%). Another patient homozygous for the mutation had a type 3 phenotype.","Corrales et al., 2009"
+Type 1,48,7940C>T,T2647M,2,No,Canada,Lillicrap,,"James et al., 2007"
+Type 3,49,8012G>A,C2671Y,202,Yes,Italy,Bertina / Eikenboom / Rodeghiero,The patient was found to be compound heterozygous for the p.C2671Y mutation and the VWF deletion. No inhibitory antibody formation to VWF was reported in this patient.,"Eikenboom et al., 1998; Castaman et al., 2000"
+Type 1,49,8078G>A,C2693Y,10,No,EU,MCMDM-1VWD,Mutation associated with a normal multimer pattern.,"Goodeve et al., 2007"
+Type 3,50,8155+3G>C,Not Determined,200,Yes,Spain,Vidal,Compound heterozygous mutation in trans with mutation c.7082-2A>G.,"Corrales et al., 2009"
+Type 3,50,8155+3G>T,Skipping of Exon 50,,Yes,Germany,,,"Mertes et al., 1994"
+Type 1,51,8164C>G,P2722A,12,No,EU,MCMDM-1VWD,Mutation associated with a normal multimer pattern.,"Goodeve et al., 2007"
+Type 2A,51,8187-8194del8,A2729fs,,No,England,,,"Enayat et al., 2001"
+Type 3,51,8216G>A,C2739Y,,No,Sweden,,1 heterozygous patient in 1 type 3 family.,"Zhang et al., 1994"
+Type 3,51,8241del9,2748del3,108,No,Italy,Federici/Mannucci,Patient homozygous for the in-frame deletion.,"Baronciani et al, 2000"
+Type 3,52,8262T>G,C2754W,56,Yes,Germany,Schneppenheim,Homozygous mutation causing a severe dimerization defect.,"Schneppenheim et al, 2001"
+Type 2A,52,8311T>A,C2771S,100,Yes,England,,,"Enayat et al., 2001"
+Type 2A,52,8312G>A,C2771Y,100,Yes,England,,,"Enayat et al., 2001"
+Type 2A,52,8316delC,S2772fs,24,Yes,Germany,Schneppenheim,"Frameshift mutation del C at 8316; subtype IIE: heterozygous frameshift mutation affecting codons 2773 through the carboxy-terminus, correlated with a severe dimerization defect.","Schneppenheim et al, 2001"
+Type 2A,52,8317T>C,C2773R,100,Yes,Germany/Sweden,Schneppenheim,VWD subtype IID according to old nomenclature. Defect of dimersation.,"Schneppenheim et al, 1996b"
+Type 2A,52,8318G>C,C2773S,10,Yes,Netherlands,Bertina / Eikenboom,Patient 1 VWF:Ag = 1.07 IU/ml. Type 2A subtype IID.,"Tjernberg et al., 2006"
+Type 1,52,8327C>T,P2776L,,No,France,C. Mazurier,,Unpublished
+Type 2M,52,8341C>T,P2781S,70,No,Mexico,Peñaloza R.,VWF:RCo 5% VWF:FVIII 117% VWF:Ag 23% Blood group AB+,Unpublished
+Type 2A,52,8402C>A,A2801D,,No,France,French Network,"Both patients, homozygous for the mutation A2801D, have a phenotype IID VWD. Their parents, heterozygous for the mutation A2801D, are asymptomatic.",Unpublished
+Type 3,52,8411G>A,C2804Y,108,No,India,Federici/Mannucci,Patient homozygous for the candidate missense mutation.,"Baronciani et al, 2000"
+Type 1,52,8412insTCCCC,C2804fs,4,No,Canada,Lillicrap,,"James et al., 2007"
+Unclassified,52,8416T>C,C2806R,2,Yes,USA,Montgomery,"VWF:RCo <12 U/dl, VWF:Ag 30 U/dl, 1 band on multimer gel",
+Type 3,Deletion VWF,-44001_8442*35068del,Null Allele,150,No,Germany / Italy,Schneppenheim,Result of non-homologous recombination. Deletion associated with inhibitory antibody formation to VWF. VWF:Ag <0.01 U/dL.,"Schneppenheim et al., 2007"
+Type 3,Deletion VWF,-44001_8442*35068del,Null Allele,20,No,Italy,Zimmerman,Result of non-homologous recombination. Deletion associated with inhibitory antibody formation to VWF.,"Ngo et al., 1988"
+Type 3,Deletion VWF,-44001_8442*35068del,Null Allele,76,No,Italy,Sadler / Mannucci,Result of non-homologous recombination. Deletion associated with inhibitory antibody formation to VWF.,"Shelton-Inloes et al., 1987"
+Type 3,Deletion VWF,-44001_8442*35068del,Null Allele,202,Yes,Italy,Bertina / Eikenboom / Rodeghiero,Result of non-homologous recombination. The patient was found to be compound heterozygous for the VWF deletion and the p.C2671Y mutation. No inhibitory antibody formation to VWF was reported in this patient.,"Eikenboom et al., 1998; Castaman et al., 2000"
+Type 3,Deletion Ex 01-03,-30071_56+3445del,Null Allele,14,No,Hungary,Bodó,"Result of Alu-mediated homologous recombination. VWF:Ag ≤1 IU/dL, FVIII:C 1-3 IU/dL.","Mohl et al., 2008"
+Type 1 / 3,Deletion Ex 04-05,221-977_532+7059del,D75_G178del,310,Yes,England,"University Department of Haematology, Manchester","Result of Alu-mediated homologous recombination. VWF:Ag 23 IU/dL, VWF:RCo 21 IU/dL, FVIII:C 74 IU/dL on average in type 1 heterozygotes. VWF levels undetectable in type 3 homozygotes.","Sutherland et al., 2009"
+Type 3,Deletion Ex 06-16,532+1267_2187-251del,Null Allele,6,No,China,Hongli Wang,"Result of Alu-mediated homologous recombination. VWF:Ag <1 U/dL, VWF:RCo <2 U/dL, FVIII:C 3 U/dL.","Xie et al., 2006"
+Type 3,Deletion Ex 17-18,Not Determined,Null Allele,6,No,Turkey,Peake,"Southern blotting suggests deletion ~8.5 kb in size, the breakpoints occurring in int 16 & int 18. Family was supplied by Dr. J. Ingerslev, Denmark and Dr. T. Gürsel, Turkey.",Unpublished
+Type 3,Deletion Ex 22-43,Not Determined,Null Allele,6,No,USA,Sadler,Deletion associated with inhibitory antibody formation to VWF.,"Mancuso et al., 1994"
+Type 3,Deletion Ex 23-52,Not Determined,Null Allele,108,No,India,Federici / Mannucci,Deletion associated with inhibitory antibody formation to VWF.,"Baronciani et al., 2000"
+Unclassified,Deletion Ex 26-34,3380-298_5843-1385del,P1127_C1948delinsR,158,No,Italy,Bernardi,"Result of Alu-mediated homologous recombination. This mutation is associated with a type 2 VWD phenotype, but has not been sub-characterised.","Bernardi et al., 1990; Bernardi et al., 1993"
+Type 3,Deletion Ex 33-38,5621-269_6799-1161del,Null Allele,6,No,USA,Sadler,Deletion associated with inhibitory antibody formation to VWF.,"Mancuso et al., 1994"
+Type 3,Deletion Ex 42,7081+88_7287+1044del,Null Allele,92,No,UK,Peake / Bloom,Deletion associated with inhibitory antibody formation to VWF.,"Peake et al., 1990"
+Type 3,Deletion Ex ?,Not Determined,Null Allele,4,No,Germany,Schneppenheim,"The patient was heterozygous for a partial deletion of VWF, however the exact size and breakpoints were not determined. The second mutation was not identified. No inhibitory antibody formation to VWF was reported in this patient.","Schneppenheim et al., 1994"
+Type 1,Promoter,-1522del CATTGTTTCCTTT,N/A,2,No,Canada,Lillicrap,,"James et al., 2007"
+Type 1,Promoter,-1522del CATTGTTTCCTTT,N/A,202,No,EU,MCMDM-1VWD,101 control samples were screened for this mutation. It was found to be absent from all 101.,Unpublished
+Type 1,Promoter,-1665G>C,N/A,2,No,Canada,Lillicrap,,"James et al., 2007"
+Type 1,Promoter,-1665G>C,N/A,204,No,EU,MCMDM-1VWD,102 control samples were screened for this mutation. It was found to be absent from all 102.,Unpublished
+Type 1,Promoter,-1873A>G,N/A,2,No,Canada,Lillicrap,,"James et al., 2007"
+Type 1,Promoter,-1873A>G,N/A,206,No,EU,MCMDM-1VWD,103 control samples were screened for this mutation. It was found to be absent from all 103.,Unpublished
+Type 1,Promoter,-1886A>C,N/A,2,No,Canada,Lillicrap,This mutation was found in conjunction with the promoter mutation -2487G>A.,"James et al., 2007"
+Type 1,Promoter,-1886A>C,N/A,206,No,EU,MCMDM-1VWD,103 control samples were screened for this mutation. It was found to be absent from all 103.,Unpublished
+Type 1,Promoter,-1896C>T,N/A,218,No,EU,MCMDM-1VWD,103 control samples were screened for this mutation. It was found to be absent from all 103.,"Goodeve et al., 2007"
+Type 1,Promoter,-2328T>G,N/A,208,No,EU,MCMDM-1VWD,100 control samples were screened for this mutation. It was found to be absent from all 100.,"Goodeve et al., 2007"
+Type 1,Promoter,-2487G>A,N/A,2,No,Canada,Lillicrap,This mutation was found in conjunction with the promoter mutation -1886A>C.,"James et al., 2007"
+Type 1,Promoter,-2487G>A,N/A,200,No,EU,MCMDM-1VWD,100 control samples were screened for this mutation. It was found to be absent from all 100.,Unpublished
+Type 1,Promoter,-2535G>A,N/A,200,No,EU,MCMDM-1VWD,"100 control samples were screened for this mutation. It was found to be absent from all 100. Cumming et al., 2006 reported this as a polymorphism as it did not segregate with disease.",Unpublished
+Type 1,Promoter,-2615A>G,N/A,2,No,Canada,Lillicrap,,"James et al., 2007"
+Type 1,Promoter,-2615A>G,N/A,200,No,EU,MCMDM-1VWD,This mutation was identified in 1/200 screened control alleles.,Unpublished
+Type 1,Promoter,-2641G>A,N/A,200,No,EU,MCMDM-1VWD,"100 control samples were screened for this mutation. It was found to be absent from all 100. Cumming et al., 2006 reported this as a polymorphism as it did not segregate with disease.",Unpublished
+Type 1,Promoter,-2715G>A,N/A,200,No,EU,MCMDM-1VWD,"100 control samples were screened for this mutation. It was found to be absent from all 100. Cumming et al., 2006 reported this as a polymorphism as it did not segregate with disease.",Unpublished
+Type 1,Promoter,-2731C>T,N/A,2,No,Canada,Lillicrap,,"James et al., 2007"
+Type 1,Promoter,-2731C>T,N/A,208,No,EU,MCMDM-1VWD,This mutation was identified in 1/200 screened control alleles.,"Goodeve et al., 2007"

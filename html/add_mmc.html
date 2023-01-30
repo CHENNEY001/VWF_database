@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>VWF突变信息添加</title>
+    <link rel="stylesheet" href="../css/search.css" type="text/css">
+    <script src="../Js/search.js" type="text/javascript"></script>
+</head>
+<body>
+<div id = "total1">
+    <div class="top">
+        <a href="../php_for_all/mmc.php?permit=<?php echo $permit;?>" id="none1"> VWF突变数据库</a>
+        <a href="add_mmc.html?permit=<?php echo $permit;?>" id="none2"><p style="display: inline; color: #999999"> > VWF突变信息添加 </p></a>
+    </div>
+    <form action="../php_for_all/mmc_insert.php?permit=<?php echo $permit;?>" method="POST" target="_self">
+        <div class="main" align="center">
+            <table id="table2" cellspacing="18px">
+                <tr class="table2Tr">
+                    <td class="table2Td1" align="right"><p>*</p>VWD type</td>
+                    <td class="table2Td2"><select id="VWDtype" name="VWDtype">
+                        <option value="/" selected="selected">--please select VWD type--</option>
+                        <option value="1" >&nbsp 1 &nbsp</option>
+                        <option value="2A">&nbsp 2A &nbsp</option>
+                        <option value="2B">&nbsp 2B &nbsp</option>
+                        <option value="2C">&nbsp 2C &nbsp</option>
+                        <option value="2M">&nbsp 2M &nbsp</option>
+                        <option value="2N">&nbsp 2N &nbsp</option>
+                        <option value="3" >&nbsp 3 &nbsp</option>
+                    </select></td>
+                    <td class="table2Td1" align="right">mutation type</td>
+                    <td class="table2Td2"><input id="mutation type" type="text" name="mutation type" placeholder="eg, Missense; Nonsense; Large Deletion" /></td>
+                </tr>
+                <tr class="table2Tr">
+                    <td class="table2Td1" align="right">Domain</td>
+                    <td class="table2Td2"><input id="Domain" type="text" name="Domain" placeholder="eg, A1; C1; C2" /></td>
+                    <td class="table2Td1" align="right">Location</td>
+                    <td class="table2Td2"><input id="Location" type="Location" name="Location" placeholder="eg, Exon/Intron no." /></td>
+                </tr>
+                <tr class="table2Tr">
+                    <td class="table2Td1" align="right">Nucleotide change</td>
+                    <td class="table2Td2"><input id="Nucleotide change" type="text" name="Nucleotide change" placeholder="eg, 6860G>A; -128G>A" /></td>
+                    <td class="table2Td1" align="right">Amino acid change</td>
+                    <td class="table2Td2"><input id="Amino acid change" type="text" name="Amino acid change" placeholder="eg, Val1758Ala; Ala1500Val" /></td>
+                </tr>
+                <tr class="table2Tr">
+                    <td class="table2Td1" align="right">Inheritance</td>
+                    <td class="table2Td2"><input id="Inheritance" type="text" name="Inheritance" placeholder="eg, Heterozygous" /></td>
+                    <td class="table2Td1" align="right">Inheritance related</td>
+                    <td class="table2Td2"><input id="Inheritance related" type="text" name="Inheritance related" placeholder="eg, Gly2705Arg; c.-1+3A>C" /></td>
+                </tr>
+                <tr class="table2Tr">
+                    <td class="table2Td1" align="right">Plasma_multimers</td>
+                    <td class="table2Td2"><input id="Plasma_multimers" type="text" name="Plasma_multimers" placeholder="Plasma_multimers" /></td>
+                    <td class="table2Td1" align="right">In_vitro_multimers</td>
+                    <td class="table2Td2"><input id="In_vitro_multimers" type="text" name="In_vitro_multimers" placeholder="In_vitro_multimers" /></td>
+                </tr>
+                <tr class="table2Tr">
+                    <td class="table2Td1" align="right">Increased_clearance</td>
+                    <td class="table2Td2"><input id="Increased_clearance" type="text" name="Increased_clearance" placeholder="Increased_clearance" /></td>
+                    <td class="table2Td1" align="right">Decreased_secretion_in_vitro</td>
+                    <td class="table2Td2"><input id="Decreased_secretion_in_vitro" type="text" name="Decreased_secretion_in_vitro" placeholder="Decreased_secretion_in_vitro" /></td>
+                </tr>
+                <tr class="table2Tr">
+                    <td class="table2Td1" align="right">Extra_remarks</td>
+                    <td class="table2Td2"><input id="Extra_remarks" type="text" name="Extra_remarks" placeholder="Extra_remarks" /></td>
+                    <td class="table2Td1" align="right">Comments</td>
+                    <td class="table2Td2"><input id="Comments" type="text" name="Comments" placeholder="comments" /></td>
+                </tr>
+                <tr class="table2Tr">
+                    <td class="table2Td1" align="right">References</td>
+                    <td class="table2Td3" colspan="3"><input id="References" type="text" name="References" placeholder="references" style="width: 1021px" /></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td><input align="center" id="submit1"  style="height: 35px; width: 80px;" type="submit" value="提交记录"/></td>
+                    <!--                    <td><input align="center" id="submit2" style="height: 35px; width: 80px; display: none" type="submit" value="提交" /></td>-->
+                </tr>
+            </table>
+        </div>
+    </form>
+    <hr style="height:1px;border:none;border-top:1px dashed #0066CC;"/>
+    <form enctype="multipart/form-data" action="../php_for_all/file_add_mmc.php?permit=<?php echo $permit;?>" method="POST">
+        <div class="main" align="center">
+            <a id="download" title="模板文件" download="template.csv" href="../data/template_mutation.csv">点击下载模板文件</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <!--        http://localhost:63342/VWF/data/template.csv    -->
+            批量上传: <input align="center" name="userFile" type="file"/>
+            <input align="center" type="submit" value="提交记录" id="submit2" />
+        </div>
+    </form>
+</div>
+</body>
+</html>

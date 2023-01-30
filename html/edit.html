@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>VWD患者信息编辑</title>
+    <link rel="stylesheet" href="../css/search.css" type="text/css">
+    <script src="../Js/search.js" type="text/javascript"></script>
+</head>
+<body>
+<div id = "total1">
+    <?php $rec=$records[0] ?>
+    <div class="top">
+        <a href="../php_for_all/main_search.php" id="none1"> VWD患者数据库</a>
+        <a href="../php_for_all/edit.php?ID=<?php echo $rec['ID'] ;?>" id="none2"><p style="display: inline; color: #999999"> > VWD患者信息编辑 </p></a>
+    </div>
+<!--    <?php print_r($record) ?>-->
+    <form action="../php_for_all/VWD_update.php" method="POST" target="_self">
+        <div class="main" align="center">
+            <table id="table2" cellspacing="18px">
+                <tr class="table2Tr">
+                    <td class="table2Td1" align="right"><p>*</p>VWD type</td>
+                    <td class="table2Td2"><select id="VWDtype" name="VWDtype">
+                        <option value="/" selected="selected">--please select VWD type--</option>
+                        <option value="1"  <?php echo $record['VWD_type'] == '1' ? 'selected="selected"' : ''; ?>  >&nbsp 1 &nbsp</option>
+                        <option value="2A" <?php echo $record['VWD_type'] == '2A' ? 'selected="selected"' : ''; ?> >&nbsp 2A &nbsp</option>
+                        <option value="2B" <?php echo $record['VWD_type'] == '2B' ? 'selected="selected"' : ''; ?> >&nbsp 2B &nbsp</option>
+                        <option value="2C" <?php echo $record['VWD_type'] == '2C' ? 'selected="selected"' : ''; ?> >&nbsp 2C &nbsp</option>
+                        <option value="2M" <?php echo $record['VWD_type'] == '2M' ? 'selected="selected"' : ''; ?> >&nbsp 2M &nbsp</option>
+                        <option value="2N" <?php echo $record['VWD_type'] == '2N' ? 'selected="selected"' : ''; ?> >&nbsp 2N &nbsp</option>
+                        <option value="3"  <?php echo $record['VWD_type'] == '3' ? 'selected="selected"' : ''; ?>  >&nbsp 3 &nbsp</option>
+                    </select></td>
+                    <td class="table2Td1" align="right">Mutant region</td>
+                    <td class="table2Td2"><select id="Mutant region" name="Mutant region">
+                        <option value="/" selected="selected">--please select Mutant region--</option>
+                        <option value="Exon" <?php echo $record['Mutant_region'] == 'Exon' ? 'selected="selected"' : ''; ?> >&nbsp Exon &nbsp</option>
+                        <option value="Regulatory or Intron (and Exon)" <?php echo $record['Mutant_region'] == 'Regulatory or Intron (and Exon)' ? 'selected="selected"' : ''; ?> >&nbsp Regulatory or Intron (and Exon) &nbsp</option>
+                        <option value="Unfound" <?php echo $record['Mutant_region'] == 'Unfound' ? 'selected="selected"' : ''; ?> >&nbsp Unfound &nbsp</option>
+                    </select></td>
+                </tr>
+                <tr class="table2Tr">
+                    <td class="table2Td1" align="right"><p>*</p>patient id</td>
+                    <td class="table2Td2"><input id="id" type="text" name="id" placeholder="patient id" value="<?php echo $record['ID']; ?>" /></td>
+                    <td class="table2Td1" align="right">mutation type</td>
+                    <td class="table2Td2"><input id="mutation type" type="text" name="mutation type" placeholder="eg, Missense; Nonsense; Large Deletion" value="<?php echo $record['Mutation_type']; ?>"/></td>
+                </tr>
+                <tr class="table2Tr">
+                    <td class="table2Td1" align="right">Nucleotide change</td>
+                    <td class="table2Td2"><input id="Nucleotide change" type="text" name="Nucleotide change" placeholder="eg, 6860G>A; -128G>A" value="<?php echo $record['Nucleotide_change']; ?>" /></td>
+                    <td class="table2Td1" align="right">Amino acid change</td>
+                    <td class="table2Td2"><input id="Amino acid change" type="text" name="Amino acid change" placeholder="eg, Val1758Ala; Ala1500Val" value="<?php echo $record['Amino_acid_exchange']; ?>"/></td>
+                </tr>
+                <tr class="table2Tr">
+                    <td class="table2Td1" align="right">Inheritance</td>
+                    <td class="table2Td2"><input id="Inheritance" type="text" name="Inheritance" placeholder="eg, Heterozygous" value="<?php echo $record['Inheritance']; ?>" /></td>
+                    <td class="table2Td1" align="right">Inheritance related</td>
+                    <td class="table2Td2"><input id="Inheritance related" type="text" name="Inheritance related" placeholder="eg, Gly2705Arg; c.-1+3A>C" value="<?php echo $record['Inheritance_related']; ?>"/></td>
+                </tr>
+                <tr class="table2Tr">
+                    <td class="table2Td1" align="right">Location</td>
+                    <td class="table2Td2"><input id="Location" type="Location" name="Location" placeholder="eg, Exon/Intron no." value="<?php echo $record['Location']; ?>" /></td>
+                    <td class="table2Td1" align="right">APTT</td>
+                    <td class="table2Td2"><input id="APTT" type="text" name="APTT" placeholder="APTT" value="<?php echo number_format($record['APTT'],1); ?>" /></td>
+                </tr>
+                <tr class="table2Tr">
+                    <td class="table2Td1" align="right">VWF:Ag(%)</td>
+                    <td class="table2Td2"><input id="VWF:Ag(%)" type="text" name="VWF:Ag(%)" placeholder="VWF:Ag(%)" value="<?php echo number_format($record['VWF:Ag(%)'],1); ?>"/></td>
+                    <td class="table2Td1" align="right">VWF:RCo(%)</td>
+                    <td class="table2Td2"><input id="VWF:RCo(%)" type="text" name="VWF:RCo(%)" placeholder="VWF:RCo(%)" value="<?php echo number_format($record['VWF:RCo(%)'],1); ?>"/></td>
+                </tr>
+                <tr class="table2Tr">
+                    <td class="table2Td1" align="right">RIPA(1.2mg/ml, %)</td>
+                    <td class="table2Td2"><input id="RIPA(1.2mg/ml, %)" type="text" name="RIPA(1.2mg/ml, %)" placeholder="RIPA(1.2mg/ml, %)" value="<?php echo number_format($record['RIPA(1.2 mg/ml, %)'],1); ?>" /></td>
+                    <td class="table2Td1" align="right">FVIII:C(%)</td>
+                    <td class="table2Td2"><input id="FVIII:C(%)" type="text" name="FVIII:C(%)" placeholder="FVIII:C(%)" value="<?php echo number_format($record['FVIII:C(%)'],1); ?>" /></td>
+                </tr>
+                <tr class="table2Tr">
+                    <td class="table2Td1" align="right">VWF:CB(%)</td>
+                    <td class="table2Td2"><input id="VWF:CB(%)" type="text" name="VWF:CB(%)" placeholder="VWF:CB(%)" value="<?php echo number_format($record['VWF:CB(%)'],1); ?>" /></td>
+                    <td class="table2Td1" align="right">VWFpp(%)</td>
+                    <td class="table2Td2"><input id="VWFpp(%)" type="text" name="VWFpp(%)" placeholder="VWFpp(%)" value="<?php echo number_format($record['VWFpp(%)'],1); ?>" /></td>
+                </tr>
+                <tr class="table2Tr">
+                    <td class="table2Td1" align="right">Blood Type</td>
+                    <td class="table2Td2"><select id="BloodType" name="BloodType">
+                        <option value="/" selected="selected">--please select blood type--</option>
+                        <option value="A" <?php echo $record['Blood_type'] == 'A' ? 'selected="selected"' : ''; ?> >&nbsp A &nbsp</option>
+                        <option value="B" <?php echo $record['Blood_type'] == 'B' ? 'selected="selected"' : ''; ?> >&nbsp B &nbsp</option>
+                        <option value="O" <?php echo $record['Blood_type'] == 'O' ? 'selected="selected"' : ''; ?> >&nbsp O &nbsp</option>
+                        <option value="AB"<?php echo $record['Blood_type'] == 'AB' ? 'selected="selected"' : ''; ?> >&nbsp AB &nbsp</option>
+                    </select></td>
+                    <td class="table2Td1" align="right">Age</td>
+                    <td class="table2Td2"><input id="Age" type="text" name="Age" placeholder="Age" value="<?php echo $record['Age']; ?>" /></td>
+                </tr>
+                <tr class="table2Tr">
+                    <td class="table2Td1" align="right">Gender</td>
+                    <td class="table2Td2"><select id="Gender" name="Gender">
+                        <option value="/" selected="selected">--please select gender--</option>
+                        <option value="M" <?php echo $record['Gender'] == 'M' ? 'selected="selected"' : ''; ?> >&nbsp Male &nbsp</option>
+                        <option value="F" <?php echo $record['Gender'] == 'F' ? 'selected="selected"' : ''; ?> >&nbsp Female &nbsp</option>
+                    </select></td>
+                    <td class="table2Td1" align="right">BS</td>
+                    <td class="table2Td2"><input id="BS" type="text" name="BS" placeholder="BS" value="<?php echo $record['BS']; ?>"/></td>
+                </tr>
+                <tr class="table2Tr">
+                    <td class="table2Td1" align="right">Domain</td>
+                    <td class="table2Td2"><input id="Domain" type="text" name="Domain" placeholder="Domain" value="<?php echo $record['Domain']; ?>"/></td>
+                    <td class="table2Td1" align="right">Comments</td>
+                    <td class="table2Td2"><input id="Comments" type="text" name="Comments" placeholder="comments" value="<?php echo $record['Comments']; ?>"/></td>
+                </tr>
+                <tr class="table2Tr">
+                    <td class="table2Td1" align="right">References</td>
+                    <td class="table2Td3" colspan="3"><input id="References" type="text" name="References" placeholder="references" style="width: 1021px" value="<?php echo $record['References']; ?>"/></td>
+                </tr>
+                <tr></tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td><input align="center" id="submit1"  style="height: 35px; width: 80px;" type="submit" value="提交"/></td>
+                    <!--                    <td><input align="center" id="submit2" style="height: 35px; width: 80px; display: none" type="submit" value="提交" /></td>-->
+                </tr>
+            </table>
+        </div>
+    </form>
+</div>
+</body>
+</html>

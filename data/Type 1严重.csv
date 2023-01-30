@@ -1,0 +1,25 @@
+﻿Patients,VWD type,Mutation Type,Nucleotide exchange,amino acid exchange,Domain,genotype,activated partial thromboplastin time,VWF antigen level (%),VWF activity level (%),ristocetin-induced platelet agglutination (1.5mg/ml),The activity level of FVIII (%),VWF collagen binding capacity,VWF propeptide level,Blood type,Age,Gender,Bleeding time
+P7,1型严重,Missense,c.711C>G#,p.Cys237Trp,D1,heterozygous,47.5,5.4,5.3,73.3,28,4.1,4.8,O,27,F,9
+P9,1型严重,Nonsense,c.8079C>A#,p.Cys2693*,C6,Compound heterozygous,63,5.3,4.7,4,10.7,4.5,4.1,A,11,M,2
+P9,1型严重,Missense,c.4414G>C,p.Asp1472His,A1,Compound heterozygous,63,5.3,4.7,4,10.7,4.5,4.1,A,11,M,2
+P10,1型严重,Splice site,c.8155+5G>C#,/,/,Compound heterozygous,48,4.2,3.8,5,31,3.5,4.1,A,5,M,2
+P10,1型严重,Small deletion,c.7199delA#,p.Asn2400Thrfs*4,C2,Compound heterozygous,48,4.2,3.8,5,31,3.5,4.1,A,5,M,2
+P47,1型严重,Missense,c.6860G>A#,p.Arg2287Gln,C1,Compound heterozygous,45.6,4.5,3.3,/,36.5,4.2,5.3,O,23,F,12
+P47,1型严重,Nonsense,c.100C>T,p.Arg34*,D1,Compound heterozygous,45.6,4.5,3.3,/,36.5,4.2,5.3,O,23,F,12
+P50,1型严重,Missense,c.971G>C#,p.Arg324Pro,D1,heterozygous,49.7,4.1,3,91,7.8,1.9,51,AB,51,M,6
+P69,1型严重,Missense,c.484T>C#,p.Cys162Arg,D1,Compound heterozygous,45.2,2.8,2.5,/,10.5,3.2,2.7,A,12,M,3
+P69,1型严重,Splice site,c.7884C>G#,p.Pro2628Pro,C5,Compound heterozygous,45.2,2.8,2.5,/,10.5,3.2,2.7,A,12,M,3
+P74,1型严重,Splice site,c.-1+3A>C#,/,/,Compound heterozygous,42.5,4.7,4.1,2.4,31,3.6,5.2,A,26,F,10
+P74,1型严重,Missense,c.3322G>C#,p.Ala1108Pro,D3,Compound heterozygous,42.5,4.7,4.1,2.4,31,3.6,5.2,A,26,F,10
+P76,1型严重,Large deletion,Exon1-exon5 del#,/,/,Compound heterozygous,41,4.7,5.4,73.4,27.2,5.5,4.3,A,21,M,3
+P76,1型严重,Splice site,c.7464C>T#,p.E2489Rfs*15,C3,Compound heterozygous,41,4.7,5.4,73.4,27.2,5.5,4.3,A,21,M,3
+P81,1型严重,Missense,c.3614G>A,p.Arg1205His,D3,heterozygous,51.3,5,5.3,85.4,6.1,6.8,46,A,30,F,7
+P98,1型严重,Missense,c.2881T>A,p.Y961N,D3,Compound heterozygous,/,4.2,1.2,10.4,14.5,2.2,7.3,O,24,F,/
+P98,1型严重,Missense,c.6535T>C,p.Ser2179Pro,D4,Compound heterozygous,/,4.2,1.2,10.4,14.5,2.2,7.3,O,24,F,/
+P106,1型严重,Splice site,c.323+1G>T,,,Compound heterozygous,47.6,4.1,1,3.6,17,0.7,9.8,B,2,F,/
+P106,1型严重,Missense,c.6535T>C,p.S2179P,D4,Compound heterozygous,47.6,4.1,1,3.6,17,0.7,9.8,B,2,F,/
+P117,1型严重,Splice site,c.2968-14A>G,/,/,Compound heterozygous,40.4,5.6,1.3,10,14.8,0.8,/,/,10,F,/
+P117,1型严重,small insertion,c.7130_7131insCA,p.His2378Serfs*27,C2,Compound heterozygous,40.4,5.6,1.3,10,14.8,0.8,/,/,10,F,/
+P148,1型严重,Missense,c.3614G>A,p.Arg1205His,D3,heterozygous,40.2,6.7,3.3,42.6,22,4.7,74.3,O,27,F,/
+P160,1型严重,Splice site,c.55G>A,/,/,Compound heterozygous,44.1,4.8,4.7,19.4,16.4,1.9,3.9,/,3,M,/
+P160,1型严重,Missense,c.1200C>A,p.Asp400Glu,D2,Compound heterozygous,44.1,4.8,4.7,19.4,16.4,1.9,3.9,/,3,M,/

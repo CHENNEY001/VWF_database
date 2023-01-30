@@ -1,0 +1,82 @@
+﻿VWD type,Patients,Mutation Type,Nucleotide exchange,amino acid exchange,Domain,genotype,activated partial thromboplastin time,VWF antigen level (%),VWF activity level (%),ristocetin-induced platelet agglutination (1.5mg/ml),The activity level of FVIII (%),VWF collagen binding capacity,VWF propeptide level,Blood type,Age,Gender,Bleeding time
+1 型,P1,Missense,c.6860G>A#,p.Arg2287Gln,C1,heterozygous,36.2,38,35.2,12,59,33.2,52.9,O,17,F,8
+1 型,P2,Missense,c.6104G>A#,p.Gly2035Asp,D4,heterozygous,46,55,53,25,59,47,74.4,O,3,F,4
+1 型,P32,Missense,c.646G>A#,p.Glu216Lys,D1,heterozygous,70,51.3,50.7,40,1,50.3,49.2,O,3,M,3
+1 型,P39,Splice site,c.8116-2delA#,p.Gly2706Valfs*25,C6,heterozygous,57.7,13,14.3,63,32.1,12.9,12.1,O,21,F,10
+1 型,P40,/,/,/,/,连锁方式未知,34.7,56.1,51.7,60,69.8,56.3,60.8,O,4,F,1
+1 型,P42,Regulatory,c.-672C>T,/,/,heterozygous,40.5,41.9,39.9,/,54.7,46.8,34.6,O,10,M,1
+1 型,P46,Missense,c.4414G>C,p.Asp1472His,A1,heterozygous,30.2,45.4,44.4,/,76.9,54.9,43.2,O,55,F,14
+1 型,P48,/,/,/,/,连锁方式未知,46.6,42.4,41.4,45,48.9,59.8,56.6,O,1,M,0
+1 型,P51,/,/,/,/,连锁方式未知,40.8,67.4,65.6,70,56,69.3,57.4,O,5,F,1
+1 型,P60,Missense,c.5273T>C#,p.Val1758Ala,A3,heterozygous,37.4,37.8,35.2,/,56.6,38.6,41.1,O,8,F,3
+1 型,P61,Regulatory,c.-128G>A#,/,/,heterozygous,28.1,71.6,67.8,53.4,76.2,67.4,62.7,O,34,F,2
+1 型,P62,/,/,/,/,连锁方式未知,31.8,63.8,56,79.1,61.5,66.6,65.6,O,51,F,1
+1 型,P65,Missense,c.4499C>T#,p.Ala1500Val,A2,heterozygous,41.9,61.2,65.7,77.2,72.7,97.1,61.7,O,24,F,3
+1 型,P66,Missense,c.4414G>C,p.Asp1472His,A1,heterozygous,29.3,56,43.4,33,70,58.9,53.6,O,27,M,1
+1 型,P67,/,/,/,/,连锁方式未知,33.3,65.2,57.1,51,75.2,69.8,66.9,A,29,F,1
+1 型,P70,Missense,c.6554G>A,p.Arg2185Gln,D4,heterozygous,47.7,28.3,36.6,70,61.3,34.6,64.5,O,51,F,2
+1 型,P71,Missense,c.4850A>G#,p.Lys1617Arg,A2,heterozygous,40.9,62.9,62.6,/,71.3,69.7,66.9,O,23,F,1
+1 型,P73,Missense,c.2279G>A,p.Arg760His,D2,heterozygous,37.4,29.6,35.4,92.3,63.1,35,78.3,O,16,F,2
+1 型,P75,Missense,c.6104G>A#,p.Gly2035Asp,D4,heterozygous,36,62.6,55.9,60,74,53.8,57.7,O,25,F,2
+1 型,P83,Missense,c.6104G>A#,p.Gly2035Asp,D4,heterozygous,66,44.5,36.7,89.1,12.6,49.2,35.2,O,5,M,3
+1 型,P87,Missense,c.6860G>A#,p.Arg2287Gln,C1,heterozygous,47.1,65.9,55.8,/,70.1,61.3,88,O,27,F,3
+1 型,P95,Missense,c.2024C>T,p.P675L,D2,heterozygous,40.4,56.5,55.8,79.5,34.8,49.1,/,O,24,M,/
+1 型,P98-1,Missense,c.2881T>A,p.Y961N,D3,heterozygous,31.9,57.3,44,/,127.7,34.8,62.6,/,47,F,/
+1 型,P98-2,Missense,c.6535T>C,p.Ser2179Pro,D4,heterozygous,31.1,46.9,42.9,/,138.7,39.3,34.1,/,48,M,/
+1 型,P100,Missense,c.3917G>A,p.R1306Q,A1,heterozygous,/,56.1,35.6,/,0,33.6,101.5,B,11,M,/
+1 型,P105,Missense,c.2287A>T,p.Arg763Trp,D2,heterozygous,96.5,29.2,24.6,88.7,36.1,27.3,/,O,33,M,/
+1 型,P131,Missense,c.6535T>C,p.S2179P,D4,heterozygous,32.2,75.6,66.7,93.4,127.3,70.9,76.1,B,28,M,/
+1 型,P132,Splice site,c.323+1G>T,/,/,heterozygous,28.8,41.8,32.2,81.9,135.3,31.9,41.3,O,27,F,/
+1 型,P107,Missense,c.4613C>A,p.T1538K,A2,heterozygous,36.3,51.9,57.9,70.5,92.9,47.9,119.6,/,22,F,/
+1 型,P113,silent mutation,c.6015C>T,p.I2005I,D4,heterozygous,34.7,55.3,52.3,90.9,52.9,41.6,51.8,O,8,F,/
+1 型,P114,Missense,c.7849C>A,p.L2617M,C5,heterozygous,63.7,55.5,51.7,85.5,10.4,46.1,69.8,/,17,M,/
+1 型,P116,Missense,c.8105T>C,p.L2702P,C6,heterozygous,/,56.3,54.2,/,93.9,66.7,/,O,32,F,/
+1 型,P120,Missense,c.4613C>A,p.T1538K,A2,heterozygous,36.2,77.3,58.1,/,67.5,57,/,/,27,M,/
+1 型,程俊越,Missense,c.4403C>T,p.T1468I,A1,连锁遗传,102.5,63.4,55.7,/,0.5,54.5,54,/,1,M,/
+1 型,程俊越,Missense,c.8113G>A,p.G2705R,C6,连锁遗传,102.5,63.4,55.7,/,0.5,54.5,54,/,1,M,/
+1 型,吴世芳,small insertion,c.6949dupG,p.D2317fs,C1,连锁遗传,35.5,47.8,48.1,91.6,74.8,40.9,/,/,29,F,/
+1 型,吴世芳,small indel,c.1450-1451delinsAG,p.His484Ser,D2,连锁遗传,35.5,47.8,48.1,91.6,74.8,40.9,/,/,29,F,/
+1 型,刘成亮,nonsense,c.4975C>T,p.R1659X,A2,连锁遗传,33.8,52.1,42.5,90.5,/,/,/,O,35,M,/
+1 型,刘成亮,Missense,c.1519A>G,p.R507G,D2,连锁遗传,33.8,52.1,42.5,90.5,/,/,/,O,35,M,/
+1 型,P125,small insertion,c.2435dupC,p.P812fs,D',heterozygous,/,44.5,56.5,49.3,76.4,57.2,/,/,28,F,/
+1 型,P126,small deletion,c.4414delG,p.D1472fs,A1,heterozygous,32.4,40,37.4,/,71.6,44.4,/,/,50,M,/
+1 型,P135,Missense,c.3597T>G,p.C1199W,D3,连锁方式未知,/,49.2,41.9,/,58.2,43.8,/,/,1,M,/
+1 型,P135,Missense,c.4414G>C,p.D1472H,A1,连锁方式未知,/,49.2,41.9,/,58.2,43.8,/,/,1,M,/
+1 型,P137,Missense,c.C4499T,p.A1500V,A2,heterozygous,/,42.5,40.1,/,55.5,56,/,/,31,F,/
+1 型,P138,Regulatory,c.-672C>T,/,/,heterozygous,41.6,34.2,/,/,48.3,40.9,/,/,8,F,/
+1 型,P139,small deletion,c.4850_4859del,p.K1617fs,/,连锁方式未知,/,23.8,19.5,/,/,12.7,36.6,A,4,F,/
+1 型,P139,small deletion,c.4828_4844del,p.N1610fs,/,连锁方式未知,/,23.8,19.5,/,/,12.7,36.6,A,4,F,/
+1 型,P139,Missense,c.T4847C,p.I1616T,A2,连锁方式未知,/,23.8,19.5,/,/,12.7,36.6,A,4,F,/
+1 型,P142,Missense,c.C4499T,p.A1500V,A2,heterozygous,37.8,56,62.7,82.9,67.4,43.1,/,A,29,F,/
+1 型,P152,Missense,c.5635T>C,p.Cys1879Arg,D4,heterozygous,31.3,62,69,/,118.3,43.4,/,/,19,F,/
+1 型,P154,small insertion,c.893dupG,p.M299Yfs*4,D1,连锁方式未知,36.6,31.3,26.4,55,56.1,23.5,/,/,31,F,/
+1 型,P154,Missense,c.1613C>T,p.Pro538Leu,D2,连锁方式未知,/,/,/,/,/,/,/,/,/,/,/
+1 型,P157,Missense,c.3613C>T,p.Arg1205Cys,D3,连锁遗传,56.9,30.4,29.5,/,6.2,19.8,42.1,/,/,M,/
+1 型,P157,Missense,c.6104G>A,p.Gly2035Asp,D4,连锁遗传,/,/,/,/,/,/,/,/,/,/,/
+1 型,陈志华（陈奕江父亲）,Splice site,c.55G>A,/,/,heterozygous,36.2,53.8,46,90.5,85.1,55,55.4,O,31,M,/
+1 型,刘梦梦（陈奕江母亲）,Missense,c.1200C>A,p.Asp400Glu,D2,heterozygous,32.9,30.2,29.9,93.2,84.5,31.3,30.5,/,29,F,/
+1 型,P64,Missense,c.3614G>A,p.Arg1205His,D3,heterozygous,41.9,19.6,14.8,18.1,24.5,16.2,/,O,65,F,/
+1 型,P7,Missense,c.711C>G#,p.Cys237Trp,D1,heterozygous,47.5,5.4,5.3,73.3,28,4.1,4.8,O,27,F,9
+1 型,P9,Nonsense,c.8079C>A#,p.Cys2693*,C6,Compound heterozygous,63,5.3,4.7,4,10.7,4.5,4.1,A,11,M,2
+1 型,P9,Missense,c.4414G>C,p.Asp1472His,A1,Compound heterozygous,/,/,/,/,/,/,/,/,/,/,/
+1 型,P10,Splice site,c.8155+5G>C#,/电话无法联系,/,Compound heterozygous,48,4.2,3.8,5,31,3.5,4.1,A,5,M,2
+1 型,P10,Small deletion,c.7199delA#,p.Asn2400Thrfs*4,C2,Compound heterozygous,48,4.2,3.8,5,31,3.5,4.1,A,5,M,2
+1 型,P47,Missense,c.6860G>A#,p.Arg2287Gln,C1,Compound heterozygous,45.6,4.5,3.3,/,36.5,4.2,5.3,O,23,F,12
+1 型,P47,Nonsense,c.100C>T,p.Arg34*,D1,Compound heterozygous,45.6,4.5,3.3,/,36.5,4.2,5.3,O,23,F,12
+1 型,P50,Missense,c.971G>C#,p.Arg324Pro,D1,Compound heterozygous,49.7,4.1,3,91,7.8,1.9,51,AB,51,M,6
+1 型,P69,Missense,c.484T>C#,p.Cys162Arg,D1,Compound heterozygous,45.2,2.8,2.5,,10.5,3.2,2.7,A,12,M,3
+1 型,P69,Splice site,c.7884C>G#,p.Pro2628Pro,C5,Compound heterozygous,45.2,2.8,2.5,,10.5,3.2,2.7,A,12,M,3
+1 型,P74,Splice site,c.-1+3A>C#,/,/,Compound heterozygous,42.5,4.7,4.1,2.4,31,3.6,5.2,A,26,F,10
+1 型,P74,Missense,c.3322G>C#,p.Ala1108Pro,D3,Compound heterozygous,/,/,/,/,/,/,/,/,/,/,/
+1 型,P76,Large deletion,Exon1-exon5 del#,/,/,Compound heterozygous,41,4.7,5.4,73.4,27.2,5.5,4.3,A,21,M,3
+1 型,P76,Splice site,c.7464C>T#,p.E2489Rfs*15,C3,Compound heterozygous,/,/,/,/,/,/,/,/,/,/,/
+1 型,P81,Missense,c.3614G>A,p.Arg1205His,D3,Compound heterozygous,51.3,5,5.3,85.4,6.1,6.8,46,A,30,F,7
+1 型,P98,Missense,c.2881T>A,p.Y961N,D3,Compound heterozygous,/,4.2,1.2,10.4,14.5,2.2,7.3,O,24,F,/
+1 型,P98,Missense,c.6535T>C,p.Ser2179Pro,D4,Compound heterozygous,/,/,/,/,/,/,/,/,/,/,/
+1 型,P106,Splice site,c.323+1G>T,,,Compound heterozygous,47.6,4.1,1,3.6,17,0.7,9.8,B,2,F,/
+1 型,P106,Missense,c.6535T>C,p.S2179P,D4,Compound heterozygous,47.6,4.1,1,3.6,17,0.7,9.8,B,2,F,/
+1 型,P117,Splice site,c.2968-14A>G,/,/,Compound heterozygous,40.4,5.6,1.3,10,14.8,0.8,/,/,10,F,/
+1 型,P117,small insertion,c.7130_7131insCA,p.His2378Serfs*27,C2,Compound heterozygous,40.4,5.6,1.3,10,14.8,0.8,/,/,10,F,/
+1 型,P148,Missense,c.3614G>A,p.Arg1205His,D3,Compound heterozygous,40.2,6.7,3.3,42.6,22,4.7,74.3,O,27,F,/
+1 型,P160,Splice site,c.55G>A,/,/,Compound heterozygous,44.1,4.8,4.7,19.4,16.4,1.9,3.9,/,/,M,/
+1 型,P160,Missense,c.1200C>A,p.Asp400Glu,D2,Compound heterozygous,44.1,4.8,4.7,19.4,16.4,1.9,3.9,/,/,M,/

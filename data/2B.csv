@@ -1,0 +1,18 @@
+﻿Patients,VWD type,Mutation Type,Nucleotide exchange,amino acid exchange,Domain,genotype,activated partial thromboplastin time,VWF antigen level (%),VWF activity level (%),ristocetin-induced platelet agglutination (1.5mg/ml),The activity level of FVIII (%),VWF collagen binding capacity,VWF propeptide level,Blood type,Age,Gender,Bleeding time
+P28,2B 型,Missense,c.3922C>T,p.Arg1308Cys,A1,heterozygous,53,17.7,4.9,20.5,25.5,5.1,45.3,A,15,M,4
+P34,2B 型,Missense,c.3916C>T,p. Arg1306Trp,A1,heterozygous,40.3,20.2,6.9,65.1,32.9,4.8,54.5,O,34,F,13
+P57,2B 型,Missense,c.3922C>T,p.Arg1308Cys,A1,Compound heterozygous,37.2,33.4,3.2,18.2,49.2,4.8,67.3,AB,28,M,5
+P57,2B 型,Missense,c.3952G>A#,p.Val1318Met,A1,Compound heterozygous,37.2,33.4,3.2,18.2,49.2,4.8,67.3,AB,28,M,6
+P57,2B 型,Missense,c.2089G>C#,p.Glu697Gln,D2,Compound heterozygous,37.2,33.4,3.2,18.2,49.2,4.8,67.3,AB,28,M,7
+P57,2B 型,Missense,c.8113G>A#,p.Gly2705Arg,C6,Compound heterozygous,37.2,33.4,3.2,18.2,49.2,4.8,67.3,AB,28,M,8
+P72,2B 型,Missense,c.3939G>C,p.Trp1313Cys,A1,heterozygous,44.3,31.1,10.5,8.7,44.8,5.4,73,A,25,F,7
+P108,2B 型,Missense,c.4207G>C,p.G1403R,A1,Compound heterozygous,45.4,9.2,1,7.1,16.9,1.9,66.8,/,52,M,/
+P108,2B 型,splice site,c.8116-2A>-,/,/,Compound heterozygous,45.4,9.2,1,7.1,16.9,1.9,66.8,/,53,M,/
+P121,2B 型,Missense,c.4207G>C,p.G1403R,A1,Compound heterozygous,/,16.3,/,/,19.9,3.9,50,/,17,M,/
+P121,2B 型,nonsense,c.7449C>G,p.Y2483X,C3,Compound heterozygous,/,17.3,/,/,19.9,3.9,50,/,18,M,/
+P145,2B 型,Missense,c.3922C>T,p.Arg1308Cys,A1,heterozygous,/,26.7,5.4,0.5,46.5,10.5,/,/,4,F,/
+P151,2B 型,Missense,c.3922C>T,p.Arg1308Cys,A1,1308与2513连锁,/,12,0.1,38.8,41.1,0,/,A,48,F,/
+P151,2B 型,Missense,c.7537T>C,p.Ser2513Pro,C4,1308与2514连锁,/,12,0.1,38.8,41.1,0,/,A,49,F,/
+P151,2B 型,small deletion,c.5000_5010delGGTGCTGCAGA,p.Q1667Lfs*15,A2,1308与2515连锁,/,12,0.1,38.8,41.1,0,/,A,50,F,/
+鞠定吾,2B 型,Missense,c.3922C>T,p.Arg1308Cys,A1,连锁遗传,43.2,30.1,9,5.3,40.3,10.5,/,A,24,F,/
+鞠定吾,2B 型,Missense,c.7537T>C,p.Ser2513Pro,C4,连锁遗传,43.2,30.1,9,5.3,40.3,10.5,/,A,25,F,/

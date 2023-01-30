@@ -1,0 +1,10 @@
+﻿Patients,VWD type,Mutation Type,Nucleotide exchange,amino acid exchange,Domain,genotype,activated partial thromboplastin time,VWF antigen level (%),VWF activity level (%),ristocetin-induced platelet agglutination (1.5mg/ml),The activity level of FVIII (%),VWF collagen binding capacity,VWF propeptide level,Blood type,Age,Gender,Bleeding time
+P5,2N,Missense,c.2446C>T,p.Arg816Trp,D',Compound heterozygous,110,55.2,51.4,/,1.3,58.2,48.3,O,65,F,14
+P5,2N,Small deletion,c.1911delC#,p.Val638Cysfs*13,D2,Compound heterozygous,110,55.2,51.4,/,1.3,58.2,48.3,O,65,F,14
+P27,2N,Missense,c.2396G>A#,p.Cys799Tyr,D’,Compound heterozygous,62.9,9.5,8.9,87.1,6.5,6.9,10.8,B,3,F,6
+P27,2N,Small deletion,c.3197_3201del#,p.Asp1066fs,D3,Compound heterozygous,62.9,9.5,8.9,87.1,6.5,6.9,10.8,B,3,F,6
+P43,2N,Missense,c.2372C>T,p.Thr791Met,D’,Compound heterozygous,63.2,48.8,49.9,/,6.4,63.9,52.4,B,7,M,3
+P43,2N,Missense,c.2574C>G#,p.Cys858Trp,D’,Compound heterozygous,63.2,48.8,49.9,/,6.4,63.9,52.4,B,7,M,3
+P89,2N,Missense,c.2446C>T,p.Arg816Trp,D’,Homologous,61.8,125.8,119.6,90.5,9.8,127.8,109.8,O,51,F,7
+P85,2N,Missense,c.2574C>G#,p.Cys858Trp,D’,Compound heterozygous,60.2,11,10.9,/,6.5,11.3,11,B,29,F,2
+P85,2N,Nonsense,c.855G>A#,p.Trp285*,D1,Compound heterozygous,60.2,11,10.9,/,6.5,11.3,11,B,29,F,2

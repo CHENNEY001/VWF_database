@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>VWF突变数据库，请先登陆!</title>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="../css/style.css">
+</head>
+<body>
+<div class="container right-panel-active">
+    <!-- 注册框 -->
+    <div class="container_form container--signup">
+        <form action="../php_login/register.php" class="form" method = "POST">
+            <h2 class="form_title">注册账号</h2>
+            <input type = "text" name="user1" placeholder="请输入用户名" class="input">
+            <input type="password" name="psw1" placeholder="请输入密码" class="input">
+            <button class="btn">点击注册</button>
+        </form>
+    </div>
+    <!-- 登录框 -->
+    <div class="container_form container--signin">
+        <form action="../php_login/login.php" class="form" method = "POST">
+            <h2 class="form_title">欢迎登录</h2>
+            <input type = "text" name="user2" placeholder="请输入用户名" class="input">
+            <input type="password" name="psw2" placeholder="请输入密码" class="input">
+            <a href="#" class="link">忘记密码</a>
+            <button class="btn">登录</button>
+        </form>
+    </div>
+    <div class="container_overlay">
+        <div class="overlay">
+            <div class="overlay_panel overlay--left">
+                <button class="btn" id="signin">已有帐号，直接登录</button>
+            </div>
+            <div class="overlay_panel overlay--right">
+                <button class="btn" id="signup">没有账号，点击注册</button>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+<script src="../Js/script.js"></script>
+</html>

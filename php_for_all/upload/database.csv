@@ -1,0 +1,343 @@
+﻿IPs ID,Mutant region,VWD type,Mutation type,﻿Inheritance,Inheritance related,Location,Nucleotide change,﻿Amino acid exchange,APTT,﻿VWF:Ag(%),﻿VWF:RCo(%),"﻿RIPA(1.2 mg/ml, %)",﻿FVIII:C(%),﻿VWF:CB(%),﻿VWFpp(%),Age,Gender,Blood type,﻿BS,Domain,References,Comments,﻿VWF:RCo(%)/﻿VWF:Ag(%),﻿FVIII:C(%)/﻿VWF:Ag(%),﻿VWF:CB(%)/﻿VWF:Ag(%),﻿VWFpp(%)/﻿VWF:Ag(%)
+1,Exon,1,Missense,Heterozygous,/,Exon 39,6860G>A,Arg2287Gln,36.2,38,35.2,12,59,33.2,52.9,17,F,O,8,C1,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.93 ,1.55 ,0.87 ,1.39 
+2,Exon,1,Missense,Heterozygous,/,Exon 36,6104G>A,Gly2035Asp,46,55,53,25,59,47,57.4,3,F,O,4,D4,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.96 ,1.07 ,0.85 ,1.04 
+3,Exon,1,Missense,Heterozygous,/,Exon 6,646G>A,Glu216Lys,70,51.3,50.7,40,1,50.3,49.2,3,M,O,3,D1,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.99 ,0.02 ,0.98 ,0.96 
+4,Regulatory or Intron (and Exon),1,Splice Site,Heterozygous,/,Intron 49,8116-2delA,Gly2706Valfs*25,57.7,13,14.3,63,32.1,12.9,12.1,21,F,O,10,/,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,1.10 ,2.47 ,0.99 ,0.93 
+5,Unfound,1,/,Not Known,/,/,/,/,34.7,56.1,51.7,60,69.8,56.3,60.8,4,F,O,1,/,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.92 ,1.24 ,1.00 ,1.08 
+6,Regulatory or Intron (and Exon),1,Regulatory,Heterozygous,/,Intron 1,-672C>T,/,40.5,41.9,39.9,/,54.7,46.8,34.6,10,M,O,1,/,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.95 ,1.31 ,1.12 ,0.83 
+7,Exon,1,Missense,Heterozygous,/,Exon 28,4414G>C,Asp1472His,30.2,45.4,44.4,/,76.9,54.9,43.2,55,F,O,14,A1,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.98 ,1.69 ,1.21 ,0.95 
+8,Unfound,1,/,Not Known,/,/,/,/,46.6,42.4,41.4,45,48.9,49.8,56.6,1,M,O,0,/,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.98 ,1.15 ,1.17 ,1.33 
+9,Unfound,1,/,Not Known,/,/,/,/,40.8,57.4,55.6,70,56,69.3,57.4,5,F,O,1,/,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.97 ,0.98 ,1.21 ,1.00 
+10,Exon,1,Missense,Heterozygous,/,Exon 30,5273T>C,Val1758Ala,37.4,37.8,35.2,/,56.6,38.6,41.1,8,F,O,3,A3,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.93 ,1.50 ,1.02 ,1.09 
+11,Regulatory or Intron (and Exon),1,Regulatory,Heterozygous,/,Intron 1,-128G>A,/,28.1,57.6,57.8,53.4,76.2,67.4,62.7,34,F,O,2,/,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,1.00 ,1.32 ,1.17 ,1.09 
+12,Unfound,1,/,Not Known,/,/,/,/,31.8,53.8,52,79.1,61.5,66.6,65.6,51,F,O,1,/,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.97 ,1.14 ,1.24 ,1.22 
+13,Exon,1,Missense,Heterozygous,/,Exon 28,4499C>T,Ala1500Val,41.9,55.7,51.2,77.2,72.7,57.1,61.7,24,F,O,3,A2,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.92 ,1.31 ,1.03 ,1.11 
+14,Exon,1,Missense,Heterozygous,/,Exon 28,4414G>C,Asp1472His,29.3,56,43.4,33,70,58.9,53.6,27,M,O,1,A1,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.78 ,1.25 ,1.05 ,0.96 
+15,Unfound,1,/,Not Known,/,/,/,/,33.3,55.2,50.1,51,65.2,59.8,66.9,29,F,A,1,/,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.91 ,1.18 ,1.08 ,1.21 
+16,Exon,1,Missense,Heterozygous,/,Exon 37,6554G>A,Arg2185Gln,47.7,28.3,36.6,70,61.3,34.6,64.5,51,F,O,2,D4,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,1.29 ,2.17 ,1.22 ,2.28 
+17,Exon,1,Missense,Heterozygous,/,Exon 28,4850A>G,Lys1617Arg,40.9,57.9,55.9,/,71.3,69.7,66.9,23,F,O,1,A2,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.97 ,1.23 ,1.20 ,1.16 
+18,Exon,1,Missense,Heterozygous,/,Exon 17,2279G>A,Arg760His,37.4,29.6,35.4,92.3,63.1,35,78.3,16,F,O,2,D2,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,1.20 ,2.13 ,1.18 ,2.65 
+19,Exon,1,Missense,Heterozygous,/,Exon 36,6104G>A,Gly2035Asp,36,53.6,55.9,60,74,53.8,57.7,25,F,O,2,D4,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,1.04 ,1.38 ,1.00 ,1.08 
+20,Exon,1,Missense,Heterozygous,/,Exon 36,6104G>A,Gly2035Asp,66,44.5,36.7,89.1,12.6,49.2,35.2,5,M,O,3,D4,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.82 ,0.28 ,1.11 ,0.79 
+21,Exon,1,Missense,Heterozygous,/,Exon 39,6860G>A,Arg2287Gln,47.1,55.9,55.8,/,70.1,61.3,88,27,F,O,3,C1,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,1.00 ,1.25 ,1.10 ,1.57 
+22,Exon,1,Missense,Heterozygous,/,Exon 16,2024C>T,Pro675Leu,40.4,56.5,55.8,79.5,34.8,49.1,/,24,M,O,/,D2,Unpublished,/,0.99 ,0.62 ,0.87 ,/
+23,Exon,1,Missense,Heterozygous,/,Exon 22,2881T>A,Tyr961Asn,31.9,57.3,44,/,127.7,34.8,62.6,47,F,/,/,D3,Unpublished,/,0.77 ,2.23 ,0.61 ,1.09 
+24,Exon,1,Missense,Heterozygous,/,Exon 37,6535T>C,Ser2179Pro,31.1,46.9,42.9,/,138.7,39.3,34.1,48,M,/,/,D4,Unpublished,/,0.91 ,2.96 ,0.84 ,0.73 
+25,Exon,2B,Missense,Heterozygous,/,Exon 28,3917G>A,Arg1306Gln,/,56.1,35.6,/,0,33.6,101.5,11,M,B,/,A1,Unpublished,/,0.63 ,0.00 ,0.60 ,1.81 
+26,Exon,1,Missense,Heterozygous,/,Exon 18,2287A>T,Arg763Trp,96.5,29.2,24.6,88.7,36.1,27.3,/,33,M,O,/,D2,Unpublished,/,0.84 ,1.24 ,0.93 ,/
+27,Exon,1,Missense,Heterozygous,/,Exon 37,6535T>C,Ser2179Pro,32.2,75.6,66.7,93.4,127.3,70.9,76.1,28,M,B,/,D4,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.88 ,1.68 ,0.94 ,1.01 
+28,Regulatory or Intron (and Exon),1,Splice Site,Heterozygous,/,Intron 4,323+1G>T,Gly100Glufs*13,28.8,41.8,32.2,81.9,135.3,31.9,41.3,27,F,O,/,/,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.77 ,3.24 ,0.76 ,0.99 
+29,Exon,1,Missense,Heterozygous,/,Exon 28,4613C>A,Thr1538Lys,36.3,51.9,57.9,70.5,92.9,47.9,119.6,22,F,/,/,A2,Unpublished,/,1.12 ,1.79 ,0.92 ,2.30 
+30,Exon,1,Silent Mutation,Heterozygous,/,Exon 36,6015C>T,Ile2005Ile,34.7,55.3,52.3,90.9,52.9,41.6,51.8,8,F,O,/,D4,Unpublished,/,0.95 ,0.96 ,0.75 ,0.94 
+31,Exon,1,Missense,Heterozygous,/,Exon 47,7849C>A,Leu2617Met,63.7,55.5,51.7,85.5,10.4,46.1,69.8,17,M,/,/,C5,Unpublished,/,0.93 ,0.19 ,0.83 ,1.26 
+32,Exon,1,Missense,Heterozygous,/,Exon 49,8105T>C,Leu2702Pro,/,56.3,54.2,/,93.9,66.7,/,32,F,O,/,C6,Unpublished,/,0.96 ,1.67 ,1.18 ,/
+33,Exon,1,Missense,Heterozygous,/,Exon 28,4613C>A,Thr1538Lys,36.2,77.3,58.1,/,67.5,57,/,27,M,/,/,A2,Unpublished,/,0.75 ,0.87 ,0.74 ,/
+34,Exon,1,Missense,Linked inheritance,Gly2705Arg,Exon 28,4403C>T,Thr1468Ile,102.5,63.4,55.7,/,0.5,54.5,54,1,M,/,/,A1,Unpublished,/,0.88 ,0.01 ,0.86 ,0.85 
+34,Exon,1,Missense,Linked inheritance,Thr1468Ile,Exon 49,8113G>A,Gly2705Arg,102.5,63.4,55.7,/,0.5,54.5,54,1,M,/,/,C6,Unpublished,/,0.88 ,0.01 ,0.86 ,0.85 
+35,Exon,1,Small Insertion,Heterozygous,/,Exon 40,6949dupG,Asp2317fs,35.5,47.8,48.1,91.6,74.8,40.9,/,29,F,/,/,C1,Unpublished,/,1.01 ,1.56 ,0.86 ,/
+36,Exon,1,Nonsense,Heterozygous,/,Exon 28,4975C>T,Arg1659*,33.8,52.1,42.5,90.5,/,/,/,35,M,O,/,A2,Unpublished,/,0.82 ,/,/,/
+37,Exon,1,Small Insertion,Heterozygous,/,Exon 18,2435dupC,Pro812fs,/,44.5,56.5,49.3,76.4,57.3,/,28,F,/,/,D,Unpublished,/,1.27 ,1.72 ,1.29 ,/
+38,Exon,1,Small Deletion,Heterozygous,/,Exon 28,4414delG,Asp1472fs,32.4,40,37.4,/,71.6,44.4,/,50,M,/,/,A1,Unpublished,/,0.94 ,1.79 ,1.11 ,/
+39,Exon,1,Missense,Not Known,/,Exon 28,4414G>C,Asp1472His,/,49.2,41.9,/,58.2,43.8,/,1,M,/,/,A1,Unpublished,/,0.85 ,1.18 ,0.89 ,/
+39,Exon,1,Missense,Not Known,/,Exon 27,3597T>G,Cys1199Trp,/,49.2,41.9,/,58.2,43.8,/,1,M,/,/,D3,Unpublished,/,0.85 ,1.18 ,0.89 ,/
+40,Exon,1,Missense,Heterozygous,/,Exon 28,4499C>T,Ala1500Val,/,42.5,40.1,/,55.5,56,/,31,F,/,/,A2,Unpublished,/,0.94 ,1.31 ,1.32 ,/
+41,Regulatory or Intron (and Exon),1,Regulatory,Heterozygous,/,Intron 1,-672C>T,/,41.6,34.2,/,/,48.3,40.9,/,8,F,/,/,/,Unpublished,/,/,1.41 ,1.20 ,/
+42,Exon,1,Small Deletion,Not Known,/,Exon 28,4828_4844del,Asn1610fs,/,23.8,19.5,/,/,12.7,36.6,4,/,/,/,/,Unpublished,/,0.82 ,/,0.53 ,1.54 
+42,Exon,1,Small Deletion,Not Known,/,Exon 28,4850_4859del,Lys1617fs,/,23.8,19.5,/,/,12.7,36.6,4,/,/,/,/,Unpublished,/,0.82 ,/,0.53 ,1.54 
+42,Exon,1,Missense,Not Known,/,Exon 28,4847T>C,Ile1616Thr,/,23.8,19.5,/,/,12.7,36.6,4,/,/,/,A2,Unpublished,/,0.82 ,/,0.53 ,1.54 
+43,Exon,1,Missense,Heterozygous,/,Exon 28,4499C>T,Ala1500Val,37.8,56,62.7,82.9,67.4,43.1,/,29,F,A,/,A2,Unpublished,/,1.12 ,1.20 ,0.77 ,/
+44,Exon,1,Missense,Heterozygous,/,Exon 33,5635T>C,Cys1879Arg,31.3,62,69,/,118.3,43.4,/,19,F,/,/,D4,Unpublished,/,1.11 ,1.91 ,0.70 ,/
+45,Exon,1,Small Insertion,Not Known,/,Exon 8,893dupG,Met299Tyrfs*4,36.6,31.3,26.4,55,56.1,23.5,/,31,F,/,/,D1,Unpublished,/,0.84 ,1.79 ,0.75 ,/
+45,Exon,1,Missense,Not Known,/,Exon 14,1613C>T,Pro538Leu,36.6,31.3,26.4,55,56.1,23.5,/,31,F,/,/,D2,Unpublished,/,0.84 ,1.79 ,0.75 ,/
+46,Exon,1,Missense,Linked inheritance,Arg1205Cys,Exon 36,6104G>A,Gly2035Asp,56.9,30.4,29.5,/,6.2,19.8,42.1,/,M,/,/,D4,Unpublished,/,0.97 ,0.20 ,0.65 ,1.38 
+46,Exon,1,Missense,Linked inheritance,Gly2035Asp,Exon 27,3613C>T,Arg1205Cys,56.9,30.4,29.5,/,6.2,19.8,42.1,/,M,/,/,D3,Unpublished,/,0.97 ,0.20 ,0.65 ,1.38 
+47,Exon,1,Splice Site,Heterozygous,/,Exon 2,55G>A,/,36.2,53.8,46,90.5,85.1,55,55.4,31,M,O,/,/,Unpublished,/,0.86 ,1.58 ,1.02 ,1.03 
+48,Exon,1,Missense,Heterozygous,/,Exon 11,1200C>A,Asp400Glu,32.9,30.2,29.9,93.2,84.5,31.3,30.5,29,F,/,/,D2,Unpublished,/,0.99 ,2.80 ,1.04 ,1.01 
+52,Exon,1,Missense,Heterozygous,/,Exon 27,3614G>A,Arg1205His,41.9,19.6,14.8,18.1,24.5,16.2,/,65,F,O,/,D3,Unpublished,/,0.76 ,1.25 ,0.83 ,/
+49,Exon,1,Nonsense,Heterozygous,/,Exon 49,8079C>A,Cys2693*,63,5.3,4.7,4,10.7,4.5,4.1,11,M,A,2,C6,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.89 ,2.02 ,0.85 ,0.77 
+50,Exon,1,Small Deletion,Compound Heterozygous,8155+5G>C,Exon 42,7199delA,Asn2400Thrfs*4,48,4.2,3.8,5,31,3.5,4.1,5,M,A,2,C2,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.90 ,7.38 ,0.83 ,0.98 
+50,Exon,1,Splice Site,Compound Heterozygous,Asn2400Thrfs*4,Intron 50,8155+5G>C,/,48,4.2,3.8,5,31,3.5,4.1,5,M,A,2,/,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.90 ,7.38 ,0.83 ,0.98 
+51,Exon,1,Nonsense,Compound Heterozygous,Arg2287Gln,Exon 3,100C>T,Arg34*,45.6,4.5,3.3,/,36.5,4.2,5.3,23,F,O,12,D1,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.73 ,8.11 ,0.93 ,1.18 
+51,Exon,1,Missense,Compound Heterozygous,Arg34*,Exon 39,6860G>A,Arg2287Gln,45.6,4.5,3.3,/,36.5,4.2,5.3,23,F,O,12,C1,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.73 ,8.11 ,0.93 ,1.18 
+54,Exon,1,Missense,Linked inheritance,c.55+16C>G,Exon 8,971G>C,Arg324Pro,49.7,4.1,3,91,7.8,1.9,51,51,M,AB,6,D1,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.73 ,1.90 ,0.46 ,12.44 
+60,Exon,1,Missense,Compound Heterozygous,Pro2628Pro,Exon 5,484T>C,Cys162Arg,45.2,2.8,2.5,,10.5,3.2,2.7,12,M,A,3,D1,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.89 ,3.75 ,1.14 ,0.96 
+60,Exon,1,Splice Site,Compound Heterozygous,Cys162Arg,Exon 47,7884C>G,/,45.2,2.8,2.5,,10.5,3.2,2.7,12,M,A,3,C5,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.89 ,3.75 ,1.14 ,0.96 
+61,Exon,1,Missense,Compound Heterozygous,c.-1+3A>C,Exon 25,3322G>C,Ala1108Pro,42.5,4.7,4.1,2.4,31,3.6,5.2,26,F,A,10,D3,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.87 ,6.60 ,0.77 ,1.11 
+61,Exon,1,Splice Site,Compound Heterozygous,Ala1108Pro,Intron 1,-1+3A>C,/,42.5,4.7,4.1,2.4,31,3.6,5.2,26,F,A,10,/,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.87 ,6.60 ,0.77 ,1.11 
+62,Regulatory or Intron (and Exon) ,1,Large Deletion,Compound Heterozygous,Glu2489Argfs*15,/,Exons 1-5 del,/,41,4.7,5.4,73.4,27.2,5.5,4.3,21,M,A,3,/,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,1.15 ,5.79 ,1.17 ,0.91 
+62,Exon,1,Splice Site,Compound Heterozygous,Exon1-exon5 del,Exon 44,7464C>T,/,41,4.7,5.4,73.4,27.2,5.5,4.3,21,M,A,3,C3,Unpublished,/,1.15 ,5.79 ,1.17 ,0.91 
+63,Exon,1,Missense,Heterozygous,/,Exon 27,3614G>A,Arg1205His,51.3,5,5.3,85.4,6.1,6.8,46,30,F,A,7,D3,Unpublished,/,1.06 ,1.22 ,1.36 ,9.20 
+64,Exon,1,Missense,Compound Heterozygous,Ser2179Pro,Exon 22,2881T>A,Tyr961Asn,/,4.2,1.2,10.4,14.5,2.2,7.3,24,F,O,/,D3,Unpublished,/,0.29 ,3.45 ,0.52 ,1.74 
+64,Exon,1,Missense,Compound Heterozygous,Tyr961Asn,Exon 37,6535T>C,Ser2179Pro,/,4.2,1.2,10.4,14.5,2.2,7.3,24,F,O,/,D4,Unpublished,/,0.29 ,3.45 ,0.52 ,1.74 
+65,Regulatory or Intron (and Exon),1,Splice Site,Compound Heterozygous,Ser2179Pro,Intron 4,323+1G>T,/,47.6,4.1,1,3.6,17,0.7,9.8,2,F,B,/,/,Unpublished,/,0.24 ,4.15 ,0.17 ,2.39 
+65,Exon,1,Missense,Compound Heterozygous,323+1G>T,Exon 37,6535T>C,Ser2179Pro,47.6,4.1,1,3.6,17,0.7,9.8,2,F,B,/,D4,Unpublished,/,0.24 ,4.15 ,0.17 ,2.39 
+66,Regulatory or Intron (and Exon),1,Splice Site,Compound Heterozygous,His2378Serfs*27,Intron 22,2968-14A>G,/,40.4,5.6,1.3,10,14.8,0.8,/,10,F,/,/,/,Unpublished,/,0.23 ,2.64 ,0.14 ,/
+66,Exon,1,Small Insertion,Compound Heterozygous,2968-14A>G,Exon 42,7130_7131insCA,His2378Serfs*27,40.4,5.6,1.3,10,14.8,0.8,/,10,F,/,/,C2,Unpublished,/,0.23 ,2.64 ,0.14 ,/
+67,Exon,1,Missense,Heterozygous,/,Exon 27,3614G>A,Arg1205His,40.2,6.7,3.3,42.6,22,4.7,74.3,27,F,O,/,D3,Unpublished,/,0.49 ,3.28 ,0.70 ,11.09 
+68,Exon,1,Splice Site,Compound Heterozygous,/,Exon 2,55G>A,/,44.1,4.8,4.7,19.4,16.4,1.9,3.9,3,M,/,/,/,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.98 ,3.42 ,0.40 ,0.81 
+68,Exon,1,Missense,Compound Heterozygous,/,Exon 11,1200C>A,Asp400Glu,44.1,4.8,4.7,19.4,16.4,1.9,3.9,3,M,/,/,D2,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.98 ,3.42 ,0.40 ,0.81 
+69,Exon,3,Nonsense,Compound Heterozygous,Ser345Alafs*115,Exon 48,7969C>T,Gln2657*,66.7,2.1,1.7,5,4.8,1.5,2.3,3,M,A,5,C6,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.81 ,2.29 ,0.71 ,1.10 
+69,Exon,3,Small Insertion,Compound Heterozygous,Gln2657*,Exon 9,1025_1032dupGCGTGGAG,Ser345Alafs*115,66.7,2.1,1.7,5,4.8,1.5,2.3,3,M,A,5,D1,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.81 ,2.29 ,0.71 ,1.10 
+70,Exon,3,Nonsense,Compound Heterozygous,Ser69Profs*14,Exon 21,2791G>T,Gly931*,62,1.5,1.7,4.6,6.2,1.4,1.3,56,M,B,8,D3,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,1.13 ,4.13 ,0.93 ,0.87 
+70,Exon,3,Small Deletion,Compound Heterozygous,Gly931*,Exon 3,205delT,Ser69Profs*14,62,1.5,1.7,4.6,6.2,1.4,1.3,56,M,B,8,D1,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,1.13 ,4.13 ,0.93 ,0.87 
+71,Exon,3,Nonsense,Compound Heterozygous,Met299Tyrfs*4,Exon 7,813C>A,Tyr271*,58,1.5,1.6,6.1,7.1,1.1,1.2,52,F,A,15,D1,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,1.07 ,4.73 ,0.73 ,0.80 
+71,Exon,3,Small Insertion,Compound Heterozygous,Tyr271*,Exon 8,893dupG,Met299Tyrfs*4,58,1.5,1.6,6.1,7.1,1.1,1.2,52,F,A,15,D1,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,1.07 ,4.73 ,0.73 ,0.80 
+72,Exon,3,Nonsense,Compound Heterozygous,Gly2706Valfs*25,Exon 9,1093C>T,Arg365*,55.2,2.1,1.9,3,4.3,1.7,1.5,25,F,O,15,D1,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.90 ,2.05 ,0.81 ,0.71 
+72,Regulatory or Intron (and Exon),3,Splice Site,Compound Heterozygous,Arg365*,Intron 49,8116-2delA,/,55.2,2.1,1.9,3,4.3,1.7,1.5,25,F,O,15,/,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.90 ,2.05 ,0.81 ,0.71 
+73,Exon,3,Small Insertion,Homologous,/,Exon 17,2217_2220dupCATG,Ser741Hisfs*11,65.1,0.7,0.6,3.2,3.9,0.5,0.6,15,F,A,12,D2,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.86 ,5.57 ,0.71 ,0.86 
+74,Exon,3,Small Indel,Compound Heterozygous,Thr856*,Exon 28,4444_4445delinsG,Leu1482Alafs*43,72,0.5,<0.5,3,2.3,<0.5,<0.5,14,M,A,13,A2,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,/,4.60 ,/,/
+74,Exon,3,Nonsense,Compound Heterozygous,Leu1482Alafs*43,Exon 20,2568G>A,Thr856*,72,0.5,<0.5,3,2.3,<0.5,<0.5,14,M,A,13,A2,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,/,4.60 ,/,/
+75,Regulatory or Intron (and Exon),3,Splice Site,Homologous,/,Intron 49,8116-2delA,/,54.6,1.4,1.2,4.4,5.1,1.3,1,20,M,O,10,/,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.86 ,3.64 ,0.93 ,0.71 
+76,Exon,3,Splice Site,Homologous,/,Intron 3,221-2A>C,/,64.6,1,0.9,3.1,4.7,0.8,0.7,23,F,O,14,/,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.90 ,4.70 ,0.80 ,0.70 
+77,Exon,3,Missense,Homologous,/,Exon 5,478G>C,Gly160Arg,57.4,0.9,0.7,4.1,5,0.7,0.9,6,M,A,13,D1,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.78 ,5.56 ,0.78 ,1.00 
+78,Regulatory or Intron (and Exon) ,3,Large Deletion,Homologous,/,/,Exons 6-16 del,/,71,0.5,<0.5,4.1,2,0.6,<0.5,16,F,O,21,/,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,/,4.00 ,1.20 ,/
+79,Exon,3,Nonsense,Compound Heterozygous,Asn318Lysfs*2,Exon 28,4368C>G,Tyr1456*,57,1,0.7,4,4.1,0.8,0.8,21,F,O,15,A1,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.70 ,4.10 ,0.80 ,0.80 
+79,Exon,3,Small Insertion,Compound Heterozygous,Tyr1456*,Exon 8,953_954insG,Asn318Lysfs*2,57,1,0.7,4,4.1,0.8,0.8,21,F,O,15,D1,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.70 ,4.10 ,0.80 ,0.80 
+80,Exon,3,Nonsense,Homologous,/,Exon 7,813C>G,Tyr 271*,67.7,0.5,<0.5,10,5,<0.5,<0.5,35,F,A,10,D1,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,/,10.00 ,/,/
+81,Exon,3,Small Deletion,Homologous,/,Exon 35,5870delA,His1957Profs*3,64.5,1.5,1.3,5.1,3.1,1.1,1.3,60,F,O,20,D4,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.87 ,2.07 ,0.73 ,0.87 
+82,Exon,3,Small Deletion,Homologous,/,Exon 35,5870delA,His1957Profs*3,60.8,1,0.9,6,4.1,0.9,0.9,56,M,A,10,D4,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.90 ,4.10 ,0.90 ,0.90 
+83,Exon,3,Small Insertion,Homologous,/,Exon 9,1025_1032dupGCGTGGAG,Ser345Alafs*115,68.6,0.6,0.5,3.9,5.7,0.6,0.7,20,M,O,10,D1-D2,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.83 ,9.50 ,1.00 ,1.17 
+84,Exon,3,Splice Site,Compound Heterozygous,Glu1015*,Exon 20,2684A>G,/,82.8,1.3,1,5.1,4.5,0.7,0.8,14,F,O,9,/,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.77 ,3.46 ,0.54 ,0.62 
+84,Exon,3,Nonsense,Compound Heterozygous,Gln895Arg,Exon 23,3043G>T,Glu1015*,82.8,1.3,1,5.1,4.5,0.7,0.8,14,F,O,9,D3,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.77 ,3.46 ,0.54 ,0.62 
+85,Regulatory or Intron (and Exon),3,Splice Site,Homologous,/,Intron 19,2547-13T>A,Cys849Trpfs*28,79.7,1.6,1.5,3.9,2.8,1.7,1.3,13,F,A,18,D`,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.94 ,1.75 ,1.06 ,0.81 
+86,Regulatory or Intron (and Exon),3,Splice Site,Compound Heterozygous,Glu1015*,"Intron 13, Exon 14",1534-13_1551delinsCA,/,54.3,1.5,1.3,4.4,8,1.6,1.1,7,M,B,3,/,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.87 ,5.33 ,1.07 ,0.73 
+86,Regulatory or Intron (and Exon),3,Splice Site,Compound Heterozygous,1534-13_1551delinsCA,Intron 22,2968-14A>G,Glu990Leufs*15,54.3,1.5,1.3,4.4,8,1.6,1.1,7,M,B,3,D3,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.87 ,5.33 ,1.07 ,0.73 
+87,Exon,3,Nonsense,Compound Heterozygous,Tyr2180*,Exon 22,2964C>A,Tyr988*,63.6,1.4,1,10,3.9,1.3,1.2,7,F,O,7,D3,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.71 ,2.79 ,0.93 ,0.86 
+87,Exon,3,Nonsense,Compound Heterozygous,Tyr988*,Exon 37,6540T>G,Tyr2180*,63.6,1.4,1,10,3.9,1.3,1.2,7,F,O,7,D4,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.71 ,2.79 ,0.93 ,0.86 
+88,Exon,3,Nonsense,Compound Heterozygous,Arg273Trp,Exon 31,5335C>T,Arg1779*,/,1.2,0.5,1.9,5.9,0.6,0.5,23,F,A,15,A3,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.42 ,4.92 ,0.50 ,0.42 
+88,Exon,3,Missense,Compound Heterozygous,Arg1779*,Exon 7,817C>T,Arg273Trp,/,1.2,0.5,1.9,5.9,0.6,0.5,23,F,A,15,D1,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.42 ,4.92 ,0.50 ,0.42 
+89,Exon,3,Nonsense,Compound Heterozygous,Gln66*,Exon 28,4457C>A,Ser1486*,80.9,1.3,1.1,3.1,4,1.5,0.9,2,F,O,7,A2,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.85 ,3.08 ,1.15 ,0.69 
+89,Exon,3,Nonsense,Compound Heterozygous,Ser1486*,Exon 3,196C>T,Gln66*,80.9,1.3,1.1,3.1,4,1.5,0.9,2,F,O,7,D1,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.85 ,3.08 ,1.15 ,0.69 
+90,Exon,3,Nonsense,Compound Heterozygous,Gly2706Valfs*25,Exon 38,6771C>A,Cys2257*,58.2,3,2.7,7,6.8,2.1,3.2,10,F,B,7,C1,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.90 ,2.27 ,0.70 ,1.07 
+90,Regulatory or Intron (and Exon),3,Splice Site,Compound Heterozygous,Cys2257*,Intron 49,8116-2delA,/,58.2,3,2.7,7,6.8,2.1,3.2,10,F,B,7,/,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.90 ,2.27 ,0.70 ,1.07 
+91,Exon,3,Small Deletion,Homologous,/,Exon 30,5183_5186del,Thr1728Argfs*27,65.4,<0.3,<0.5,7.9,4.3,<0.5,<0.5,23,F,O,13,A3,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,/,/,/,/
+92,Exon,3,Nonsense,Compound Heterozygous,Arg365*,Exon 28,4975C>T,Arg1659*,52.2,0.5,<0.5,0.4,5.7,<0.5,<0.5,24,F,B,9,A2,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,/,11.40 ,/,/
+92,Exon,3,Nonsense,Compound Heterozygous,Arg1659*,Exon 9,1093C>T,Arg365*,52.2,0.5,<0.5,0.4,5.7,<0.5,<0.5,24,F,B,9,D1,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,/,11.40 ,/,/
+93,Exon,3,Small Deletion,Compound Heterozygous,Tyr2033*,Exon 28,4725delG,Thr1576Profs*117,/,0.8,1,,3,0.7,0.6,1,F,B,6,A2,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,1.25 ,3.75 ,0.88 ,0.75 
+93,Exon,3,Nonsense,Compound Heterozygous,Thr1576Profs*117,Exon 36,6099C>G,Tyr2033*,/,0.8,1,,3,0.7,0.6,1,F,B,6,D4,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,1.25 ,3.75 ,0.88 ,0.75 
+94,Exon,3,Small Insertion,Compound Heterozygous,Glyln531*,Exon 38,6678dupC,Cys2227Leufs*15,78.3,0.5,<0.5,3.2,3,<0.5,<0.5,4,F,O,11,D4,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,/,6.00 ,/,/
+94,Exon,3,Nonsense,Compound Heterozygous,Cys2227fs,Exon 14,1591C>T,Gln531*,78.3,0.5,<0.5,3.2,3,<0.5,<0.5,4,F,O,11,D2,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,/,6.00 ,/,/
+95,Regulatory or Intron (and Exon) ,3,Large Deletion,Compound Heterozygous,c.322A>T,/,Exons 6-16 del,/,64.7,0.5,<0.5,3.1,5.7,<0.5,<0.5,20,F,O,14,/,Unpublished,/,/,11.40 ,/,/
+95,Exon,3,Splice Site,Compound Heterozygous,Exons 6-16 del,Exon 4,322A>T,/,64.7,0.5,<0.5,3.1,5.7,<0.5,<0.5,20,F,O,14,/,Unpublished,/,/,11.40 ,/,/
+96,Exon,3,Nonsense,Compound Heterozygous,Arg2535*,Exon 6,652C>T,Gln218*,/,1.8,0,/,5,0.3,/,2,F,/,/,D1,Unpublished,/,0.00 ,2.78 ,0.17 ,/
+96,Exon,3,Nonsense,Compound Heterozygous,Gln218*,Exon 45,7603C>T,Arg2535*,/,1.8,0,/,5,0.3,/,2,F,/,/,C4,Unpublished,/,0.00 ,2.78 ,0.17 ,/
+97,Exon,3,Missense,Compound Heterozygous,Gln2608*,Exon 43,7403G>C ,Cys2468Ser,62.5,2,1,2.9,5,0,1.1,10,M,O,/,C3,Unpublished,/,0.50 ,2.50 ,0.00 ,0.55 
+97,Exon,3,Nonsense,Compound Heterozygous,Cys2468Ser,Exon 47,7822C>T,Gln2608*,62.5,2,1,2.9,5,0,1.1,10,M,O,/,C5,Unpublished,/,0.50 ,2.50 ,0.00 ,0.55 
+98,Exon,3,Nonsense,Compound Heterozygous,8116-2delA,Exon 38,6771C>A,Cys2257*,58.2,3,1,/,6.8,0,/,15,F,/,/,C1,Unpublished,/,0.33 ,2.27 ,0.00 ,/
+98,Regulatory or Intron (and Exon),3,Splice Site,Compound Heterozygous,Cys2257*,Intron 49,8116-2delA,/,58.2,3,1,/,6.8,0,/,15,F,/,/,/,Unpublished,/,0.33 ,2.27 ,0.00 ,/
+99,Exon,3,Small Deletion,Compound Heterozygous,Trp2686*,Exon 28,4413delC,Pro1471fs,54.7,2.4,0.5,10.7,5,0.4,/,5,F,AB,/,A1,Unpublished,/,0.21 ,2.08 ,0.17 ,/
+99,Exon,3,Nonsense,Compound Heterozygous,Pro1471fs,Exon 49,8058G>A,Trp2686*,54.7,2.4,0.5,10.7,5,0.4,/,5,F,AB,/,C6,Unpublished,/,0.21 ,2.08 ,0.17 ,/
+100,Exon,3,Nonsense,Compound Heterozygous,Tyr412*,Exon 11,1236C>A,Tyr412*,58.1,4.7,3.2,8.2,3.6,0,/,7,F,A,/,D2,Unpublished,/,0.68 ,0.77 ,0.00 ,/
+100,Exon,3,Missense,Compound Heterozygous,Phe2147Val,Exon 37,6439T>G,Phe2147Val,58.1,4.7,3.2,8.2,3.6,0,/,7,F,A,/,D4,Unpublished,/,0.68 ,0.77 ,0.00 ,/
+101,Exon,3,Nonsense,Linked inheritance,Asp2317fs,Exon 28,4975C>T,Arg1659*,56.2,4.3,1.7,2.6,4.3,0.2,/,11,F,O,/,A2,Unpublished,/,0.40 ,1.00 ,0.05 ,/
+101,Exon,3,Small Insertion,Linked inheritance,Arg1659*,Exon 40,6949dupG,Asp2317fs,56.2,4.3,1.7,2.6,4.3,0.2,/,11,F,O,/,C1,Unpublished,/,0.40 ,1.00 ,0.05 ,/
+102,Exon,3,Small Insertion,Compound Heterozygous,Cys2750Tyr,Exon 28,453dupA,Asp152Argfs*14,70.9,0,0,5,4.4,0,/,1,F,/,/,D1,Unpublished,/,/,/,/,/
+102,Exon,3,Missense,Compound Heterozygous,Asp152Argfs*14,Exon 52,8249G>A,Cys2750Tyr,70.9,0,0,5,4.4,0,/,1,F,/,/,CK,Unpublished,/,/,/,/,/
+103,Exon,3,Small Insertion,Homologous,Linked with A1500Val,Exon 15,1873_1874insAA,Ala625fs,/,/,3.2,/,/,/,/,/,/,/,/,D2,Unpublished,/,/,/,/,/
+103,Exon,3,Missense,Homologous,Linked with Ala625fs,Exon 28,4499C>T,A1500Val,/,/,3.2,/,/,/,/,/,/,/,/,A2,Unpublished,/,/,/,/,/
+104,Exon,3,Nonsense,Compound Heterozygous,221-2A>C,Exon 28,4975C>T,Arg1659*,45.3,2,1.2,3,8.6,/,/,25,F,A,/,A2,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.60 ,4.30 ,/,/
+104,Regulatory or Intron (and Exon),3,Splice Site,Compound Heterozygous,Arg1659*,Intron 3,221-2A>C,/,45.3,2,1.2,3,8.6,/,/,25,F,A,/,/,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.60 ,4.30 ,/,/
+105,Exon,2A,Missense,Heterozygous,/,Exon 28,4517C>T,Ser1506Leu,48,13,5,/,39.1,3.5,46.8,7,M,B,5,A2,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.38 ,3.01 ,0.27 ,3.60 
+106,Exon,2A,Missense,Heterozygous,/,Exon 28,4517C>T,Ser1506Leu,42,15.8,7.3,7,45.5,4.1,50.3,11,M,O,6,A2,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.46 ,2.88 ,0.26 ,3.18 
+107,Exon,2A,Missense,Heterozygous,/,Exon 28,4517C>T,Ser1506Leu,37,21.6,9.4,8,53.2,5.7,56.1,8,M,O,5,A2,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.44 ,2.46 ,0.26 ,2.60 
+108,Exon,2A,Missense,Heterozygous,/,Exon 28,4735G>A,Gly1579Arg,49.4,25,5.2,25,39,6.7,49.6,23,M,O,7,A2,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.21 ,1.56 ,0.27 ,1.98 
+109,Exon,2A,Missense,Heterozygous,/,Exon 28,4517C>T,Ser1506Leu,47,11.3,3.7,10,45,4,41.7,30,F,AB,14,A2,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.33 ,3.98 ,0.35 ,3.69 
+110,Exon,2A,Missense,Heterozygous,/,Exon 28,4883T>C,Ile1628Thr,41.1,43.6,18.3,/,38.7,16.7,64.8,6,M,A,6,A2,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.42 ,0.89 ,0.38 ,1.49 
+111,Exon,2A,Missense,Heterozygous,/,Exon 28,4628C>T,Ser1543Phe,43.1,23.5,6.5,45,40,15.2,44.5,8,F,A,4,A2,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.28 ,1.70 ,0.65 ,1.89 
+112,Exon,2A,Missense,Heterozygous,/,Exon 28,4790G>T,Arg1597Leu,42.5,32.1,6,/,50.8,14.7,56.9,70,F,O,9,A2,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.19 ,1.58 ,0.46 ,1.77 
+113,Regulatory or Intron (and Exon),2A,Splice Site,Compound Heterozygous,Tyr271*,Intron 7,875-5T>G,Ser292_Glu333delinsLys,43,27,1.8,3.9,44.6,1.1,11.2,30,F,A,4,D1,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.07 ,1.65 ,0.04 ,0.41 
+113,Exon,2A,nonsense,Compound Heterozygous,Ser292_Glu333delinsLys,Exon 7,813C>G,Tyr271*,43,27,1.8,3.9,44.6,1.1,11.2,30,F,4,A,D1,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.07 ,1.65 ,0.04 ,0.41 
+114,Exon,2A,Missense,Compound Heterozygous,Cys367Gly,Exon 18,2423G>A,Cys808Tyr,/,35.2,14.5,50,57.9,6.5,21.5,24,F,O,8,D`,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.41 ,1.64 ,0.18 ,0.61 
+114,Exon,2A,Missense,Compound Heterozygous,Cys808Tyr,Exon 9,1099T>G,Cys367Gly,/,35.2,14.5,50,57.9,6.5,21.5,24,F,O,8,D1,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.41 ,1.64 ,0.18 ,0.61 
+115,Exon,2A,Missense,Heterozygous,/,Exon 28,4517C>T,Ser1506Leu,42.7,15.4,7.1,40.4,43.3,2.4,43.8,6,M,B,13,A2,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.46 ,2.81 ,0.16 ,2.84 
+116,Exon,2A,Missense,Heterozygous,/,Exon 28,4790G>T,Arg1597Leu,47.9,17.1,2.3,16.5,44.3,3.7,41.1,27,F,O,8,A2,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.13 ,2.59 ,0.22 ,2.40 
+117,Exon,2A,Missense,Heterozygous,/,Exon 28,3830A>G,Asp1277Gly,/,14.1,1.3,64.6,42.3,7.3,16.9,12,F,A,12,A1,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.09 ,3.00 ,0.52 ,1.20 
+118,Exon,2A,Missense,Compound Heterozygous,1730-2A>G,Exon 41,6979T>A,Cys2327Ser,50,10.1,3.3,7.9,10.7,2.6,151.7,38,F,O,12,C1,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.33 ,1.06 ,0.26 ,15.02 
+118,Regulatory or Intron (and Exon),2A,Splice Site,Compound Heterozygous,Cys2327Ser,Intron 14,1730-2A>G,/,50,10.1,3.3,7.9,10.7,2.6,151.7,38,F,O,12,/,Unpublished,/,0.33 ,1.06 ,0.26 ,15.02 
+119,Exon,2A,Missense,Heterozygous,/,Exon 28,3920T>G,Leu1307Arg,36,18.5,5.8,3.6,39,4.9,36.4,57,M,AB,15,A1,Unpublished,/,0.31 ,2.11 ,0.26 ,1.97 
+120,Exon,2A,Missense,Heterozygous,/,Exon 28,4517C>T,Ser1506Leu,42.3,11.3,9.7,3.9,35.2,2.4,29.3,26,F,A,/,A2,Unpublished,/,0.86 ,3.12 ,0.21 ,2.59 
+121,Exon,2A,Missense,Heterozygous,/,Exon 26,3446G>C,Cys1149Ser,44,25.8,15.7,97.3,40.5,14.2,/,27,F,/,/,D3,Unpublished,/,0.61 ,1.57 ,0.55 ,/
+122,Exon,2A,Missense,Compound Heterozygous,Tyr1605*,Exon 20,2588G>A,Cys863Tyr,51.5,20.2,4.7,45.4,12.4,5.4,13.8,2,M,AB,/,D`,Unpublished,/,0.23 ,0.61 ,0.27 ,0.68 
+122,Exon,2A,Nonsense,Compound Heterozygous,Cys863Tyr,Exon 28,4815delC,Tyr1605*,51.5,20.2,4.7,45.4,12.4,5.4,13.8,2,M,AB,/,A2,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.23 ,0.61 ,0.27 ,0.68 
+123,Exon,2A,Missense,Heterozygous,/,Exon 28,4825G>A,Gly1609Arg,31.7,78,30.7,88.2,85.9,19.9,/,67,F,B,/,A2,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.39 ,1.10 ,0.26 ,/
+124,Exon,2B,Missense,Heterozygous,/,Exon 28,3922C>T,Arg1308Cys,53,17.7,4.9,20.5,25.5,5.1,45.3,15,M,A,4,A1,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",PLT: 112,0.28 ,1.44 ,0.29 ,2.56 
+125,Exon,2B,Missense,Heterozygous,/,Exon 28,3916C>T, Arg1306Trp,40.3,20.2,6.9,65.1,32.9,4.8,54.5,34,F,O,13,A1,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",PLT: 153,0.34 ,1.63 ,0.24 ,2.70 
+126,Exon,2B,Missense,Compound Heterozygous,"Arg1308Cys, Val1318Met, Gly2705Arg",Exon 16,2089G>C,Glu697Gln,37.2,33.4,3.2,18.2,49.2,4.8,67.3,28,M,AB,5,D2,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",PLT: 146,0.10 ,1.47 ,0.14 ,2.01 
+126,Exon,2B,Missense,Compound Heterozygous,"Val1318Met, Glu697Gln, Gly2705Arg",Exon 28,3922C>T,Arg1308Cys,37.2,33.4,3.2,18.2,49.2,4.8,67.3,28,M,AB,5,A1,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",PLT: 146,0.10 ,1.47 ,0.14 ,2.01 
+126,Exon,2B,Missense,Compound Heterozygous,"Arg1308Cys, Glu697Gln, Gly2705Arg",Exon 28,3952G>A,Val1318Met,37.2,33.4,3.2,18.2,49.2,4.8,67.3,28,M,AB,5,A1,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",PLT: 146,0.10 ,1.47 ,0.14 ,2.01 
+126,Exon,2B,Missense,Compound Heterozygous,"Arg1308Cys, Val1318Met, Glu697Gln",Exon 49,8113G>A,Gly2705Arg,37.2,33.4,3.2,18.2,49.2,4.8,67.3,28,M,AB,5,C6,Unpublished,PLT: 146,0.10 ,1.47 ,0.14 ,2.01 
+127,Exon,2B,Missense,Heterozygous,/,Exon 28,3939G>C,Trp1313Cys,44.3,31.1,10.5,8.7,44.8,5.4,73,25,F,A,7,A1,Unpublished,PLT: 181,0.34 ,1.44 ,0.17 ,2.35 
+128,Exon,2B,Missense,Compound Heterozygous,/,Exon 28,4207G>C,Gly1403Arg,45.4,9.2,1,7.1,16.9,1.9,66.8,52,M,/,/,A1,Unpublished,/,0.11 ,1.84 ,0.21 ,7.26 
+128,Regulatory or Intron (and Exon),2B,Splice Site,Compound Heterozygous,/,Intron 49,8116-2delA,/,45.4,9.2,1,7.1,16.9,1.9,66.8,52,M,/,/,/,Unpublished,/,0.11 ,1.84 ,0.21 ,7.26 
+129,Exon,2B,Missense,Compound Heterozygous,Tyr2483*,Exon 28,4207G>C,Gly1403Arg,/,16.3,/,/,19.9,3.9,50,17,M,/,/,A1,Unpublished,/,/,1.22 ,0.24 ,3.07 
+129,Exon,2B,Nonsense,Compound Heterozygous,Gly1403Arg,Exon 44,7449C>G,Tyr2483*,/,16.3,/,/,19.9,3.9,50,17,M,/,/,C3,Unpublished,/,/,1.22 ,0.24 ,3.07 
+130,Exon,2B,Missense,Heterozygous,/,Exon 28,3922C>T,Arg1308Cys,/,26.7,5.4,0.5,46.5,10.5,/,4,F,/,/,A1,Unpublished,/,0.20 ,1.74 ,0.39 ,/
+131,Exon,2B,Missense,Linked inheritance,"Ser2513Pro, Gln1667Leufs*15",Exon 28,3922C>T,Arg1308Cys,/,12,0.1,38.8,41.1,0,/,48,F,A,/,A1,Unpublished,/,0.01 ,3.43 ,0.00 ,/
+131,Exon,2B,Small Deletion,Linked inheritance,"Arg1308Cys, Ser2513Pro",Exon 28,5000_5010delGGTGCTGCAGA,Gln1667Leufs*15,/,12,0.1,38.8,41.1,0,/,48,F,A,/,A2,Unpublished,/,0.01 ,3.43 ,0.00 ,/
+131,Exon,2B,Missense,Linked inheritance,"Arg1308Cys, Gln1667Leufs*15",Exon 44,7537T>C,Ser2513Pro,/,12,0.1,38.8,41.1,0,/,48,F,A,/,C4,Unpublished,/,0.01 ,3.43 ,0.00 ,/
+132,Exon,2B,Missense,Linked inheritance,Ser2513Pro,Exon 28,3922C>T,Arg1308Cys,43.2,30.1,9,5.3,40.3,10.5,/,24,F,A,/,A1,Unpublished,/,0.30 ,1.34 ,0.35 ,/
+132,Exon,2B,Missense,Linked inheritance,Arg1308Cys,Exon 44,7537T>C,Ser2513Pro,43.2,30.1,9,5.3,40.3,10.5,/,24,F,A,/,C4,Unpublished,/,0.30 ,1.34 ,0.35 ,/
+133,Exon,2M,Missense,Heterozygous,/,Exon 28,4121G>A,Arg1374His,40.5,22.6,5,/,36.6,25.4,43,35,M,A,6,A1,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.22 ,1.62 ,1.12 ,1.90 
+134,Exon,2M,Missense,Heterozygous,/,Exon 28,4121G>A,Arg1374His,55,18.2,7.6,6,29.1,17.5,45.6,3,F,O,5,A1,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.42 ,1.60 ,0.96 ,2.51 
+135,Exon,2M,Missense,Heterozygous,/,Exon 26,3389G>T,Cys1130Phe,36.8,17.6,7.3,87.5,35.8,15.8,51.9,20,F,B,10,D3,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.41 ,2.03 ,0.90 ,2.95 
+136,Exon,2M,Missense,Heterozygous,/,Exon 28,4120C>T,Arg1374Cys,47,17.5,5.1,16,35.9,16.9,45.3,35,M,O,4,A1,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.29 ,2.05 ,0.97 ,2.59 
+137,Exon,2M,Missense,Heterozygous,/,Exon 28,4121G>A,Arg1374His,49,15.6,4.4,75,31,14.2,47.7,23,F,B,5,A1,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.28 ,1.99 ,0.91 ,3.06 
+138,Exon,2M,Missense,Heterozygous,/,Exon 28,3943C>T,Arg1315Cys,49.4,13.9,5.9,10,37.8,17.4,31.3,10,M,B,5,A1,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.42 ,2.72 ,1.25 ,2.25 
+139,Exon,2M,Missense,Heterozygous,/,Exon 28,4120C>A,Arg1374Ser,36.8,19.1,3.1,/,35.8,22.7,50.3,55,F,O,9,A1,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.16 ,1.87 ,1.19 ,2.63 
+140,Exon,2M,Missense,Compound Heterozygous,"Gly1890Arg, Phe1299Leufs*4, Leu2142Phe",Exon 25,3365C>T,Thr1122Met,36.1,15.6,2.7,78.7,50.8,14.9,13.6,80,F,AB,10,D3,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.17 ,3.26 ,0.96 ,0.87 
+140,Exon,2M,Small Deletion,Compound Heterozygous,"Gly1890Arg, Leu2142Phe, Leu2142Phe",Exon 28,3897delT,Phe1299Leufs*5,36.1,15.6,2.7,78.7,50.8,14.9,13.6,80,F,AB,10,A1,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.17 ,3.26 ,0.96 ,0.87 
+140,Exon,2M,Missense,Compound Heterozygous,"Phe1299Leufs*4, Leu2142Phe, Leu2142Phe",Exon 34,5668G>A,Gly1890Arg,36.1,15.6,2.7,78.7,50.8,14.9,13.6,80,F,AB,10,D4,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.17 ,3.26 ,0.96 ,0.87 
+140,Exon,2M,Missense,Compound Heterozygous,"Gly1890Arg, Phe1299Leufs*4, Leu2142Phe",Exon 37,6424C>T,Leu2142Phe,36.1,15.6,2.7,78.7,50.8,14.9,13.6,80,F,AB,10,D4,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.17 ,3.26 ,0.96 ,0.87 
+141,Exon,2M,Missense,Heterozygous,/,Exon 28,4121G>A,Arg1374His,35.9,26.5,3.3,/,41.7,25.2,41.1,36,F,B,5,A1,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.12 ,1.57 ,0.95 ,1.55 
+142,Exon,2M,Missense,Heterozygous,/,Exon 28,3943C>T,Arg1315Cys,38.4,21.1,8.2,/,74.1,26.7,32.1,33,F,A,/,A1,Unpublished,/,0.39 ,3.51 ,1.27 ,1.52 
+143,Exon,2M,Missense,Heterozygous,/,Exon 28,3943C>T,Arg1315Cys,38.5,27.8,12.4,5.5,48.8,22.3,51.1,40,M,AB,/,A1,Unpublished,/,0.45 ,1.76 ,0.80 ,1.84 
+144,Exon,2M,Missense,Heterozygous,/,Exon 28,3943C>T,Arg1315Cys,40.7,16,5,2,23.8,7.9,/,22,M,O,/,A1,Unpublished,/,0.31 ,1.49 ,0.49 ,/
+145,Exon,2M,Missense,Compound Heterozygous,Glu2233Lys,Exon 28,4613C>A,Thr1538Lys,31.5,23.7,12.5,13.5-1.2/0.6-0.5,47.2,12.2,33.3,58,F,/,/,A2,Unpublished,/,0.53 ,1.99 ,0.51 ,1.41 
+145,Exon,2M,Missense,Compound Heterozygous,Thr1538Lys,Exon 38,6697G>A,Glu2233Lys,31.5,23.7,12.5,13.5-1.2/0.6-0.5,47.2,12.2,33.3,58,F,/,/,D4,Unpublished,/,0.53 ,1.99 ,0.51 ,1.41 
+146,Exon,2M,Missense,Heterozygous,/,Exon 28,3944G>C,Arg1315Pro,39.2,17.7,2.9,2,33.6,10.5,59.4,31,M,B,/,A1,Unpublished,/,0.16 ,1.90 ,0.59 ,3.36 
+147,Exon,2M,Nonsense,Compound Heterozygous,Thr1538Lys,Exon 28,4047T>A,Tyr1349*,34,31,19.3,/,64.2,20.8,67.7,61,F,O,/,A1,Unpublished,/,0.62 ,2.07 ,0.67 ,2.18 
+147,Exon,2M,Missense,Compound Heterozygous,Tyr1349*,Exon 28,4613C>A,Thr1538Lys,34,31,19.3,/,64.2,20.8,67.7,61,F,O,/,A2,Unpublished,/,0.62 ,2.07 ,0.67 ,2.18 
+148,Exon,2M,Missense,Heterozygous,/,Exon 28,4121G>A,Arg1374His,47.3,19.9,6.4,22,7.9,10.1,/,26,M,/,/,A1,Unpublished,/,0.32 ,0.40 ,0.51 ,/
+149,Exon,2M,Small Deletion,Heterozygous,/,Exon 28,4219_4224del,1407_1408del,42.2,13.3,5.8,10,30.5,8.6,32.3,/,M,O,/,A1,Unpublished,/,0.44 ,2.29 ,0.65 ,2.43 
+150,Exon,2M,Missense,Heterozygous,/,Exon 28,3943C>T,Arg1315Cys,43.5,16.5,5.9,/,29,8.6,/,43,F,/,/,A1,Unpublished,/,0.36 ,1.76 ,0.52 ,/
+151,Exon,2M,Missense,Heterozygous,/,Exon 28,3943C>T,Arg1315Cys,37.6,/,3.2,/,29.5,10.4,/,20,F,/,/,A1,Unpublished,/,/,/,/,/
+152,Exon,2M,Missense,Heterozygous,/,Exon 30,5195T>A,Val1732Glu,37.4,14,0,82.6,48.4,8.5,136,32,F,/,/,A3,Unpublished,/,0.00 ,3.46 ,0.61 ,9.71 
+153,Exon,2M,Missense,Linked inheritance,Arg2218Trp,Exon 28,3943C>T,Arg1315Cys,35.3,25.9,2.2,73.2,53.2,19.3,49.9,54,M,A,/,A1,Unpublished,/,0.08 ,2.05 ,0.75 ,1.93 
+153,Exon,2M,Missense,Linked inheritance,3943C>T,Exon 38,6652C>T,Arg2218Trp,35.3,25.9,2.2,73.2,53.2,19.3,49.9,54,M,A,/,D4,Unpublished,/,0.08 ,2.05 ,0.75 ,1.93 
+154,Exon,2M,Missense,Heterozygous,/,Exon 28,4120C>T,Arg1374Cys,35.6,25.9,8,2.1,52.9,15.1,79.6,22,M,O,/,A1,Unpublished,/,0.31 ,2.04 ,0.58 ,3.07 
+155,Exon,2M,Missense,Heterozygous,/,Exon 28,4120C>T,Arg1374Cys,39,22.5,2.4,8,39.8,17.2,/,30,F,B,/,A1,Unpublished,/,0.11 ,1.77 ,0.76 ,/
+156,Exon,2M,Missense,Heterozygous,/,Exon 28,4145T>C,Leu1382Pro,45.7,7.3,1.5,15.4,11.2,4.9,/,14,M,/,/,A1,Unpublished,/,0.21 ,1.53 ,0.67 ,/
+157,Exon,2N,Small Deletion,Compound Heterozygous,Arg816Trp,Exon 15,1911delC,Val638Cysfs*13,110,55.2,51.4,/,1.3,58.2,48.3,65,F,O,14,D2,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.93 ,0.02 ,1.05 ,0.88 
+157,Exon,2N,Missense,Compound Heterozygous,Val638Cysfs*13,Exon 19,2446C>T,Arg816Trp,110,55.2,51.4,/,1.3,58.2,48.3,65,F,O,14,D`,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.93 ,0.02 ,1.05 ,0.88 
+158,Exon,2N,Missense,Compound Heterozygous,Asp1066fs,Exon 18,2396G>A,Cys799Tyr,62.9,9.5,8.9,87.1,6.5,6.9,10.8,3,F,B,6,D`,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.94 ,0.68 ,0.73 ,1.14 
+158,Exon,2N,Small Deletion,Compound Heterozygous,Cys799Tyr,Exon 24,3197_3201del,Asp1066Valfs*25,62.9,9.5,8.9,87.1,6.5,6.9,10.8,3,F,B,6,D3,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.94 ,0.68 ,0.73 ,1.14 
+159,Exon,2N,Missense,Compound Heterozygous,Cys858Trp,Exon 18,2372C>T,Thr791Met,63.2,48.8,49.9,/,6.4,63.9,52.4,7,M,B,3,D`,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,1.02 ,0.13 ,1.31 ,1.07 
+159,Exon,2N,Missense,Compound Heterozygous,Thr791Met,Exon 20,2574C>G,Cys858Trp,63.2,48.8,49.9,/,6.4,63.9,52.4,7,M,B,3,D`,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,1.02 ,0.13 ,1.31 ,1.07 
+160,Exon,2N,Missense,Homologous,/,Exon 19,2446C>T,Arg816Trp,61.8,125.8,119.6,90.5,9.8,127.8,109.8,51,F,O,7,D`,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.95 ,0.08 ,1.02 ,0.87 
+161,Exon,2N,Missense,Compound Heterozygous,Trp285*,Exon 20,2574C>G,Cys858Trp,60.2,11,10.9,/,6.5,11.3,11,29,F,B,2,D`,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.99 ,0.59 ,1.03 ,1.00 
+161,Exon,2N,Nonsense,Compound Heterozygous,Cys858Trp,Exon 7,855G>A,Trp285*,60.2,11,10.9,/,6.5,11.3,11,29,F,B,2,D1,"Liang, Qin, et al. Molecular and clinical profile of VWD in Chinese population: application of next generation sequencing and CNVplex®
+technique",/,0.99 ,0.59 ,1.03 ,1.00 
+162,Exon,2B,Missense,Compound Heterozygous,8116-2delA,Exon 28,4207G>C,Gly1403Arg,45.4,10.7,1.9,87.4,16.9,2.8,66.8,52,M,11,/,A1,Unpublished,/,0.18 ,1.58 ,0.26 ,6.24 
+53,Exon,1,Missense,Heterozygous,/,Eoxn 7,711C>G,Cys237Trp,47.5,32.9,31.9,85.3,75.8,28.4,35,27,F,9,O,D1,Unpublished,/,0.97 ,2.30 ,0.86 ,1.06 

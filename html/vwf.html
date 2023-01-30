@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="zh_CN" xmlns="http://www.w3.org/1999/html">
+<head>
+    <meta charset="UTF-8">
+    <title>VWF数据库</title>
+    <link rel="stylesheet" href="../css/vwf.css" type="text/css">
+    <script src="../Js/search.js" type="text/javascript"></script>
+</head>
+<body>
+<div id="total1">
+    <div class="top">
+        <a href="../php_for_all/main_search.php?permit=<?php echo $permit ;?>" id="none">VWD患者数据库</a> &nbsp;&nbsp;
+        <a href="../php_for_all/mmc.php?permit=<?php echo $permit ;?>" id="none1">VWF突变数据库</a>
+    </div>
+    <div class="main">
+        <div>
+            <select id="s" class="sel">
+                <option selected>patient id</option>
+                <option>VWD type</option>
+                <option>Nucleotide change</option>
+                <option>Amino acid exchange</option>
+                <option>Inheritance</option>
+            </select>
+            <input id="search" class="inp" type="text" placeholder="请输入搜索内容"/>
+            <button id="qstnMark" onclick="search1()">精确匹配</button>
+            <button id="qstnMark2" onclick="search2()">模糊匹配</button>
+            <a href="../html/add.html?permit=<?php echo $permit;?>"><button id="addTmplFile">新增突变信息&nbsp;&nbsp;</button></a>
+<!--            <a href="../html/add.html?permit=<?php echo $permit;?>"><button id="addTmplFile2">文件上传</button></a>-->
+<!--            <button id="addTmplFile" onclick="window.open('../html/add.html? permit = <?php echo $permit ;?>')">新增突变信息</button>-->
+        </div>
+
+        <div style="width:1903px; height:100px;">
+            <table id="table2" cellspacing="0px" border="1"  bordercolor="#00CCCC"  width="300">
+                <thead>
+                <tr class="tableTitle" align="center">
+                    <td class="col1">patient id</td>
+                    <td class="col2">VWD type</td>
+                    <td class="col3">Nucleotide change</td>
+                    <td class="col4">Amino acid exchange</td>
+                    <td class="col5">Inheritance</td>
+                    <td class="col6">References</td>
+                </tr>
+                </thead>
+            </table>
+        </div>
+        <div style="width:1920px; height:1080px; overflow-y:scroll;">
+            <table id="table1" cellspacing="0px">
+                <tbody>
+                <?php foreach($records as $k => $record):?>
+                <tr class="table1 td" align="center">
+                    <td class="col1"><a href="../php_for_all/mutation_search.php?ID=<?php echo $record['ID'];?> & permit=<?php echo $permit;?> "><?php echo $record['ID'] ;?></a></td>
+                    <td class="col2"><?php echo $record['VWD_type'] ;?></td>
+                    <td class="col3"><?php echo $record['Nucleotide_change'] ;?></td>
+                    <td class="col4"><?php echo $record['Amino_acid_exchange'] ;?></td>
+                    <td class="col5"><?php echo $record['Inheritance'] ;?></td>
+                    <td class="col6"><?php if($record['References']==="Unpublished" or $record['References']==="/"){echo $record['References'];}else{echo substr($record['References'], 0, 40), '......' ;} ?></td>
+                </tr>
+                <?php endforeach;?>
+                </tbody>
+            </table>
+        </div>
+        <div id="lowerLbl" align="center">
+            <select id="sel" onclick="pagination()">
+                <option id="opt0" value="10">10条/页</option>
+                <option id="opt1" value="20">20条/页</option>
+                <option id="opt2" value="50">50条/页</option>
+            </select>
+            &nbsp;
+            <button onclick="last()"><</button>
+            <button id="pno" style="background-color: #5899ce; color: white">1</button>
+            <button onclick="next()">></button>
+            &nbsp;
+            <p>前往</p>
+            <input type="text" id="gopg" onclick="gopage()" />
+            <p>页</p>
+        </div>
+    </div>
+</div>
+</body>
+</html>

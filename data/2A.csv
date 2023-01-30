@@ -1,0 +1,25 @@
+﻿Patients,VWD type,Mutation Type,Nucleotide exchange,amino acid exchange,Domain,genotype,activated partial thromboplastin time,VWF antigen level (%),VWF activity level (%),ristocetin-induced platelet agglutination (1.5mg/ml),The activity level of FVIII (%),VWF collagen binding capacity,VWF propeptide level,Blood type,Age,Gender,Bleeding time
+P3,2A 型,Missense,c.4517C>T,p.Ser1506Leu,A2,heterozygous,48,13,5,/,39.1,3.5,46.8,B,7,M,5
+P12,2A 型,Missense,c.4517C>T,p.Ser1506Leu,A2,heterozygous,42,15.8,7.3,7,45.5,4.1,50.3,O,11,M,6
+P13,2A 型,Missense,c.4517C>T,p.Ser1506Leu,A2,heterozygous,37,21.6,9.4,8,53.2,5.7,56.1,O,8,M,5
+P18,2A 型,Missense,c.4735G>A,p.Gly1579Arg,A2,heterozygous,49.4,25,5.2,25,39,6.7,49.6,O,23,M,7
+P26,2A 型,Missense,c.4517C>T,p.Ser1506Leu,A2,heterozygous,47,11.3,3.7,10,45,4,41.7,AB,30,F,14
+P44,2A 型,Missense,c.1870G>A#,p.Gly624Ser,D2,Not Known,41.1,43.6,18.3,/,38.7,16.7,64.8,A,6,M,6
+P45,2A 型,Missense,c.4883T>C,p.Ile1628Thr,A2,Not Known,41.1,43.6,18.3,/,38.7,16.7,64.8,A,7,M,7
+P45,2A 型,Missense,c.4628C>T,p.Ser1543Phe,A2,heterozygous,43.1,23.5,6.5,45,40,15.2,44.5,A,8,F,4
+P53,2A 型,Missense,c.4790G>T,p.Arg1597Leu,A2,heterozygous,42.5,32.1,6,/,50.8,14.7,56.9,O,70,F,9
+P54,2A 型,Splice site,c.875-5T>G#,p.293_333del,D1,heterozygous,43,27,1.8,3.9,44.6,1.1,11.2,A,30,F,4
+P55,2A 型,Missense,c.1099T>G#,p.Cys367Gly,D1,Not Known,/,35.2,14.5,50,57.9,6.5,21.5,O,24,F,8
+P56,2A 型,Missense,c.2423G>A#,p.Cys808Tyr,D',Not Known,/,35.2,14.5,50,57.9,6.5,21.5,O,25,F,9
+P57,2A 型,Missense,c.1450C>A#,p.His484Ser,D2,Not Known,/,35.2,14.5,50,57.9,6.5,21.5,O,26,F,10
+P56,2A 型,Missense,c.4517C>T,p.Ser1506Leu,A2,heterozygous,42.7,15.4,7.1,40.4,43.3,2.4,43.8,B,6,M,13
+P58,2A 型,Missense,c.4790G>T,p.Arg1597Leu,A2,heterozygous,47.9,17.1,2.3,16.5,44.3,3.7,41.1,O,27,F,8
+P68,2A 型,Missense,c.3830A>G#,p.Asp1277Gly,A1,heterozygous,/,14.1,1.3,64.6,42.3,7.3,16.9,A,12,F,12
+P90,2A 型,Missense,c.6979T>A#,p.Cys2327Ser,C1,Compound heterozygous,50,180.3,5.5,7.9,10.7,2.6,231.7,O,38,F,12
+P91,2A 型,Splice site,c.1730-2A>G,/,D2,Compound heterozygous,50,180.3,5.5,7.9,10.7,2.6,231.7,O,39,F,13
+P6,2A 型,Missense,c.3920T>G#,p.Leu1307Arg,A1,heterozygous,36,18.5,5.8,3.6,39,4.9,36.4,AB,57,M,15
+P92,2A 型,Missense,c.4517C>T,p.Ser1506Leu,A2,heterozygous,42.3,11.3,9.7,3.9,35.2,2.4,29.3,A,26,F,/
+P97,2A 型,Missense,c.3446G>C,p.C1149S,D3,heterozygous,44,25.8,15.7,97.3,40.5,14.2,/,/,27,F,/
+P101,2A 型,Missense,c.2588G>A,p.C863Y,D',Compound heterozygous,51.5,20.2,4.7,45.4,12.4,5.4,13.8,AB,2,M,/
+P102,2A 型,nonsense,c.4815delC,p.Y1605X,A2,Compound heterozygous,51.5,20.2,4.7,45.4,12.4,5.4,13.8,AB,3,M,/
+P149,2A 型,Missense,c.4825G>A,p.Gly1609Arg,A2,heterozygous,31.7,78,30.7,88.2,85.9,19.9,/,B,67,F,/
